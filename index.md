@@ -20,8 +20,6 @@ In this self-paced workshop you will learn steps to: 
 - Find textual data for digital analysis  
 - Choose the best tool for your dataset at each stage of the digital research process.  -->
 
-{% capture outcomes %}
-
 | At the end of these lessons you should be able to: |
 | -----|
 |**Implement** a basic workflow for researching with digital text; |
@@ -29,10 +27,6 @@ In this self-paced workshop you will learn steps to: 
 | **Find** textual data for digital analysis, and; |
 | **Choose** the best tool for your dataset at each stage of the digital research process. |
 {:.table}
-
-{% endcapture %}
-
-{% include card.html header="Learning outcomes" text=outcomes %}
 
 Download and play with software and datasets, do activities and watch videos to guide you through the lessons.
 
