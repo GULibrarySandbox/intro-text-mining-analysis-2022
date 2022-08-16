@@ -33,7 +33,7 @@ github_username: GriffithUniLibrary
 # year or date published
 pub_year: 2022
 # location of code, the full url to your github repository
-repo: "https://github.com/GriffithUniLibrary/intro-text-mining-analysis/"
+repo: "https://github.com/GriffithUniLibrary/intro-text-mining-analysis"
 
 ##########
 # URL VARIABLES [optional!]
