@@ -21,7 +21,7 @@ before you start you will need to know the image quality requirements of visulat
 
 Explore From [Data to Viz](https://www.data-to-viz.com/) interactive help to find the most appropriate graph for your data.  
 <br>
-{% include button.md text="Data to Viz" link="https://www.data-to-viz.com/" color="info" %}
+{% include button.html text="Data to Viz" link="https://www.data-to-viz.com/" color="info" %}
 <br>
 Then check out the images below to identify which tool can create the chart type you need.
 
@@ -50,7 +50,7 @@ For mapping data we can use tools such as <a href='https://aurin.org.au/' target
 - .{% endcapture %} {% include card.html header="Activity - ..." text=text %}
 
 
-{% include button.md text="Watch this video to learn the steps" link="https://vimeo.com/..." color="info" %}
+{% include button.html text="Watch this video to learn the steps" link="https://vimeo.com/..." color="info" %}
 
 -----
 
