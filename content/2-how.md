@@ -3,7 +3,7 @@ title: How
 topics: Activities; Considerations; Workflow steps
 nav: true
 ---
-# Activities and workflows in text mining and analysis
+# Activities and workflows
 
 A text mining and analysis workflow is a messy, iterative and complex process. It’s often like the diagram below. "Depending on the project, a researcher may repeat certain steps in small cycles, or return to previous steps, or do some exploratory steps to determine next steps." (Green, et al. 2018)
 
