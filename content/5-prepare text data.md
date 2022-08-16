@@ -39,14 +39,7 @@ There can be a number of steps to prepare, clean, then format text data dependin
 
 ### How to clean text
 
-No preparation tool will create perfect text.  Errors will be generated in the transcription or conversion processes. You may need to manually review and clean the text, correcting errors generated from OCR (Optical character recognition) of scanned images of pages, misinterpretations of spoken words, and other transcription errors. Some programs are available to automate some cleaning processes such as Python, read about how to do this from [machinelearningmastery.com](https://machinelearningmastery.com/clean-text-machine-learning-python/). Some processing and analysis tools enable you to clean the text prior to analysis, such as Voyant tools. More on this in the next lesson. 
-
-### How to format text
-
-All text documents need to be formatted for machine readability by software programs or code.
-- `.txt` : is the best format as it is non-proprietary & used in text analysis tools.
-- `.csv` : is the best format for structured text data in spreadsheets and can be read by tools such as Nvivo  
-- `.pdf` : that has been OCR processed (not just an image, the text can be read by the software) is accepted by some analysis tools.
+No preparation tool will create perfect text.  Errors will be generated in the transcription or conversion processes. You may need to manually review and clean the text, correcting OCR (Optical character recognition) of scanned images of pages, misinterpretations of spoken words, and other transcription errors. Programs such as Python can automate some cleaning processes. Read about this at [machinelearningmastery.com](https://machinelearningmastery.com/clean-text-machine-learning-python/). You can also clean text prior using some analysis tools, such as Voyant tools. More on this in the next lesson. 
 
 ### Unstructured vs structured text and machine readibility
 
@@ -54,17 +47,12 @@ Humans understand that language, and the text that represents it, is highly comp
 - Unstructured text may include text from narratives (books, articles etc.), interviews, survey responses with free text and more.  
 - Structured text can include metadata from GLAM catalogues or finding aides, text in structured databases, possibly spreadsheets, even old ledgers and logbooks. 
 
-There are different processes that need to be undertaken to prepare structured vs unstructured text.
+### How to format structured and unstructured text
 
-#### Unstructured text formats 
-- Text data must be free of white space to make it computationally readable.  
-   For modern pdfs this no trouble, for older texts you might need to transcribe the data, or clean the data, as scanned text may read as an image.
-- All tools in the table above can be used for preparing unstructured text data and OpenRefine can help provide structure to unstructured text.
-- Unstructured text in file formats such as `.doc` , `.docx`, `.rtf` (rich text format) can be exported as `.txt` via Microsoft Word.
-
-#### Structured text formats
-- spreadsheet data like an excel sheet, reformat as a `.csv` file 
-- file formats including `.xml`, `JSON`, `html`, import and convert using Microsoft Excel into `.csv` or `.txt` delimited text file, in which a `tab` separates each field of text.
+All text documents need to be formatted for machine readability by software programs or code, let's look at the different formats for structured and unstructured text.
+- `.txt` : is the best format for unstructured text as it is non-proprietary & used in all text analysis tools. Unstructured text in file formats such as `.doc` , `.docx`, `.rtf` (rich text format) can be exported as `.txt` via Microsoft Word.
+- `.csv` : is the best format for structured text data in spreadsheets and can be read by tools such as Nvivo. Use Microsoft Excel to convert file formats such as `.xml`, `JSON`, `.html` into `.csv.` or `.txt` delimited text file, in which a `tab` separates each field of text.
+- `.pdf` : that has been OCR processed is accepted by some analysis tools. For older texts you might need to transcribe the text or clean the data as the .pdf may be an image of a scanned document.
 
 ------
 
