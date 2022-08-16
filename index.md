@@ -3,34 +3,40 @@ title: Home
 layout: default
 ---
 
-# Griffith Library Workshop Template
+# Introduction to text mining and analysis
 
-{% include figure.html img="university-drive.jpg" alt="Students on University Drive, Gold Coast Campus" caption="University Drive" width="75%" %}
+{% include figure.html img="wordsearch.png" alt="A wordsearch puzzle" caption="" width="50%" %}
 
-A minimal Jekyll theme with Bootstrap for creating workshop websites.
+In this self-paced workshop you will learn steps to: 
 
-> Customised from Evan Williamsons's original Workshop-Template-B to include Griffith Library author and analytics info. This version reflects the November 2021 version of the template that uses Bootstrap 5 and has some new features, as well as the use of Bootstrap icons instead of FontAwesome.
+- Build:    find where and how to gather textual data for your corpus or data set  
+- Prepare:  explore useful processes and tools to prepare textual data for analysis
+- Analyse:  identify different types of analysis used to interrogate content and uncover new insights
 
-*Add your workshop abstract here!*
+<!-- At the end of these lessons you should be able to:
 
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
+- Implement a basic workflow for researching with digital text  
+- Identify different types of textual data and usage considerations   
+- Find textual data for digital analysis  
+- Choose the best tool for your dataset at each stage of the digital research process.  -->
 
-{% capture whatsdifferent %}
-This template has been 'Griffithised' in the following ways: 
+{% capture outcomes %}
 
- - Library Google Analytics ID added
- - Publication year updated
- - Content author set as Griffith Uni Library
- - Griffith campus feature photo added
- - Griffith favicon added
- - Thin top bar coloured with 'Griffith Red' (#e30918)
-
-{% include alert.html text="That's fantastic!" color="info" %}
+| At the end of these lessons you should be able to: |
+| -----|
+|**Implement** a basic workflow for researching with digital text; |
+| **Identify** different types of textual data and usage considerations; |
+| **Find** textual data for digital analysis, and; |
+| **Choose** the best tool for your dataset at each stage of the digital research process. |
+{:.table}
 
 {% endcapture %}
-{% include card.html header="What's been changed?" text=whatsdifferent %}
+
+{% include card.html header="Learning outcomes" text=outcomes %}
+
+Download and play with software and datasets, do activities and watch videos to guide you through the lessons.
+
+Want to text mine via webscraping?  Check out these [Web Scraping with Python](https://gu-eresearch.github.io/web_scraping_workshop/) lessons.
 
 {% include toc.html %}
 
