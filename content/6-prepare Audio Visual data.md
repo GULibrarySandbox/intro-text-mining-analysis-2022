@@ -1,5 +1,5 @@
 ---
-title: Audio & Video
+title: Audio Video
 topics: Interview transcription
 nav: true
 ---
@@ -31,10 +31,6 @@ Find out how to classify and treat your research data securely at [Griffith's In
 
 ## Annotation 
 - [Elan](https://archive.mpi.nl/tla/elan) : downloadable software to annotate audio and video recordings. This tool is used by linguists to analyse sounds, accents and pronounciations. Supported by a number of international research centres including the [(ARC) Centre of Excellence for the Dynamics of Language](https://www.dynamicsoflanguage.edu.au/).
-
-## How to clean the results 
-
-No transcription tool will create perfect text. Errors will be generated in the process. You may need to manually review and clean the text, misinterpretations of spoken words, and other transcription errors. Some programs are available to automate some cleaning processes such as Python, read about how to do this from machinelearningmastery.com. Some processing and analysis tools enable you to clean the text prior to analysis, such as Voyant tools. More on this in the next lesson.
 
 Next up : Process and analysis methods and tools.
 
