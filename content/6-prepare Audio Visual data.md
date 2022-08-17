@@ -6,9 +6,7 @@ nav: true
 
 # Video and Audio data 
 
-{% include figure.html img="old-cassettes" caption="A collection of analogue video cassettes" %}
-
-<!-- ![image](https://user-images.githubusercontent.com/42364968/169417549-371d6781-7efd-4f03-b2a3-49c30f46de34.png) -->
+{% include figure.html img="Webster_MicrophoneImage.jpg" alt="Audio recording image" caption="Audio recording by [Tony Webster](https://flic.kr/p/2cx9eWC) CC BY 2.0" width="100%" %}
 
 The preparation of video and audio data is hugely important if you are analysing interview content, annotating sounds, recording the views and emotions of focus groups or note taking from video observations.
  
