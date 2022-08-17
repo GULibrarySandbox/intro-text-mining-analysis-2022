@@ -22,7 +22,7 @@ If you are analysing the sounds, such as accents or pronounciations of words, yo
 
 ### Services for public data
 - [YouTube](https://support.google.com/youtube/topic/9257536?hl=en&ref_topic=9257610) or [Vimeo](https://vimeo.com/blog/post/how-to-transcribe-a-video/) :  Both applications can generate text transcriptions of the audio and provide means and tools for corrections. 
-- [Google docs](https://support.google.com/docs/answer/4492226?hl=en https://support.google.com/accessibility/android/answer/9158064?hl=en) : can transcribe audio as it is spoken, it will work with voice to microphone but may not work with a recording.
+- [Google docs type with your voice](https://support.google.com/docs/answer/4492226?hl=en) option and [Android Live Transcribe](https://support.google.com/accessibility/android/answer/9158064?hl=en) can transcribe audio as it is spoken, it will work with voice to microphone but may not work with a recording.
 - [Microsoft Word dictation button](https://support.microsoft.com/en-us/office/dictate-your-documents-in-word-3876e05f-3fcc-418f-b8ab-db7ce0d11d3c?ns=winword&version=90&ui=en-us&rs=en-us&ad=us) : will transcribe as you speak, a way to get interviews transcribed as they are undertaken but will require corrections.
 
 There are data security issues to consider when using the services above. The data may be shared with third parties, mined for information, or stored in an off-shore location.
