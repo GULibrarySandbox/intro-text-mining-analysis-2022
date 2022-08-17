@@ -4,15 +4,11 @@ topics: Processing methods; NLP; Common tasks; Useful tools; Useful platforms; C
 nav: true
 ---
 
-# Process & Analyse - methods and tools
+## Processing methods
 
------
+Once the text is cleaned and formatted it can be computationally processed using a number of different methods, depending on your analysis needs. Explore some of popular the methods below. 
 
-### Processing methods
-
-Once the text is cleaned and formatted it can be computationally processed by a number of different methods, depending on your analysis needs. Explore some of popular the methods below. 
-
-#### Natural language processing (NLP) techniques
+## Natural language processing (NLP) techniques
 
 Natural language processing (NLP) is the branch of artificial intelligence (AI) technology to train a computer to understand, process, and generate language. Search engines, machine translation services, and voice assistants are all powered by the technology. Source: [Bell & Olavsrud, 2021](https://www.cio.com/article/228501/natural-language-processing-nlp-explained.html view 19-01-2021)
 
@@ -31,7 +27,7 @@ These following Natural language processing tasks break down text into analysabl
 
 {% include figure.html img="BagOfWords.PNG" alt="Bag of words" caption="Natural Language Processing - tokenization" width="100%" %}
 
-#### Machine learning
+## Machine learning
 Machine learning is a branch of AI and process of teaching a computer system to recognise patterns in text without explicit human programming. Machine learning can be either unsupervised (with minimal human intervention) or supervised (with more human intervention). Explore machine learning from [Heath, 2020](https://www.zdnet.com/article/what-is-machine-learning-everything-you-need-to-know/). Analysis using Machine learning includes topic modelling, and Naive Bayes Classification, which are detailed below.
 
 
@@ -42,7 +38,7 @@ Explore some common analysis that can be undertaken by computational methods.
 {% include figure.html img="TextAnalysisTasks.PNG" alt="Text analysis tasks" caption="Text analysis tasks" width="100%" %}
 Image Source: Jänicke, S. et. al.(2017)
 
-#### Text pattern analysis
+### Text pattern analysis
 
 | Linguistic patterns | ie. word frequency analysis which is useful for historical exploration of language as well as topic identification |
 | Collocation | words commonly appearing near each other |
@@ -51,7 +47,7 @@ Image Source: Jänicke, S. et. al.(2017)
 | Dictionary tagging | locates a specific set of words in texts |
 {:.table .table-bordered}
 
-#### Analysing one or a number of texts of interest
+### Analysing one or a number of texts of interest
 
 | Method | Description | Example |
 | Topic modeling | Unsupervised machine learning to identify groups of terms that may be representative of a given topic, uncovering hidden themes. | [Topic mapping for a literature review](https://doi.org/10.1111/faf.12399) |
