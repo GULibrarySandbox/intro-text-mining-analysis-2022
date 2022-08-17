@@ -17,7 +17,7 @@ If you are analysing the sounds, such as accents or pronounciations of words, yo
 ## Transcription 
 
 ### Services for sensitive data
-- Griffith provides a [Speech to text service](https://www.griffith.edu.au/eresearch-services/speech-to-text) to reserachers. The service uses the Microsoft Azure tools to transcribe the data and has associated costs. It is suitable for use with sensitive data.
+- Griffith [Speech to text service](https://www.griffith.edu.au/eresearch-services/speech-to-text) to reserachers. The service uses the Microsoft Azure tools to transcribe the data and has associated costs. It is suitable for use with sensitive data.
 - [Alveo](https://www.alveo.edu.au/) : [transcription tool](https://www.alveo.edu.au/2018/04/11/alveo-transcription-tool/) is available to researchers in Australia. This tool was used extensively in the [SLNSW Amplify project](https://www.sl.nsw.gov.au/public-library-services/amplify-audio-transcription-tool). Requires an account.
 
 ### Services for public data
