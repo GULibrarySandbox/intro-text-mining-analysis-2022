@@ -1,12 +1,12 @@
 ---
-title: Prepare Audio & Video
+title: Audio & Video
 topics: Interview transcription
 nav: true
 ---
 
-# Audio and video data 
+# Audio and video data - transcription and annotation 
 
-{% include figure.html img="Webster_MicrophoneImage.jpg" alt="Audio recording image" caption="Audio recording by [Tony Webster](https://flic.kr/p/2cx9eWC) CC BY 2.0" width="100%" %}
+{% include figure.html img="Webster_MicrophoneImage.jpg" alt="Audio recording image" caption="Audio recording by Tony Webster https://flic.kr/p/2cx9eWC  CC BY 2.0" width="75%" %}
 
 Researchers prepare audio and video data in order to analyse interview content, annotate sounds or visual information, including the views and emotions of focus groups, or to take notes from video observations.
  
@@ -37,8 +37,6 @@ Find out how to classify and treat your research data securely at [Griffith's In
 No transcription tool will create perfect text. Errors will be generated in the process. You may need to manually review and clean the text, misinterpretations of spoken words, and other transcription errors. Some programs are available to automate some cleaning processes such as Python, read about how to do this from machinelearningmastery.com. Some processing and analysis tools enable you to clean the text prior to analysis, such as Voyant tools. More on this in the next lesson.
 
 Next up : Process and analysis methods and tools.
-
------
 
 <p align="center">
   <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/5-build.html"><-- BACK</a> |
