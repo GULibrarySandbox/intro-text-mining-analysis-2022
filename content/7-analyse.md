@@ -16,11 +16,11 @@ These following Natural language processing tasks break down text into analysabl
 
 | NLP method | Description | Example |
 | Tokenization |Splits the text into sentences and sentences into words; changes to lowercase and removes punctuation. | This is creates a 'bag of words' for analysis |
-| Stop word removal | Uses standard language stop word dictionaries which can be amended. | the, and, it so, this, page, of.... |
-| Lemmatization | Third person words are changes to first person and verbs in past and future tenses are change into present. | change, changing, changes, changed... to change |
-| Word stemming | Words are reduced to their root form. | victorious, victories, victory... to victor |
+| Stop word removal | Uses standard language stop word dictionaries which can be amended. | removes words such as the, and, it so, this, page, of.... |
+| Lemmatization | Third person words are changed to first person and verbs in past and future tenses are change into present. | Alters change, changing, changes, changed... to change |
+| Word stemming | Words are reduced to their root form. | Changes victorious, victories, victory... to victor |
 | Special characters removed | Characters that cannot be understood are removed. | * @ # ! >> |
-| Part-of-speech tagging | Categorises words in a text in correspondence with a particular part of speech. | Her (pronoun) hat (noun) is (verb) grey (adjective) |
+| Part-of-speech tagging | Categorises words in a text in correspondence with a particular part of speech. | Her `(pronoun)` hat `(noun)` is `(verb)` grey `(adjective)`. |
 | Shallow parsing | Chunks phrases from unstructured text. | Identifies sentences, verb phrases, noun phrases |
 | Syntactic parsing | Finds structural relationships between words in a sentence. | Can for example identify a noun phrase as being formed by a determiner , followed by an adjective, followed by a noun. |
 {:.table .table-bordered}
@@ -28,10 +28,10 @@ These following Natural language processing tasks break down text into analysabl
 {% include figure.html img="BagOfWords.PNG" alt="Bag of words" caption="Natural Language Processing - tokenization" width="100%" %}
 
 ## Machine learning
-Machine learning is a branch of AI and process of teaching a computer system to recognise patterns in text without explicit human programming. Machine learning can be either unsupervised (with minimal human intervention) or supervised (with more human intervention). Explore machine learning from [Heath, 2020](https://www.zdnet.com/article/what-is-machine-learning-everything-you-need-to-know/). Analysis using Machine learning includes topic modelling, and Naive Bayes Classification, which are detailed below.
+Machine learning is a branch of AI and a process of teaching a computer system to recognise patterns in text without explicit human programming. Machine learning can be either unsupervised (with minimal human intervention) or supervised (with more human intervention). Explore machine learning at [Zdnet.com](https://www.zdnet.com/article/what-is-machine-learning-everything-you-need-to-know/). Analysis using Machine learning includes topic modelling, and Naive Bayes Classification, which are detailed below.
 
 
-## Common computational analysis tasks
+# Common computational analysis tasks
 
 Explore some common analysis that can be undertaken by computational methods. 
 
@@ -40,10 +40,10 @@ Image Source: Jänicke, S. et. al.(2017)
 
 ### Text pattern analysis
 
-| Linguistic patterns | ie. word frequency analysis which is useful for historical exploration of language as well as topic identification |
-| Collocation | words commonly appearing near each other |
-| Concordance | the contexts of a given word or set of words |
-| N-grams | common two-, three-, etc. word phrases |
+| Linguistic patterns | such as word frequency analysis which is useful for historical exploration of language as well as topic identification |
+| Collocation | identifying words commonly appearing near each other |
+| Concordance | shows the context of (the words around) a given word or set of words |
+| N-grams | finds common two-, three-, etc. word phrases see [Google books Ngram viewer](https://books.google.com/ngrams/) |
 | Dictionary tagging | locates a specific set of words in texts |
 {:.table .table-bordered}
 
