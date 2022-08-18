@@ -11,10 +11,10 @@ Visualising data can help us understand complex information quickly. Transformin
 - identify trends
 - communicate insights with impact
 
-The content on this page has been adapted from our self paced training resource available <a href='https://griffithunilibrary.github.io/data-vis-basics/' target='_blank'> here </a>
+Many of the text analysis tools previously explored, create visualisations of results.
 
 
-## Create a publication quality image of your visualisation
+
 
 
 ### Choose the right visualisation type for your data 
@@ -42,6 +42,8 @@ With unstrucutred data, generally prose, articles, diary entries and alike, <a h
 
 
 {% include button.html text="Watch this video to learn the steps" link="https://vimeo.com/..." color="info" %}
+
+## Create a publication quality image of your visualisation
 
 -----
 
