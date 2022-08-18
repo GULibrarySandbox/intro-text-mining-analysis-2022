@@ -23,13 +23,7 @@ Explore From [Data to Viz](https://www.data-to-viz.com/) interactive help to fin
 <br>
 {% include button.html text="Data to Viz" link="https://www.data-to-viz.com/" color="info" %}
 <br>
-Then check out the images below to identify which tool can create the chart type you need.
-
-
-{% include figure.html img="DataViz1.PNG" alt="Data to Viz - tools" caption="Data to Viz - tools" width="100%" %} 
-{% include figure.html img="DataViz2.PNG" alt="Data to Viz - tools" width="100%" %}
-
-The Data to Viz team also provide a collection of really useful tips and caveats for using charts [here](https://www.data-to-viz.com/caveats.html).
+The Data to Viz team also provide a collection of really useful tips and caveats for using visualisations [here](https://www.data-to-viz.com/caveats.html).
 
 ## Types of visualistaions
 
@@ -42,9 +36,6 @@ With structured data or tabular sets we can generate visualisations using tools 
 
 With unstrucutred data, generally prose, articles, diary entries and alike, <a href='https://voyant-tools.org/' target='_blank'>Voyant tools</a> will generate easy to use visualisations. For more complex analysis and visualisation we can use Python code.
 
-For mapping data we can use tools such as <a href='https://aurin.org.au/' target='_blank'>AURIN </a>, and even google earth. For Aurin you will need structured datasets with coordinates. 
-
-- other data types 
 
 {% capture text %}
 - .{% endcapture %} {% include card.html header="Activity - ..." text=text %}
