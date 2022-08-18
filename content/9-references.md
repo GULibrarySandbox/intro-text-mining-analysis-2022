@@ -4,6 +4,8 @@ nav: true
 ---
 # References
 
+Baruah S, Somandepalli K, Narayanan S (2022) Representation of professions in entertainment media: Insights into frequency and sentiment trends through computational text analysis. PLOS ONE 17(5): e0267812. https://doi.org/10.1371/journal.pone.0267812
+
 Francis Bacon Network [2, 1562-1626, 61-100%]." Six Degrees of Francis Bacon. [http://www.sixdegreesoffrancisbacon.com/?ids=10000473&min_confidence=60&type=network, 8/6/2021](http://www.sixdegreesoffrancisbacon.com/?ids=10000473&min_confidence=60&type=network, 8/6/2021)
 
 Heath, N. (2020). What is machine learning? Everything you need to know. *zdnet*, [https://www.zdnet.com/article/what-is-machine-learning-everything-you-need-to-know/](https://www.zdnet.com/article/what-is-machine-learning-everything-you-need-to-know/)
@@ -11,6 +13,10 @@ Heath, N. (2020). What is machine learning? Everything you need to know. *zdnet*
 Ignatow, G., & Mihalcea, R. (2018). Basic text processing. In An introduction to text mining (pp. 99-114). SAGE Publications, Inc, [https://dx.doi.org/10.4135/9781506336985.n8](https://dx.doi.org/10.4135/9781506336985.n8)
 
 Jänicke, S., Franzini, G., Cheema, M. F., & Scheuermann, G. (2017, September). Visual text analysis in digital humanities. In *Computer Graphics Forum*(Vol. 36, No. 6, pp. 226-250) [https://doi-org.libraryproxy.griffith.edu.au/10.1111/cgf.12873](https://doi-org.libraryproxy.griffith.edu.au/10.1111/cgf.12873)
+
+Kirchhoffer, D. G., & Lui, C. W. (2021). Public reasoning about voluntary assisted dying: An analysis of submissions to the Queensland Parliament, Australia. Bioethics, 35(1), 105-116.
+
+Law, D. S. (2018). The global language of human rights: a computational linguistic analysis. The Law & Ethics of Human Rights, 12(1), 111-150.10.1515/lehr-2018-0001, [https://core.ac.uk/download/pdf/95563172.pdf](https://core.ac.uk/download/pdf/95563172.pdf)
 
 Schreibman, S., Siemens, R. G., & Unsworth, J. (2016). A new companion to digital humanities (Ser. Blackwell companions to literature and culture, 93). Chichester, West Sussex, UK. Retrieved August 15, 2022, from INSERT-MISSING-URL.
 
