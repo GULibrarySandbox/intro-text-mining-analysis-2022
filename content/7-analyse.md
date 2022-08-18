@@ -12,7 +12,7 @@ Once the text is cleaned and formatted it can be computationally processed using
 
 Natural language processing (NLP) is the branch of artificial intelligence (AI) technology to train a computer to understand, process, and generate language. Search engines, machine translation services, and voice assistants are all powered by the technology. Source: [Bell & Olavsrud, 2021](https://www.cio.com/article/228501/natural-language-processing-nlp-explained.html view 19-01-2021)
 
-These following Natural language processing tasks break down text into analysable parts:
+The following NLP tasks break down text into analysable parts:
 
 | NLP method | Description | Example |
 | Tokenization |Splits the text into sentences and sentences into words; changes to lowercase and removes punctuation. | This is creates a 'bag of words' for analysis |
@@ -58,7 +58,7 @@ Image Source: Jänicke, S. et. al.(2017)
 | Stylometry | Statistical method of studying a linguistic style. | Used in [forensic](https://ieeexplore.ieee.org/abstract/document/9107953), [attribution](https://doi.org/10.12697/smp.2018.5.2.02) and [genre](https://doi.org/10.1093/llc/fqac019) analysis. |
 {:.table .table-bordered}
 
-Learn more about these methods and types of analysis from:
+Learn more about these methods from:
 - [Australian Text Analytics Platform Methods Guide](https://www.atap.edu.au/methods)
 - [An Introduction to Text Mining: Research Design, Data Collection, and Analysis ebook](https://methods.sagepub.com/book/an-introduction-to-text-mining/i1237.xml)
 - Prof. Miriam Possner's [Topic Modelling online tutorials](http://miriamposner.com/classes/dh201w21/tutorials-guides/text-analysis/messing-around-with-the-topic-modeling-tool/)
