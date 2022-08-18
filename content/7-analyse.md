@@ -33,7 +33,7 @@ Machine learning is a branch of AI and a process of teaching a computer system t
 
 # Common computational analysis tasks
 
-Explore some common analysis that can be undertaken by computational methods. 
+Explore some common computational text analysis methods. 
 
 {% include figure.html img="TextAnalysisTasks.PNG" alt="Text analysis tasks" caption="Text analysis tasks" width="100%" %}
 Image Source: Jänicke, S. et. al.(2017)
