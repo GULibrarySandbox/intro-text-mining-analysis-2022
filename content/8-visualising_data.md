@@ -3,7 +3,7 @@ title: Visualise
 topics: Requirements; Types of visualisations; 
 nav: true
 ---
-### Visualisation methods and tools
+# Visualisation methods and tools
 
 Visualising data can help us understand complex information quickly. Transforming data into a visual format can:
 
@@ -14,8 +14,8 @@ Visualising data can help us understand complex information quickly. Transformin
 The content on this page has been adapted from our self paced training resource available <a href='https://griffithunilibrary.github.io/data-vis-basics/' target='_blank'> here </a>
 
 
-## Requirements
-before you start you will need to know the image quality requirements of visulations. we cover this in detail in the linked workshop. 
+## Create a publication quality image of your visualisation
+
 
 ### Choose the right visualisation type for your data 
 
