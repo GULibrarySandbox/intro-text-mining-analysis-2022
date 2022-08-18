@@ -20,7 +20,7 @@ Toon, E., Timmermann, C., & Worboys, M. (2016). Text-mining and the history of m
 
 Tsuruoka, Y (n.d.) *Sentence splitting, tokenization, language modeling, and part-of-speech tagging with hidden Markov models tutorial*.  National Centre for Text Mining, http://www.nactem.ac.uk/teaching/ 
 
-
+Whalen, Ryan, Judicial Gobbledygook: The Readability of Supreme Court Writing (November 19, 2015). Yale Law Journal Forum (2015), Available at SSRN: https://ssrn.com/abstract=3000125
 
 <p align="center">
   <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/8-vis.html"><-- BACK</a>
