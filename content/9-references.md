@@ -14,7 +14,7 @@ Ignatow, G., & Mihalcea, R. (2018). Basic text processing. In An introduction to
 
 Jänicke, S., Franzini, G., Cheema, M. F., & Scheuermann, G. (2017, September). Visual text analysis in digital humanities. In *Computer Graphics Forum*(Vol. 36, No. 6, pp. 226-250) [https://doi-org.libraryproxy.griffith.edu.au/10.1111/cgf.12873](https://doi-org.libraryproxy.griffith.edu.au/10.1111/cgf.12873)
 
-Kirchhoffer, D. G., & Lui, C. W. (2021). Public reasoning about voluntary assisted dying: An analysis of submissions to the Queensland Parliament, Australia. Bioethics, 35(1), 105-116.
+Kirchhoffer, D. G., & Lui, C. W. (2021). Public reasoning about voluntary assisted dying: An analysis of submissions to the Queensland Parliament, Australia. Bioethics, 35(1), 105-116. [https://doi.org/10.1111/bioe.12777]( https://doi.org/10.1111/bioe.12777)
 
 Law, D. S. (2018). The global language of human rights: a computational linguistic analysis. The Law & Ethics of Human Rights, 12(1), 111-150.10.1515/lehr-2018-0001, [https://core.ac.uk/download/pdf/95563172.pdf](https://core.ac.uk/download/pdf/95563172.pdf)
 
