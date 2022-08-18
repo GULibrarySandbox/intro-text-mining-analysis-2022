@@ -18,6 +18,8 @@ Kirchhoffer, D. G., & Lui, C. W. (2021). Public reasoning about voluntary assist
 
 Law, D. S. (2018). The global language of human rights: a computational linguistic analysis. The Law & Ethics of Human Rights, 12(1), 111-150.10.1515/lehr-2018-0001, [https://core.ac.uk/download/pdf/95563172.pdf](https://core.ac.uk/download/pdf/95563172.pdf)
 
+Nalau, J., & Verrall, B. (2021). Mapping the evolution and current trends in climate change adaptation science. Climate Risk Management, 32, 100290. https://doi.org/10.1016/j.crm.2021.100290
+
 Schreibman, S., Siemens, R. G., & Unsworth, J. (2016). A new companion to digital humanities (Ser. Blackwell companions to literature and culture, 93). Chichester, West Sussex, UK. Retrieved August 15, 2022, from INSERT-MISSING-URL.
 
 So, R., & Roland, E. (2020). Race and Distant Reading. PMLA/Publications of the Modern Language Association of America, 135(1), 59-73. doi:10.1632/pmla.2020.135.1.59
