@@ -27,6 +27,8 @@ Paulus, Trena M., and Alyssa Friend Wise. Looking for Insight, Transformation, a
 
 Nalau, J., & Verrall, B. (2021). Mapping the evolution and current trends in climate change adaptation science. Climate Risk Management, 32, 100290. https://doi.org/10.1016/j.crm.2021.100290
 
+Rogers, R., Sánchez-Querubín, N., & Kil, A. (2015). Issue mapping for an ageing Europe. Amsterdam University Press. https://library.oapen.org/handle/20.500.12657/33128 
+
 Schreibman, S., Siemens, R. G., & Unsworth, J. (2016). A new companion to digital humanities (Ser. Blackwell companions to literature and culture, 93). Chichester, West Sussex, UK. Retrieved August 15, 2022, from INSERT-MISSING-URL.
 
 So, R., & Roland, E. (2020). Race and Distant Reading. PMLA/Publications of the Modern Language Association of America, 135(1), 59-73. doi:10.1632/pmla.2020.135.1.59
