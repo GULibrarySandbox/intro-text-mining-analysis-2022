@@ -6,7 +6,7 @@ nav: true
 
 # Building a dataset
 
-A dataset can be built either through finding and extracting existing data, collating resources or generating your own data. Building a dataset can be as simple as collecting PDFs from your literature search, or as complex as transribing handwritten texts and converting into a computational format.  Note that datasets in humanities research are also known as corpus. No matter how the dataset is created there are a few things that are required. The data needs to be clean and machine readable, and if you are using tabular or structured data, your dataset needs to be formatted consistently. 
+A dataset can be built either through finding and extracting existing data, collating resources or generating your own data. Building a dataset can be as simple as collecting PDFs from your literature search, or as complex as finding then transribing handwritten texts and converting them into a computational format.  
 
 The first step is to find the dataset or corpus of interest.
 
@@ -14,17 +14,21 @@ The first step is to find the dataset or corpus of interest.
 
 {% include figure.html img="GLAMCollections.PNG" alt="Find data in GLAM collections" caption="Find data in GLAM collections" width="100%" %}
 
-Digitisation, Optical Character Recognition (OCR) processing, indexing, encoding, and online hosting of primary source materials by `archives, libraries, museums and galleries (GLAM sector)`  has enabled greater access, and new ways to find, explore, process and analyse text as data.  An easy way to get started in finding discipline specific data sets is in the Griffith guides
+Digitisation, Optical Character Recognition (OCR) processing, indexing, encoding, and online hosting of primary source materials by archives, libraries, museums and galleries (GLAM sector)  has enabled greater access, and new ways to find, explore, process and analyse text as data.  An easy way to get started in finding discipline specific data sets is in the Griffith guides
 - <a href ='https://libraryguides.griffith.edu.au/finddata' target="_blank">Finding data guide </a>  
-- [Text mining and analysis guide](https://libraryguides.griffith.edu.au/text-mining) : includes Griffith Library subscription and Open source databases
+- [Text mining and analysis guide](https://libraryguides.griffith.edu.au/text-mining) : of Griffith Library subscription and open source databases
 
-If you cannot get the data you need from the guides above make an enquiry with the platform of interest. Companies may make their data available to researchers by agreement such as Twitter's Academic Research access service. Archives and other repositories will have links to the datasets that can be downloaded, as will Government webpages.  
+If you cannot get the data you need from the guides above make an enquiry with the platform of interest. Companies may make their data available to researchers by agreement such as [Twitter's Academic Research access service] (https://developer.twitter.com/en/products/twitter-api/academic-research). Archives and other repositories will have links to the datasets that can be downloaded, as will some Government websites.  
 
 ## Extracting data
 
 ### Searching and downloading
 
-A well used method of extracting data is by searching a GLAM catalogue and downloading the resources required. This is useful if searching for small quantities of text and the catalogue websites provide search help for users. When downloading resources, it is recommended you select text `.txt` file format or if this isn't possible `.pdf` format which is accepted by some analysis programs or can be OCR read. For example [TROVE text download options](https://trove.nla.gov.au/help/using-trove/downloading) provides `.txt` and `.pdf` format download instructions for different types of resources.
+A well used method of extracting data is by searching a GLAM catalogue and downloading the resources required. This is useful if searching for small quantities of text and catalogue websites provide search help for users. 
+
+When downloading resources, it is recommended you select text `.txt` file format or if this isn't possible `.pdf` format which is accepted by some analysis programs or can be OCR read. 
+
+[TROVE text download options](https://trove.nla.gov.au/help/using-trove/downloading) provides `.txt` and `.pdf` format download instructions for different types of resources.
 
 ### Using an API to extract data
 
