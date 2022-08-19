@@ -28,6 +28,8 @@ A well used method of extracting data is by searching a GLAM catalogue and downl
 
 When downloading resources, it is recommended you select text `.txt` file format or if this isn't possible `.pdf` format which is accepted by some analysis programs or can be OCR read. 
 
+`**Insert video on downloading from TROVE here.**`
+
 [TROVE text download options](https://trove.nla.gov.au/help/using-trove/downloading) provides `.txt` and `.pdf` format download instructions for different types of resources.
 
 ### Using an API to extract data
