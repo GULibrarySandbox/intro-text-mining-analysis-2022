@@ -45,7 +45,7 @@ Using a supplied API is the easiest way to collect a large dataset of text from 
 - [JSTOR text mining support](https://about-jstor-org.libraryproxy.griffith.edu.au/whats-in-jstor/text-mining-support/)
 
 {% capture text %}
-The Prosecution Project is a collaborative research project on the history of the criminal trial in Australia from 1788 to 1960. Sources of text data included Supreme Court crimial trial registers, Police Gazettes nontices, Prison and Convict Registers, along with press releases and other newspaper articles  [https://prosecutionproject.griffith.edu.au/](https://prosecutionproject.griffith.edu.au/).
+The Prosecution Project is a collaborative research project on the history of the criminal trial in Australia from 1788 to 1960. Sources of text data included Supreme Court crimial trial registers, Police Gazettes notices, Prison and Convict Registers, along with press releases and other newspaper articles  [https://prosecutionproject.griffith.edu.au/](https://prosecutionproject.griffith.edu.au/).
 
 The images below include example source materials like those used by the Prosecution Project:
 - Libraries Tasmania Digital Image ID AB693-1-1 1853-1854: Registers of Criminal Cases Prosecuted by the Crown (AB693), 1853-1984. retrieved May 10, 2021, from [https://stors.tas.gov.au/AB693-1-1$init=AB693-1-1_039](https://stors.tas.gov.au/AB693-1-1$init=AB693-1-1_039) 
@@ -57,7 +57,7 @@ The images below include example source materials like those used by the Prosecu
 
 ----
 
-{% include alert.html text="*Note:* Be sure to cite any resource / dataset / corpus you use in your research." color="warning" %}
+{% include alert.html text="*Note:* Be sure to cite any resources you use in your research." color="warning" %}
 
 
 ----
