@@ -18,7 +18,7 @@ Digitisation, Optical Character Recognition (OCR) processing, indexing, encoding
 - <a href ='https://libraryguides.griffith.edu.au/finddata' target="_blank">Finding data guide </a>  
 - [Text mining and analysis guide](https://libraryguides.griffith.edu.au/text-mining) : of Griffith Library subscription and open source databases
 
-If you cannot get the data you need from the guides above make an enquiry with the platform of interest. Companies may make their data available to researchers by agreement such as [Twitter's Academic Research access service] (https://developer.twitter.com/en/products/twitter-api/academic-research). Archives and other repositories will have links to the datasets that can be downloaded, as will some Government websites.  
+If you cannot get the data you need from the guides above make an enquiry with the platform of interest. Companies may make their data available to researchers by agreement such as [Twitter's Academic Research access service](https://developer.twitter.com/en/products/twitter-api/academic-research). Archives and other repositories will have links to the datasets that can be downloaded, as will some Government websites.  
 
 ## Extracting data
 
