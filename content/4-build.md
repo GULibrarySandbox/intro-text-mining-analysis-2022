@@ -24,9 +24,11 @@ If you cannot get the data you need from the guides above make an enquiry with t
 
 ### Searching and downloading
 
-A well used method of extracting data is by searching a GLAM catalogue and downloading the resources required. This is useful if searching for small quantities of text and catalogue websites provide search help for users. 
+Search GLAM catalogues and download individual resources or sets of results as required. This is useful if searching for small quantities of text and catalogue websites provide useful search and download help for users. 
 
-When downloading resources, it is recommended you select text `.txt` file format or if this isn't possible `.pdf` format which is accepted by some analysis programs or can be OCR read. 
+When downloading resources, select text `.txt` file format which has all formatting removed and is readible by computers. 
+
+If this isn't possible choose `.pdf` format which is accepted by some analysis programs or can be read by Optical Character Recognition (OCR), then useable in analysis programs. 
 
 `**Insert video on downloading from TROVE here.**`
 
@@ -34,15 +36,19 @@ When downloading resources, it is recommended you select text `.txt` file format
 
 ### Using an API to extract data
 
-When using text data or gathering data from online sources you may need to use an Application Programming Interface (API), a software tool that allows two applications to talk to each other. In the case of collecting web data, it is a database that stores the webpages data and something that can read, display or store that data (i.e. a webbrowser, a programming language such as python or some other program on your computer, or a cloud based application).
+An Application Programming Interface (API) is a software tool that allows two applications to communicate with each other. In the case of collecting web data, an API is a database that stores the webpages data and something that can read, display or store that data (i.e. a web browser, a programming language such as Python, software on your computer, or a cloud based application).
 
-Using a supplied API is the easiest way to collect a large dataset of text from a database or website. Examples of API's useful to text analysis researchers include:
-- [TROVE API guide](https://trove.nla.gov.au/about/create-something/using-api)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s7wmiS2mSXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Using a supplied API is the easiest way to collect metadata sets (data about the text, e.g. a literature database records) or a large dataset of text from a database or website. Examples of API's useful to text analysis researchers include:
+- [TROVE API](https://trove.nla.gov.au/about/create-something/using-api)
 - [Assoc Prof Tim Sherrat's Australian GLAM data & API list](https://glam-workbench.net/glam-data-list/)
-- [State Library of Queensland's open datasets](https://www.slq.qld.gov.au/get-involved/open-data/open-datasets-released-state-library)
-- [QLD Open Data Portal API guides](https://www.data.qld.gov.au/article/standards-and-guidance/publishing-guides-standards/api-user-guide)
+- [State Library of Queensland's open datasets API](https://www.slq.qld.gov.au/get-involved/open-data/open-datasets-released-state-library)
+- [QLD Open Data Portal API](https://www.data.qld.gov.au/article/standards-and-guidance/publishing-guides-standards/api-user-guide)
 - [Twitter's Academic Research Access API](https://developer.twitter.com/en/products/twitter-api/academic-research)
-- [JSTOR text mining support](https://about-jstor-org.libraryproxy.griffith.edu.au/whats-in-jstor/text-mining-support/)
+- [JSTOR API for texting mining](https://about-jstor-org.libraryproxy.griffith.edu.au/whats-in-jstor/text-mining-support/)
+
+**Link to the basics using TROVE API video"
 
 {% capture text %}
 The Prosecution Project is a collaborative research project on the history of the criminal trial in Australia from 1788 to 1960. Sources of text data included Supreme Court crimial trial registers, Police Gazettes notices, Prison and Convict Registers, along with press releases and other newspaper articles  [https://prosecutionproject.griffith.edu.au/](https://prosecutionproject.griffith.edu.au/).
