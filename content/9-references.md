@@ -18,6 +18,8 @@ Kirchhoffer, D. G., & Lui, C. W. (2021). Public reasoning about voluntary assist
 
 Law, D. S. (2018). The global language of human rights: a computational linguistic analysis. The Law & Ethics of Human Rights, 12(1), 111-150.10.1515/lehr-2018-0001, [https://core.ac.uk/download/pdf/95563172.pdf](https://core.ac.uk/download/pdf/95563172.pdf)
 
+Paulus, Trena M., and Alyssa Friend Wise. Looking for Insight, Transformation, and Learning in Online Talk, Taylor & Francis Group, 2019. ProQuest Ebook Central, https://ebookcentral-proquest-com.libraryproxy.griffith.edu.au/lib/griffith/detail.action?docID=5772971.
+
 Nalau, J., & Verrall, B. (2021). Mapping the evolution and current trends in climate change adaptation science. Climate Risk Management, 32, 100290. https://doi.org/10.1016/j.crm.2021.100290
 
 Schreibman, S., Siemens, R. G., & Unsworth, J. (2016). A new companion to digital humanities (Ser. Blackwell companions to literature and culture, 93). Chichester, West Sussex, UK. Retrieved August 15, 2022, from INSERT-MISSING-URL.
