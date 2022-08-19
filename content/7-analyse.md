@@ -84,6 +84,9 @@ The virtual research environments below have been developed to support digital t
 - [JSTOR text mining support](https://about-jstor-org.libraryproxy.griffith.edu.au/whats-in-jstor/text-mining-support/) :  for metadata, n-grams, and word counts for most articles and book chapters, and for all research reports and pamphlets available via Griffith University's subscription to JSTOR. Login required.
 - [Gale Digital Scholar Lab](http://libraryproxy.griffith.edu.au/login?url=https://infotrac.gale.com/itweb/griffith?db=DSLAB) : for document clustering, named entity recognition, Ngrams, Parts of Speech, Sentiment Analysis, Topic Modelling all available via Griffith University's subscription. The lab is designed to use the Gale Primary Source archives, but you can use the analysis tools with your own data. Learn about it and Gale Primary Sources [here](https://sway.office.com/v4sYacFkErbH9HNo). Includes [online tutorials](https://go-gale-com.libraryproxy.griffith.edu.au/ps/helpCenter?userGroupName=griffith&inPS=true&nspage=true&prodId=DSLAB&docId=VJWVZS717322017). Login required. 
 - [Hathi Trust Research Center Analytics](https://analytics.hathitrust.org/) : supports large-scale computational analysis of the digital library works to facilitate non-profit and educational research. Individual researchers can sign up for free with their Griffith email and use out of copyright materials and analysis tools.  
+- [Proquest TDM Studio](https://tdmstudio.proquest.com/) : researchers can sign up with a Griffith university email.  Undertake geographic analysis, topic modelling or sentiment analysis of Proquest's collection of newspapers, dissertations and theses. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/etRaylzA6AE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### Open source (free) tools
