@@ -8,18 +8,26 @@ topics: Getting ethical clearance; Licenses and access agreements; Copyright
 
 {% include figure.html img="eratosthenes.jpg" alt="Eratosthenes Teaching in Alexandria" caption="'Eratosthenes Teaching in Alexandria' by Bernardo Strozzi by mark6mauno is licensed under CC BY 2.0" width="100%" %}
 
-## Research data ethics
+As a researcher you have ethical obligations toward anyone who might be affected by your research. You also have the obligation to comply with Australian copyright law. These are separate but related topics. We will deal with ethics first, then copyright and licensing.
+
+## Ethics
 
 {% capture text %}
-Any research involving **human subjects** carries ethical obligations. Even if you are working with publicly available datasets, it might be necessary to obtain consent from the individuals involved and ethical clearance from the university.
+Any research involving **human subjects** carries ethical obligations. 
 {% endcapture %}
 {% include alert.html text=text color="warning" %}
 
-### Does my research involve 'human subjects'?
+Even if you are working with publicly available datasets, it might be necessary to obtain consent from the individuals involved and ethical clearance from the university.
 
-If you are obtaining your data by scraping webpages you may be inadvertently gathering personal information. [GLAM](https://glam-workbench.net/) archival sources might also contain personally identifying information.
+### What are my ethical obligations?
 
-Further, just because a person has made a post on a public forum like Twitter or Facebook, it doesn't mean they have consented to its being included in your research.
+Chapter 3.1, Element 4 of the National Statement on the [Ethical Conduct in Human Research](https://www.nhmrc.gov.au/about-us/publications/national-statement-ethical-conduct-human-research-2007-updated-2018) describes the ethical standards relating to the collection, use and management of data in human research.
+
+Griffith publishes a [Guide for Managing Your Research Data](https://www.griffith.edu.au/__data/assets/pdf_file/0025/1233907/20210107-Guide-to-managing-research-data.pdf) that outlines the considerations involved in preparing a Data Management Plan. Having this information ready will help you to explain your research to your participants.
+
+### Does my research involve human subjects?
+
+Depending on where you obtain your text data, it might contain personal information. For example, [historical archival sources](https://glam-workbench.net/) might contain information that can identify and affect people living today. Public forums like Twitter or Facebook aren't fair game just because a person has posted there. To meet your ethical obligations you may still need to obtain their informed consented to include their material your research.
 
 According to Griffith's [Ethics Booklet on Information Technology and Online Research](https://www.griffith.edu.au/__data/assets/pdf_file/0026/354752/booklet37.pdf), whether online content analysis is viewed as 'human research' depends on:
 
@@ -37,7 +45,7 @@ If you're unsure about your ethical obligations, contact [Griffith research ethi
 'Informed consent' requires that the subject know exactly how the information will be published and the potential risks to them or their reputation, as a result of publishing the information.
 
 {% capture ongoing %}
-**Consent may also be an ongoing process.**
+**Consent may also be an ongoing process**
 
 If you've already gained consent from your subjects and then want to do something new or different with your data, you might need to approach them for further consent.
 {% endcapture %}
@@ -45,12 +53,6 @@ If you've already gained consent from your subjects and then want to do somethin
 
 {% endcapture %}
 {% include card.html header="Gaining informed consent" text=consent %}
-
-### What are my ethical obligations?
-
-Chapter 3.1, Element 4 of the National Statement on the [Ethical Conduct in Human Research](https://www.nhmrc.gov.au/about-us/publications/national-statement-ethical-conduct-human-research-2007-updated-2018) describes the ethical standards relating to the collection, use and management of data in human research.
-
-Griffith publishes a [Guide for Managing Your Research Data](https://www.griffith.edu.au/__data/assets/pdf_file/0025/1233907/20210107-Guide-to-managing-research-data.pdf) that outlines the considerations involved in preparing a Data Management Plan. Having this information ready will help you to explain to your participants 
 
 {% capture deidentify %}
 Unless the participants have given their informed consent to being identified, you might need to remove personally identifying data from your data set before publishing it. This applies to all personal information, not just data which is sensitive or confidential.
@@ -75,7 +77,7 @@ If you're unsure about your ethical obligations, contact [Griffith research ethi
 
 - - -
 
-## Data copyright
+## Copyright
 
 Both copyright law and any relevant licensing terms will affect what you can do with scraped data.
 
