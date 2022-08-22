@@ -19,13 +19,7 @@ Any research involving **human subjects** carries ethical obligations.
 
 Even if you are working with publicly available datasets, it might be necessary to obtain consent from the individuals involved and ethical clearance from the university.
 
-### What are my ethical obligations?
-
-Chapter 3.1, Element 4 of the National Statement on the [Ethical Conduct in Human Research](https://www.nhmrc.gov.au/about-us/publications/national-statement-ethical-conduct-human-research-2007-updated-2018) describes the ethical standards relating to the collection, use and management of data in human research.
-
-Griffith publishes a [Guide for Managing Your Research Data](https://www.griffith.edu.au/__data/assets/pdf_file/0025/1233907/20210107-Guide-to-managing-research-data.pdf) that outlines the considerations involved in preparing a Data Management Plan. Having this information ready will help you to explain your research to your participants.
-
-### Does my research involve human subjects?
+### But it's just text! How can it involve human subjects?
 
 Depending on where you obtain your text data, it might contain personal information. For example, [historical archival sources](https://glam-workbench.net/) might contain information that can identify and affect people living today. Public forums like Twitter or Facebook aren't fair game just because a person has posted there. To meet your ethical obligations you may still need to obtain their informed consented to include their material your research.
 
@@ -34,15 +28,10 @@ According to Griffith's [Ethics Booklet on Information Technology and Online Res
 1. the degree to which the material is 'on the public record' and;
 2. whether it is contentious or likely to be of concern to the subject.
 
-In general, the less the information could be considered 'on the public record' and the more likely the material might be contentious or of concern to the person, the more likely its inclusion would make the work 'human research'.
-
-{% capture text %}
-If you're unsure about your ethical obligations, contact [Griffith research ethics](https://www.griffith.edu.au/research/research-services/research-ethics-integrity).
-{% endcapture %}
-{% include alert.html text=text color="info" %} 
+In general, the less the information could be considered 'on the public record' and the more likely the material might be contentious or of concern to the person, the more likely its inclusion would make the work 'human research'. For social media data, Griffith publishes a [flowchart](https://www.griffith.edu.au/__data/assets/pdf_file/0023/1153571/Social-Media-Flowchart-Visio-v7-200902.pdf) to help you determine your ethical obligations.
 
 {% capture consent %}
-'Informed consent' requires that the subject know exactly how the information will be published and the potential risks to them or their reputation, as a result of publishing the information.
+'Informed consent' requires that the subject know exactly how the information will be published and the potential risks to them or their reputation, as a result of publishing the information. You can find sample consent forms at our [Ethical Reviews](https://www.griffith.edu.au/research/research-services/research-ethics-integrity/human/ethical-reviews) page. 
 
 {% capture ongoing %}
 **Consent may also be an ongoing process**
@@ -54,6 +43,17 @@ If you've already gained consent from your subjects and then want to do somethin
 {% endcapture %}
 {% include card.html header="Gaining informed consent" text=consent %}
 
+### What are my obligations?
+
+Chapter 3.1, Element 4 of the National Statement on the [Ethical Conduct in Human Research](https://www.nhmrc.gov.au/about-us/publications/national-statement-ethical-conduct-human-research-2007-updated-2018) describes the ethical standards relating to the collection, use and management of data in human research.
+
+Griffith publishes a [Guide for Managing Your Research Data](https://www.griffith.edu.au/__data/assets/pdf_file/0025/1233907/20210107-Guide-to-managing-research-data.pdf) that outlines the considerations involved in preparing a Data Management Plan. Having this information ready will help you to explain your research to your participants.
+
+{% capture text %}
+If you're unsure about your ethical obligations, contact [Griffith research ethics](https://www.griffith.edu.au/research/research-services/research-ethics-integrity).
+{% endcapture %}
+{% include alert.html text=text color="info" %} 
+
 {% capture deidentify %}
 Unless the participants have given their informed consent to being identified, you might need to remove personally identifying data from your data set before publishing it. This applies to all personal information, not just data which is sensitive or confidential.
 
@@ -62,20 +62,27 @@ Where a social media service has a search function, using direct quotes can iden
 {% capture reidentification %}
 **Beware of re-identification**
 
-If de-identification is done carelessly, or there are many data points in a data set that are unique to an individual, the data can be re-identified. In at least one case, this has led to published data sets being retracted.
+If de-identification is done carelessly, or there are many data points in a data set that are unique to an individual, the data can be re-identified. In 2017, University of Melbourne researchers were able to [re-identify published Medicare data](https://www.unimelb.edu.au/newsroom/news/2017/december/research-reveals-de-identified-patient-data-can-be-re-identified), leading to its swift retraction.
 
 {% endcapture %}
 {% include alert.html text=reidentification color="danger" %}
 
 {% endcapture %}
-{% include card.html header="De-identifying data" text=deidentify %}
+
+<!--- Begin header with icon code --->
+{% capture headertext %}
+{% include icon.html icon='sunglasses' %} De-identifying data
+{% endcapture %}
+<!--- End header with icon code --->
+
+{% include card.html header=headertext text=deidentify %}
 
 {% capture text %}
 If you're unsure about your ethical obligations, contact [Griffith research ethics](https://www.griffith.edu.au/research/research-services/research-ethics-integrity).
 {% endcapture %}
 {% include alert.html text=text color="info" %}
 
-- - -
+----
 
 ## Copyright
 
