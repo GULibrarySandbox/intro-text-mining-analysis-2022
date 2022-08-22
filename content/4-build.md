@@ -19,7 +19,7 @@ Digitisation, Optical Character Recognition (OCR) processing, indexing, encoding
 - [Text mining and analysis guide](https://libraryguides.griffith.edu.au/text-mining) : of Griffith Library subscription and open source databases
 
 Explore the amazing data that can be extracted from our GLAM catalogues with [Ass. Prof. Tim Sherratt](https://timsherratt.org/) historian and hacker.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/spvb-zBe24o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/spvb-zBe24o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 If you cannot get the data you need from the guides above make an enquiry with the platform of interest. Companies may make their data available to researchers by agreement such as [Twitter's Academic Research access service](https://developer.twitter.com/en/products/twitter-api/academic-research). Archives and other repositories will have links to the datasets that can be downloaded, as will some Government websites.  
 
@@ -41,7 +41,7 @@ If this isn't possible choose `.pdf` format which is accepted by some analysis p
 
 An Application Programming Interface (API) is a software tool that allows two applications to communicate with each other. In the case of collecting web data, an API is a database that stores the webpages data and something that can read, display or store that data (i.e. a web browser, a programming language such as Python, software on your computer, or a cloud based application).
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/s7wmiS2mSXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/s7wmiS2mSXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Using a supplied API is the easiest way to collect metadata sets (data about the text, e.g. a literature database records) or a large dataset of text from a database or website. Examples of API's useful to text analysis researchers include:
 - [TROVE API](https://trove.nla.gov.au/about/create-something/using-api)
