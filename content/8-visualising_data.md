@@ -51,14 +51,13 @@ Image source: (Baruah, S. et al., 2022)
 {% endcapture %} {% include card.html header="Frequency trends visualised in line charts" text=text %}
 
 {% capture text %}
-In this study Voyant tools and [NodeXL software](https://www.smrfoundation.org/nodexl/) were used to mine, extract and collocate words which enabled qualitative coding of seven major themes from over 1000 individual public submissions that supported or opposed voluntary assisted dying in a Queensland Parliamentary Inquiry 2018.
+In this study [Voyant tools](https://voyant-tools.org/) and [NodeXL software](https://www.smrfoundation.org/nodexl/) were used to mine, extract and collocate words which enabled qualitative coding of seven major themes from over 1000 individual public submissions to a Queensland Parliamentary Inquiry on voluntary assisted dying in 2018.
 
 Explore the analysis and methods further in the article:  
 Kirchhoffer, D. G., & Lui, C. W. (2021). Public reasoning about voluntary assisted dying: An analysis of submissions to the Queensland Parliament, Australia. Bioethics, 35(1), 105-116. [https://doi.org/10.1111/bioe.12777](https://doi.org/10.1111/bioe.12777)
 
 {% include figure.html img="BioethicsAssistedDyingTextAnalysisVis.PNG" alt="Public reasoning about voluntary assisted dying - network visualisation of major themes" caption="Public reasoning about voluntary assisted dying - network visualisation of major themes" width="100%" %}
 Image source: (Kirchhoffer & Lu, 2021)
-
 {% endcapture %} {% include card.html header="Network visualisation of major themes identified by collocation" text=text %}
 
 {% capture text %}
