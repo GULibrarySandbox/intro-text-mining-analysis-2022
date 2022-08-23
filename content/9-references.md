@@ -10,10 +10,9 @@ Baruah S, Somandepalli K, Narayanan S (2022) Representation of professions in en
 
 Francis Bacon Network [2, 1562-1626, 61-100%]." Six Degrees of Francis Bacon. [http://www.sixdegreesoffrancisbacon.com/?ids=10000473&min_confidence=60&type=network, 8/6/2021](http://www.sixdegreesoffrancisbacon.com/?ids=10000473&min_confidence=60&type=network, 8/6/2021)
 
+Hetenyi, G., Lengyel, A., & Szilasi, M. (2019). Quantitative analysis of qualitative data: Using voyant tools to investigate the sales-marketing interface. Journal of Industrial Engineering and Management (JIEM), 12(3), 393-404.[https://doi.org/10.3926/jiem.2929](https://doi.org/10.3926/jiem.2929)
 
 Heath, N. (2020). What is machine learning? Everything you need to know. *zdnet*, [https://www.zdnet.com/article/what-is-machine-learning-everything-you-need-to-know/](https://www.zdnet.com/article/what-is-machine-learning-everything-you-need-to-know/)
-
-Hetenyi, Gabor; Lengyel, Attila; Szilasi, Magdolna (2019) : Quantitative analysis of qualitative data: Using voyant tools to investigate the sales-marketing interface, Journal of Industrial Engineering and Management (JIEM), ISSN 2013-0953, OmniaScience, Barcelona, Vol. 12, Iss. 3, pp. 393-404, [https://doi.org/10.3926/jiem.2929](https://doi.org/10.3926/jiem.2929)
 
 Ignatow, G., & Mihalcea, R. (2018). Basic text processing. In An introduction to text mining (pp. 99-114). SAGE Publications, Inc, [https://dx.doi.org/10.4135/9781506336985.n8](https://dx.doi.org/10.4135/9781506336985.n8)
 
