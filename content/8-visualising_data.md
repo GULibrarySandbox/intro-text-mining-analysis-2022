@@ -24,7 +24,7 @@ The Data to Viz team also provide a collection of useful tips and caveats for us
 Visualisation methods and tools are useful for “preliminary analysis and hypothesis adjustment” and early data exploration. Always check results “against traditional content analysis techniques which are more sensitive to the complex structure" of language. 
 
 Quantitative analysis of textual data is a reductive process where the “coherent system of meaning units” is broken down. Take care not to read suppositions into visualisations that are not a real reflection of the data, its meaning and relationships. (Gabor, H. et. al., 2019)
-{% endcapture %}{% include alert.md text=alert color="warning" %}
+{% endcapture %}{% include alert.html text=alert color="warning" %}
 
 ## Text visualisation examples
 
