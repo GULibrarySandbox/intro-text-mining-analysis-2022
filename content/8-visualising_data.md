@@ -34,14 +34,19 @@ Quantitative analysis of textual data is a reductive process where the “cohere
 Below is a showcase of text analysis visualisations in recent peer reviewed articles.
 
 {% capture text %}
-In the visualisation below stylistic differences of of the Brothers Grimm are visualised using the R package stylo. This has clustered text into two groups of word choices, based on text extracted from letters written to friends and colleagues. It is a comparative representation of preferred and avoided words by brothers Jacob and Wilhelm Grimm. Overlapping markers show stylistic similarity, whilst the separated text clusters imply a consistency in word choices and an individual style. Read about the methods, models and analysis in detail at: 
+In the visualisation below, stylistic differences of the Brothers Grimm are visualised using the R package [Stylo](https://cran.r-project.org/web/packages/stylo/index.html). This has clustered text into two groups of word choices, based on text extracted from letters written to friends and colleagues. It is a comparative representation of preferred and avoided words by brothers Jacob and Wilhelm Grimm. Overlapping markers show stylistic similarity, whilst the separated text clusters imply a consistency in word choices and an individual style. Read about the methods, models and analysis in detail at: 
 
 Gabriela Rotari, Melina Jander, Jan Rybicki, The Grimm Brothers: A stylometric network analysis, Digital Scholarship in the Humanities, Volume 36, Issue 1, April 2021, Pages 172–186, [https://doi.org/10.1093/llc/fqz088](https://doi.org/10.1093/llc/fqz088). 
 
 {% include figure.html img="GrimmBrothersStylometricVis.PNG" alt="Grimm Brothers letters - stylometric differences" caption="Grimm Brothers letters - stylometric differences" width="100%" %}
 Image source: (Rotari et. al. 2021)
-
 {% endcapture %} {% include card.html header="Text cluster visualisation of stylometric analysis" text=text %}
+
+{% capture text %}
+Named entity recognition of occupations and frequency analysis was undertaken of different professions featured in movies and Telivison shows over time, using data from the [OpenSubtitles.org](https://www.opensubtitles.org/en/search/subs) database. The line graphs below show the movie and TV frequency trends of some professions from 1950s to 2020s.  Take a deeper dive into the methods and analysis including sentiment analysis of the professions in media in the full article: 
+Baruah, S., Somandepalli, K., & Narayanan, S. (2022). Representation of professions in entertainment media: Insights into frequency and sentiment trends through computational text analysis. PloS one, 17(5), e0267812. [https://doi.org/10.1371/journal.pone.0267812](https://doi.org/10.1371/journal.pone.0267812)
+{% include figure.html img="ProfessionsMediaFrequency.PNG" alt="Frequency trends of professions featured in movies and TV 1950-2020 image" caption="Frequency trends of professions featured in movies and TV 1950-2020" width="100%" %}
+{% endcapture %} {% include card.html header="Frequency trends visualised in line charts" text=text %}
 
 {% capture text %}
 {% endcapture %} {% include card.html header="Activity - ..." text=text %}
