@@ -68,7 +68,21 @@ Nalau, J., & Verrall, B. (2021). Mapping the evolution and current trends in cli
 
 {% include figure.html img="Nalua_Environment_VosViewerVis.PNG" alt="Network visualisation of climate change adaptation literature themes" caption="Network visualisation of climate change adaptation literature themes" width="100%" %}
 Image source: (Nalau & Verrall, 2021)
-{% endcapture %} {% include card.html header="Activity - ..." text=text %}
+{% endcapture %} {% include card.html header="Bibliometric analysis network visualisation" text=text %}
+
+{% capture text %}
+Librarians at Yale University undertook computational analysis across the entire collection of long-running American fashion magazine Vogue.
+This cluster dendogram identifies fabrics that are mentioned in Vogue over 122 years. 
+
+
+
+Explore how these fabrics are related to each other at: http://dh.library.yale.edu/projects/vogue/fabricspace/ 
+
+
+Explore the many computational methods and visualisations available from the Robots Reading Vogue project at: 
+Leonard, P. and King, L., (n.d.). Robots Reading Vogue.(accessed August, 19, 2022). [http://dh.library.yale.edu/projects/vogue/](http://dh.library.yale.edu/projects/vogue/)
+
+{% endcapture %} {% include card.html header="Topic Modelling in cluster dendrogram & timeline visualisation" text=text %}
 
 {% capture text %}
 {% endcapture %} {% include card.html header="Activity - ..." text=text %}
