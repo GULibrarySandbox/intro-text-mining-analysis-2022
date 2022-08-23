@@ -61,6 +61,16 @@ Image source: (Kirchhoffer & Lu, 2021)
 {% endcapture %} {% include card.html header="Network visualisation of major themes identified by collocation" text=text %}
 
 {% capture text %}
+In this bibliometric analysis, Griffith Researchers identified five major themes in climate change adaptation literature based on the 100 most commonly used author keywords. Publication results from literature databases were imported to [VosViewer](https://www.vosviewer.com/) to create this network diagram.  The size of each circle is proportional to the occurrence of the keyword, while links represent keywords used together in at least three publications with the line thickness proportional to the strength of co-occurrence. Minimum line strength links keywords that co-occur in five or more publications.  
+
+Read more about the findings and methods at:
+Nalau, J., & Verrall, B. (2021). Mapping the evolution and current trends in climate change adaptation science. Climate Risk Management, 32, 100290. [https://doi.org/10.1016/j.crm.2021.100290](https://doi.org/10.1016/j.crm.2021.100290)
+
+{% include figure.html img="Nalua_Environment_VosViewerVis.PNG" alt="Network visualisation of climate change adaptation literature themes" caption="Network visualisation of climate change adaptation literature themes" width="100%" %}
+Image source: (Nalau & Verrall, 2021)
+{% endcapture %} {% include card.html header="Activity - ..." text=text %}
+
+{% capture text %}
 {% endcapture %} {% include card.html header="Activity - ..." text=text %}
 
 ## Visualisation tools
