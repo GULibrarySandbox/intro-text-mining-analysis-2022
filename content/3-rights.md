@@ -109,7 +109,7 @@ Many sites allow research or non-commercial scraping or API use.  Contact the [I
 ### Gaining access and permission
 
 {% capture publicdomain %}
-Some data is in the public domain (meaning nobody owns the copyright), or is licensed under free or public licenses like [Creative Commons](https://creativecommons.org.au) or [Copyleft][https://opensource.com/resources/what-is-copyleft]. Creative Commons is not the same as being copyright-free. It is still a kind of license that you need to comply with. The main difference is that you don’t have to ask permission to use the material. Permission is granted by the owner in advance, provided that you conform to the licence terms. It’s possible for some Creative Commons licenses include a ‘No Derivatives’ term, which would prevent you from publishing a new dataset based on the original.
+Some data is in the public domain (meaning nobody owns the copyright), or is licensed under free or public licenses like [Creative Commons](https://creativecommons.org.au) or [Copyleft](https://opensource.com/resources/what-is-copyleft). Creative Commons is not the same as being copyright-free. It is still a kind of license that you need to comply with. The main difference is that you don’t have to ask permission to use the material. Permission is granted by the owner in advance, provided that you conform to the licence terms. It’s possible for some Creative Commons licenses include a ‘No Derivatives’ term, which would prevent you from publishing a new dataset based on the original.
 
 {% capture stillethics %}
 **Copyright-free does not mean ethics-free** 
@@ -118,10 +118,14 @@ Data that is freely licensed still carries ethical considerations! If your corpu
 {% endcapture %}
 {% include alert.html text=stillethics color="warning" %}
 
-It's possible for some Creative Commons licenses include a 'No Derivatives' term, which would prevent you from publishing new works based on the original. It's unlikely however that that a CC dataset would be published with a 'No Derivatives' term.
-
 {% endcapture %}
-{% include card.html header="Public domain and Creative Commons" text=publicdomain %}
+
+<!--- Begin header with icon code --->
+{% capture headertext %}
+{% include icon.html icon='cc-circle' %} Public domain and Creative Commons
+{% endcapture %}
+<!--- End header with icon code --->
+{% include card.html header=headertext text=publicdomain %}
 
 {% capture permissionsblock %}
 
