@@ -100,6 +100,7 @@ The line graph in the figure below illustrates the changes in frequency of two t
 Image source: (Law, 2018)
 
 Explore the data, methods and results further in: 
+
 Law, D. S. (2018). The global language of human rights: a computational linguistic analysis. The Law & Ethics of Human Rights, 12(1), 111-150. [https://core.ac.uk/download/pdf/95563172.pdf](https://core.ac.uk/download/pdf/95563172.pdf)
 {% endcapture %} {% include card.html header="Content analysis visualised by timeline graphs" text=text %}
 
