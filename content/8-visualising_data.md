@@ -13,7 +13,7 @@ Visualising data can help us understand complex information quickly. Transformin
 
 Many of the text analysis tools previously explored, create visualisations of results.
 
-### Choose the best visualisation type for your data 
+## Choose the best visualisation type for your data 
 
 The type of visualisations you can create are governed by the types of data you are working with. 
 
@@ -23,17 +23,28 @@ Data to Viz examples are particularly useful to illustrate the analysis results 
 
 The Data to Viz team also provide a collection of useful tips and caveats for using visualisations [here](https://www.data-to-viz.com/caveats.html).
 
-## Types of visualistaions
+{% capture alert %}*A warning on using visualisation methods with text*:
 
-The following tools can be used to create visualisations for structured, categorical data or tabular data: 
+Visualisation methods and tools are useful for “preliminary analysis and hypothesis adjustment” and early data exploration. Always check results “against traditional content analysis techniques which are more sensitive to the complex structure" of language. 
+
+Quantitative analysis of textual data is a reductive process where the “coherent system of meaning units” is broken down. Take care not to read suppositions into visualisations that are not a real reflection of the data, its meaning and relationships. (Gabor, H. et. al., 2019)
+{% endcapture %}
+{% include alert.md text=alert color="warning" %}
+
+## Text visualistion examples
+
+Below is a showcase of text visualisations in recent peer reviewed articles that tell clear stories of analysis findings.
+
+
+
+## Visualisation tools
+
+Most of the analysis tools listed on the previous page can create visualisations of the data. Check out the Voyant tools [activity](https://griffithunilibrary.github.io/data-vis-basics/content/5-voyant.html) to explore a series of articles from The Conversation as an example.
+
+In addition to these analysis tools, the following can be used to create visualisations for structured, categorical data or tabular data: 
 - MS Excel and other spread sheet programs
-- RawGraphs
-- computational code. 
-
-The following tools will visualise unstrucutred text data such as prose, articles, diary entries:
-- [Voyant tools](https://voyant-tools.org/)
-- 
-- For more complex analysis and visualisation we can use Python code.
+- [RawGraphs](https://rawgraphs.io/ ) open source program (free) developed at the Density Design Research Lab of the Politecnico di Milano
+- computational code such as R & Python.
 
 
 {% capture text %}
