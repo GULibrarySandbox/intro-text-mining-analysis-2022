@@ -13,28 +13,27 @@ Visualising data can help us understand complex information quickly. Transformin
 
 Many of the text analysis tools previously explored, create visualisations of results.
 
+### Choose the best visualisation type for your data 
 
+The type of visualisations you can create are governed by the types of data you are working with. 
 
+Explore [Data to Viz](https://www.data-to-viz.com/) to find the most appropriate graph for your data.  
 
+Data to Viz examples are particularly useful to illustrate the analysis results of structured text, including metadata records and categorical data. When text is processed and broken down into its various parts then analysed using quantitative, statistical, temporal, spatial, or other distant reading methods the numerical results can also be visualised using the examples in Data to Viz.
 
-### Choose the right visualisation type for your data 
-
-Explore From [Data to Viz](https://www.data-to-viz.com/) interactive help to find the most appropriate graph for your data.  
-<br>
-{% include button.html text="Data to Viz" link="https://www.data-to-viz.com/" color="info" %}
-<br>
-The Data to Viz team also provide a collection of really useful tips and caveats for using visualisations [here](https://www.data-to-viz.com/caveats.html).
+The Data to Viz team also provide a collection of useful tips and caveats for using visualisations [here](https://www.data-to-viz.com/caveats.html).
 
 ## Types of visualistaions
 
-The type of visualisations you can create are somewhat governed by the types of data you are working with. 
-
-With structured data or tabular sets we can generate visualisations using tools such as; 
-- excel spread sheets, 
+The following tools can be used to create visualisations for structured, categorical data or tabular data: 
+- MS Excel and other spread sheet programs
 - RawGraphs
 - computational code. 
 
-With unstrucutred data, generally prose, articles, diary entries and alike, <a href='https://voyant-tools.org/' target='_blank'>Voyant tools</a> will generate easy to use visualisations. For more complex analysis and visualisation we can use Python code.
+The following tools will visualise unstrucutred text data such as prose, articles, diary entries:
+- [Voyant tools](https://voyant-tools.org/)
+- 
+- For more complex analysis and visualisation we can use Python code.
 
 
 {% capture text %}
