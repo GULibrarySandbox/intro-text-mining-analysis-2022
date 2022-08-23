@@ -40,7 +40,7 @@ Explore some of the reasons researchers use computational methods to analysis te
 - expand textual studies with [temporal or geographical context](https://glam-workbench.net/web-archives/#exploring-change-over-time)
 - create [visual exploration](http://dh.library.yale.edu/projects/vogue/) of text.
 - to undertake [statistical analysis](https://journals-sagepub-com.libraryproxy.griffith.edu.au/doi/pdf/10.1177/1532673X02030002003) of text
-- to gain insights from previously [untapped data](https://search.informit.org/doi/pdf/10.3316/agispt.20210727050654).{% endcapture %} {% include card.html header="Activity : explore why researchers use text mining and analysis methods" text=text %}
+- {% endcapture %} {% include card.html header="Activity : explore why researchers use text mining and analysis methods" text=text %}
 
 Let's explore the workflows of text mining and analysis in the next lesson.
 
