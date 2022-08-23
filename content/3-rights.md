@@ -122,7 +122,7 @@ Data that is freely licensed still carries ethical considerations! If your corpu
 
 <!--- Begin header with icon code --->
 {% capture headertext %}
-{% include icon.html icon='cc-circle' %} Public domain and Creative Commons
+{% include icon.html icon='badge-cc' %} Public domain and Creative Commons
 {% endcapture %}
 <!--- End header with icon code --->
 {% include card.html header=headertext text=publicdomain %}
