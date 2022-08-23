@@ -39,14 +39,27 @@ In the visualisation below, stylistic differences of the Brothers Grimm are visu
 Gabriela Rotari, Melina Jander, Jan Rybicki, The Grimm Brothers: A stylometric network analysis, Digital Scholarship in the Humanities, Volume 36, Issue 1, April 2021, Pages 172–186, [https://doi.org/10.1093/llc/fqz088](https://doi.org/10.1093/llc/fqz088). 
 
 {% include figure.html img="GrimmBrothersStylometricVis.PNG" alt="Grimm Brothers letters - stylometric differences" caption="Grimm Brothers letters - stylometric differences" width="100%" %}
-Image source: (Rotari et. al. 2021)
+Image source: (Rotari et al., 2021)
 {% endcapture %} {% include card.html header="Text cluster visualisation of stylometric analysis" text=text %}
 
 {% capture text %}
-Named entity recognition of occupations and frequency analysis was undertaken of different professions featured in movies and Telivison shows over time, using data from the [OpenSubtitles.org](https://www.opensubtitles.org/en/search/subs) database. The line graphs below show the movie and TV frequency trends of some professions from 1950s to 2020s.  Take a deeper dive into the methods and analysis including sentiment analysis of the professions in media in the full article: 
+Named entity recognition of occupations followed by frequency analysis of different professions featured in movies and televison shows was undertaken using data from the [OpenSubtitles.org](https://www.opensubtitles.org/en/search/subs) database. The line graphs below show the movie and TV frequency trends of some professions from 1950s to 2020s.  Take a deeper dive into the methods and analysis, including sentiment analysis of the professions in media, in the full article: 
+
 Baruah, S., Somandepalli, K., & Narayanan, S. (2022). Representation of professions in entertainment media: Insights into frequency and sentiment trends through computational text analysis. PloS one, 17(5), e0267812. [https://doi.org/10.1371/journal.pone.0267812](https://doi.org/10.1371/journal.pone.0267812)
 {% include figure.html img="ProfessionsMediaFrequency.PNG" alt="Frequency trends of professions featured in movies and TV 1950-2020 image" caption="Frequency trends of professions featured in movies and TV 1950-2020" width="100%" %}
+Image source: (Baruah, S. et al., 2022)
 {% endcapture %} {% include card.html header="Frequency trends visualised in line charts" text=text %}
+
+{% capture text %}
+In this study Voyant tools and [NodeXL software](https://www.smrfoundation.org/nodexl/) were used to mine, extract and collocate words which enabled qualitative coding of seven major themes from over 1000 individual public submissions that supported or opposed voluntary assisted dying in a Queensland Parliamentary Inquiry 2018.
+
+Explore the analysis and methods further in the article:  
+Kirchhoffer, D. G., & Lui, C. W. (2021). Public reasoning about voluntary assisted dying: An analysis of submissions to the Queensland Parliament, Australia. Bioethics, 35(1), 105-116. https://doi.org/10.1111/bioe.12777 
+
+{% include figure.html img="BioethicsAssistedDyingTextAnalysisVis.PNG" alt="Public reasoning about voluntary assisted dying - network visualisation of major themes" caption="Public reasoning about voluntary assisted dying - network visualisation of major themes" width="100%" %}
+Image source: (Kirchhoffer & Lu, 2021)
+
+{% endcapture %} {% include card.html header="Network analysis of major themes found in public submission documents" text=text %}
 
 {% capture text %}
 {% endcapture %} {% include card.html header="Activity - ..." text=text %}
