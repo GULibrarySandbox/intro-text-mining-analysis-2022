@@ -38,7 +38,7 @@ In the visualisation below stylistic differences of of the Brothers Grimm are vi
 
 Gabriela Rotari, Melina Jander, Jan Rybicki, The Grimm Brothers: A stylometric network analysis, Digital Scholarship in the Humanities, Volume 36, Issue 1, April 2021, Pages 172–186, [https://doi.org/10.1093/llc/fqz088](https://doi.org/10.1093/llc/fqz088). 
 
-
+{% include figure.html img="SixDegreesFrancisBacon.png" alt="Francis Bacon Network visualisation" caption="Francis Bacon Network visualisation" width="100%" %}
 Image source: (Rotari et. al. 2021)
 
 {% endcapture %} {% include card.html header="Text cluster visualisation of stylometric analysis" text=text %}
