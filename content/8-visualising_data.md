@@ -19,13 +19,12 @@ Data to Viz examples are particularly useful to illustrate the analysis results 
 
 The Data to Viz team also provide a collection of useful tips and caveats for using visualisations [here](https://www.data-to-viz.com/caveats.html).
 
-{% capture alert %}*A warning on using visualisation methods with text*:
-
+{% capture alert %}
+*A warning on using visualisation methods with text*:
 Visualisation methods and tools are useful for “preliminary analysis and hypothesis adjustment” and early data exploration. Always check results “against traditional content analysis techniques which are more sensitive to the complex structure" of language. 
 
 Quantitative analysis of textual data is a reductive process where the “coherent system of meaning units” is broken down. Take care not to read suppositions into visualisations that are not a real reflection of the data, its meaning and relationships. (Gabor, H. et. al., 2019)
-{% endcapture %}
-{% include alert.md text=alert color="warning" %}
+{% endcapture %}{% include alert.md text=alert color="warning" %}
 
 ## Text visualisation examples
 
