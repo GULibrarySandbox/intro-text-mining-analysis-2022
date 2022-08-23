@@ -77,7 +77,9 @@ This cluster dendogram identifies fabrics that are mentioned in Vogue over 122 y
 {% include figure.html img="VogueClusterDendrogramFabric.PNG" alt="Fabrics of Vogue - cluster dendogram" caption="Fabrics of Vogue - cluster dendogram" width="100%" %}
 Image source: [http://dh.library.yale.edu/projects/vogue/fabricspace/](http://dh.library.yale.edu/projects/vogue/fabricspace/)
 
-Explore how these fabrics are related to each other at the project's [webpage](http://dh.library.yale.edu/projects/vogue/fabricspace/)
+Explore how these fabrics are related to each other at the project's [webpage](http://dh.library.yale.edu/projects/vogue/fabricspace/).
+
+----
 
 {% include figure.html img="VogueTopicAnalysisVis.PNG" alt="Frequency of a topic over time" caption="Frequency of a topic over time" width="100%" %}
 Image source: [http://dh.library.yale.edu/projects/vogue/topics/](http://dh.library.yale.edu/projects/vogue/topics/)
