@@ -128,14 +128,14 @@ Image source: (Rogers, et al., 2015) licenced under [Creative Commons CC-BY-NC 3
 
 The full report utilises bubble, network, heat list and word frequency cloud visualisations to explore the data, read more at:
 
-Rogers, R., Sánchez-Querubín, N., & Kil, A. (2015). Issue mapping for an ageing Europe. Amsterdam University Press. https://library.oapen.org/handle/20.500.12657/33128 
+Rogers, R., Sánchez-Querubín, N., & Kil, A. (2015). Issue mapping for an ageing Europe. Amsterdam University Press. [https://library.oapen.org/handle/20.500.12657/33128](https://library.oapen.org/handle/20.500.12657/33128)
 
 {% endcapture %} {% include card.html header="Relationships between topics - Alluvial diagram" text=text %}
 
 
 ## Visualisation tools
 
-Many of the text analysis tools listed on the previous page can create visualisations of the data. Check out the Voyant tools [activity](https://griffithunilibrary.github.io/data-vis-basics/content/5-voyant.html) to explore a series of articles from *The Conversation* as an example.
+Many of the text analysis tools listed on the previous page can create visualisations of the data. Try this Voyant tools [activity](https://griffithunilibrary.github.io/data-vis-basics/content/5-voyant.html) to visualised a series of articles from *The Conversation* as an example.
 
 In addition to these analysis tools, the following can be used to create visualisations for structured, categorical data or tabular data: 
 - MS Excel and other spread sheet programs
