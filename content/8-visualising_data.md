@@ -111,8 +111,9 @@ Law, D. S. (2018). The global language of human rights: a computational linguist
 This research undertook quantitative text analysis of the corpus of U.S. Circuit Court decisions from 1975 to 2013, focusing on a set of judges later nominated for, or promoted to the U.S. Supreme court. Sentiment analysis was one of the methods used to explore Judges’ written opinions and identified differences in sentiment towards particular groups. The coefficient plot below, produced from case-level regressions, illustrates language sentiment towards farmers by individual judges, with positive sentiment indicated above zero and negative sentiment below zero. 
 
 {% include figure.html img="CardozoLawReview_JudgesSentimentFarmersVis.PNG" alt="Sentiment analysis visualisation by coefficiet plot" caption="Sentiment analysis visualisation by coefficiet plot" width="100%" %}
+Imgage source: (Ash & Chen, 2018)
 
-Explore the full analysis from:
+Explore the research further:
 
 Ash, E., & Chen, D. L. (2018). What Kind of Judge Is Brett Kavanaugh. Cardozo Law Review De-Novo, 2018, 70-100.  Available at SSRN: [https://ssrn.com/abstract=3307754](https://ssrn.com/abstract=3307754)
 
