@@ -26,8 +26,6 @@ Leonard, P. and King, L., (201 ). Robots Reading Vogue.(accessed August, 19, 202
 
 Paulus, Trena M., and Alyssa Friend Wise. Looking for Insight, Transformation, and Learning in Online Talk, Taylor & Francis Group, 2019. ProQuest Ebook Central, https://ebookcentral-proquest-com.libraryproxy.griffith.edu.au/lib/griffith/detail.action?docID=5772971.
 
-mark6mauno (2013). "Eratosthenes Teaching in Alexandria" by Bernardo Strozzi, [Flickr](https://www.flickr.com/photos/mark6mauno/10832052985).
-
 Nalau, J., & Verrall, B. (2021). Mapping the evolution and current trends in climate change adaptation science. Climate Risk Management, 32, 100290. https://doi.org/10.1016/j.crm.2021.100290
 
 Rogers, R., Sánchez-Querubín, N., & Kil, A. (2015). Issue mapping for an ageing Europe. Amsterdam University Press. https://library.oapen.org/handle/20.500.12657/33128 
@@ -41,6 +39,10 @@ Toon, E., Timmermann, C., & Worboys, M. (2016). Text-mining and the history of m
 Tsuruoka, Y (n.d.) *Sentence splitting, tokenization, language modeling, and part-of-speech tagging with hidden Markov models tutorial*.  National Centre for Text Mining, http://www.nactem.ac.uk/teaching/ 
 
 Whalen, Ryan, Judicial Gobbledygook: The Readability of Supreme Court Writing (November 19, 2015). Yale Law Journal Forum (2015), Available at SSRN: https://ssrn.com/abstract=3000125
+
+# Images
+
+mark6mauno (2013). "Eratosthenes Teaching in Alexandria" by Bernardo Strozzi, [Flickr](https://www.flickr.com/photos/mark6mauno/10832052985).
 
 <p align="center">
   <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/8-vis.html"><-- BACK</a>
