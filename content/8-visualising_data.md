@@ -132,6 +132,12 @@ Rogers, R., Sánchez-Querubín, N., & Kil, A. (2015). Issue mapping for an agein
 
 {% endcapture %} {% include card.html header="Relationships between topics - Alluvial diagram" text=text %}
 
+Further to these are articles which highlight visualisation examples in specific disciplines including:
+
+*Music research*: Khulusi, R., Kusnick, J., Meinecke, C., Gillmann, C., Focht, J., & Jänicke, S. (2020, September). A survey on visualizations for musical data. In Computer Graphics Forum (Vol. 39, No. 6, pp. 82-110). [https://doi.org/10.1111/cgf.13905](https://doi.org/10.1111/cgf.13905)
+
+
+----
 
 ## Visualisation tools
 
@@ -142,6 +148,7 @@ In addition to these analysis tools, the following can be used to create visuali
 - [RawGraphs](https://rawgraphs.io/ ) : open source program (free) developed at the Density Design Research Lab of the Politecnico di Milano
 - computational code including R & Python.
 - [TRAViz](http://www.traviz.vizcovery.org/index.html) : generates visualizations for Text Variant Graphs to show the variations between different editions of texts.
+- [TagPies Online](https://tagpies-online.vizcovery.org/) : visualise comparisons of classical terminology in texts. 
 
 
 ## Create a publication quality image of your visualisation
