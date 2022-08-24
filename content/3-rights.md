@@ -111,6 +111,8 @@ Many sites allow research or non-commercial scraping or API use.  Contact the [I
 {% capture publicdomain %}
 Some data is in the public domain (meaning nobody owns the copyright), or is licensed under free or public licenses like [Creative Commons](https://creativecommons.org.au) or [Copyleft](https://opensource.com/resources/what-is-copyleft). Creative Commons is not the same as being copyright-free. It is still a kind of license that you need to comply with. The main difference is that you don’t have to ask permission to use the material. Permission is granted by the owner in advance, provided that you conform to the licence terms. It’s possible for some Creative Commons licenses include a ‘No Derivatives’ term, which would prevent you from publishing a new dataset based on the original.
 
+See Griffith's [Library Guide on Text mining and analysis](https://libraryguides.griffith.edu.au/text-mining/open) for a list of open access sources.
+
 {% capture stillethics %}
 **Copyright-free does not mean ethics-free** 
 
@@ -129,7 +131,7 @@ Data that is freely licensed still carries ethical considerations! If your corpu
 
 {% capture permissionsblock %}
 
-To get permission, firstly find the copyright owner and their contact email address.   Then send an email adapting one of the permission template emails.  Make sure your permission covers all your intended activities.  Store the received permission so that it can be readily retrieved if ever required. As always, contact the [Information Policy Officer](http://www.griffith.edu.au/copyright-matters/)  for assistance.
+To get permission, firstly find the copyright owner and their contact email address.   Then send an email adapting one of the [permission template emails](https://www.griffith.edu.au/copyright-matters/hdr-candidates/getting-permission).  Make sure your permission covers all your intended activities.  Store the received permission so that it can be readily retrieved if ever required. As always, contact the [Information Policy Officer](http://www.griffith.edu.au/copyright-matters/)  for assistance.
 
 {% endcapture %}
 {% include card.html header="Getting permission" text=permissionsblock %}
