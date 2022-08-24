@@ -3,6 +3,7 @@ title: Visualise
 topics: Requirements; Types of visualisations; 
 nav: true
 ---
+
 # Visualisation methods and tools
 
 Visualising data can help us understand complex information quickly. Transforming data into a visual format can:

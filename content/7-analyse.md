@@ -4,7 +4,7 @@ topics: Processing methods; NLP; Common tasks; Useful tools; Useful platforms; C
 nav: true
 ---
 
-## Processing methods
+# Processing methods
 
 Once the text is cleaned and formatted it can be computationally processed using a number of different methods, depending on your analysis needs. Explore some of popular the methods below. 
 
