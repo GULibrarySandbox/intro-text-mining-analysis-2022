@@ -55,7 +55,7 @@ If you're unsure about your ethical obligations, contact [Griffith research ethi
 {% include alert.html text=text color="info" %} 
 
 {% capture deidentify %}
-Unless the participants have given their informed consent to being identified, you might need to remove personally identifying data from your data set before publishing it. This applies to all personal information, not just data which is sensitive or confidential.
+Unless the participants have given their informed consent to being identified, you will need to remove personally identifying data from your data set before publishing it. This applies to all personal information, not just data which is sensitive or confidential.
 
 Where a social media service has a search function, using direct quotes can identify individuals.
 
