@@ -48,7 +48,7 @@ In this project, named entity recognition of occupations followed by frequency a
 
 Baruah, S., Somandepalli, K., & Narayanan, S. (2022). Representation of professions in entertainment media: Insights into frequency and sentiment trends through computational text analysis. PloS one, 17(5), e0267812. [https://doi.org/10.1371/journal.pone.0267812](https://doi.org/10.1371/journal.pone.0267812)
 {% include figure.html img="ProfessionsMediaFrequency.PNG" alt="Frequency trends of professions featured in movies and TV 1950-2020 image" caption="Frequency trends of professions featured in movies and TV 1950-2020" width="100%" %}
-Image source: (Baruah, S. et al., 2022)
+Image source: (Baruah, S. et al., 2022) Licenced under Creative Commons [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 {% endcapture %} {% include card.html header="Frequency trends visualised in line charts" text=text %}
 
 {% capture text %}
@@ -141,19 +141,20 @@ Further to these are articles which highlight visualisation examples in specific
 
 ## Visualisation tools
 
-Many of the text analysis tools listed on the previous page can create visualisations of the data. Try this Voyant tools [activity](https://griffithunilibrary.github.io/data-vis-basics/content/5-voyant.html) to visualised a series of articles from *The Conversation* as an example.
+Most of the text analysis tools listed on the previous page also create visualisations of the data. Try this Voyant tools [activity](https://griffithunilibrary.github.io/data-vis-basics/content/5-voyant.html) to visualised a series of articles from *The Conversation* as an example.
 
-In addition to these analysis tools, the following can be used to create visualisations for structured, categorical data or tabular data: 
+In addition to the analysis tools, the following can be used to create visualisation: 
 - MS Excel and other spread sheet programs
-- [RawGraphs](https://rawgraphs.io/ ) : open source program (free) developed at the Density Design Research Lab of the Politecnico di Milano
+- [RawGraphs](https://rawgraphs.io/ ) : open source program (free) for structured data. Developed at the Density Design Research Lab.
 - computational code including R & Python.
 - [TRAViz](http://www.traviz.vizcovery.org/index.html) : generates visualizations for Text Variant Graphs to show the variations between different editions of texts.
 - [TagPies Online](https://tagpies-online.vizcovery.org/) : visualise comparisons of classical terminology in texts. 
 
+----
 
 ## Create a publication quality image of your visualisation
 
-Explore the easiest tools and the steps to convert visualisations into publication quality images in these [lessons](https://griffithunilibrary.github.io/data-vis-basics/content/4-convert.html).
+Explore the simplest tools and methods to convert visualisations into publication quality images in these [lessons](https://griffithunilibrary.github.io/data-vis-basics/content/4-convert.html).
 
 -----
 
