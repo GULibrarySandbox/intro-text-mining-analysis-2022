@@ -120,6 +120,22 @@ Ash, E., & Chen, D. L. (2018). What Kind of Judge Is Brett Kavanaugh. Cardozo La
 {% endcapture %} {% include card.html header="Coefficient plot visualising sentiment analysis" text=text %}
 
 {% capture text %}
+Researchers mined keywords from online news articles across 2011, from 13 country-based Non Government Orgaisations (NGOs) that focus on issues related to aging.
+The alluvial diagram below was created using Pallozio script which is available via open source visualisation tool [Rawgraphs.io](https://www.rawgraphs.io/).  The diagram shows a bipartite network with ageing issues identified and distributed by country.  The width of the streams indicates frequency of mentions of the issue. Issues are indicated on left side of the diagram and NGO's countries that mention the issues are listed on the right. It is easy to see common issues and the dominance of issues within particular countries. 
+
+{% include figure.html img="AgeingIssuesVis.PNG" alt="Alluvial diagram of topics" caption="Alluvial diagram of topics" width="100%" %}
+Image source: (Rogers, et al., 2015) licenced under [Creative Commons CC-BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)
+
+The full report utilises bubble, network, heat list and word frequency cloud visualisations to explore the data, read more at:
+
+Rogers, R., Sánchez-Querubín, N., & Kil, A. (2015). Issue mapping for an ageing Europe. Amsterdam University Press. https://library.oapen.org/handle/20.500.12657/33128 
+
+{% endcapture %} {% include card.html header="Activity - ..." text=text %}
+
+
+{% capture text %}
+
+
 {% endcapture %} {% include card.html header="Activity - ..." text=text %}
 
 ## Visualisation tools
