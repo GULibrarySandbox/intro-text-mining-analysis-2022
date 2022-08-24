@@ -68,7 +68,7 @@ Read more about the findings and methods at:
 Nalau, J., & Verrall, B. (2021). Mapping the evolution and current trends in climate change adaptation science. Climate Risk Management, 32, 100290. [https://doi.org/10.1016/j.crm.2021.100290](https://doi.org/10.1016/j.crm.2021.100290)
 
 {% include figure.html img="Nalua_Environment_VosViewerVis.PNG" alt="Network visualisation of climate change adaptation literature themes" caption="Network visualisation of climate change adaptation literature themes" width="100%" %}
-Image source: (Nalau & Verrall, 2021)
+Image source: (Nalau & Verrall, 2021) Licenced under Creative Commons [(CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 {% endcapture %} {% include card.html header="Bibliometric analysis network visualisation" text=text %}
 
 {% capture text %}
