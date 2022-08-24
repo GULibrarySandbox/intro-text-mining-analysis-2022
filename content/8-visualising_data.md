@@ -139,8 +139,9 @@ Many of the text analysis tools listed on the previous page can create visualisa
 
 In addition to these analysis tools, the following can be used to create visualisations for structured, categorical data or tabular data: 
 - MS Excel and other spread sheet programs
-- [RawGraphs](https://rawgraphs.io/ ) open source program (free) developed at the Density Design Research Lab of the Politecnico di Milano
+- [RawGraphs](https://rawgraphs.io/ ) : open source program (free) developed at the Density Design Research Lab of the Politecnico di Milano
 - computational code including R & Python.
+- [TRAViz](http://www.traviz.vizcovery.org/index.html) : generates visualizations for Text Variant Graphs to show the variations between different editions of texts.
 
 
 ## Create a publication quality image of your visualisation
