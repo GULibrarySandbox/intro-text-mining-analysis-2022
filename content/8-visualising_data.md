@@ -114,7 +114,7 @@ This research undertook quantitative text analysis of the corpus of U.S. Circuit
 
 Explore the full analysis from:
 
-Ash, E., & Chen, D. L. (2018). What Kind of Judge Is Brett Kavanaugh. Cardozo Law Review De-Novo, 2018, 70-100.  Available at SSRN: https://ssrn.com/abstract=3307754
+Ash, E., & Chen, D. L. (2018). What Kind of Judge Is Brett Kavanaugh. Cardozo Law Review De-Novo, 2018, 70-100.  Available at SSRN: [https://ssrn.com/abstract=3307754](https://ssrn.com/abstract=3307754)
 
 {% endcapture %} {% include card.html header="Coefficient plot visualising sentiment analysis" text=text %}
 
