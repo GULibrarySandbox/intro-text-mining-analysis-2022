@@ -16,7 +16,7 @@ The following NLP tasks break down text into analysable parts:
 
 | NLP method | Description | Example |
 | Tokenization |Splits the text into sentences and sentences into words; changes to lowercase and removes punctuation. | This is creates a 'bag of words' for analysis |
-| Stop word removal | Uses standard language stop word dictionaries which can be amended. | removes words such as the, and, it so, this, page, of.... |
+| Stop word removal | Uses standard language stop word dictionaries which can be amended. | removes words such as "the", "and", "it", "so", "this", "page", "of".... |
 | Lemmatization | Third person words are changed to first person and verbs in past and future tenses are change into present. | Alters change, changing, changes, changed... to change |
 | Word stemming | Words are reduced to their root form. | Changes victorious, victories, victory... to victor |
 | Special characters removed | Characters that cannot be understood are removed. | * @ # ! >> |
@@ -64,6 +64,7 @@ Learn more about these methods from:
 - Prof. Miriam Possner's [Topic Modelling online tutorials](http://miriamposner.com/classes/dh201w21/tutorials-guides/text-analysis/messing-around-with-the-topic-modeling-tool/)
 - [Demystifying Networks](http://www.scottbot.net/HIAL/index.html@p=6279.html) an introduction for HASS scholars.
 - [Introduction to Sentiment analysis](https://www.youtube.com/watch?v=i4D5DZ5ZG-0) fun and informative video.
+- [Article on comparison of machine learning methods for text-based sentiment analysis](https://doi.org/10.1016/j.ijresmar.2021.10.011)
 
 {% capture text %}
 After applying these compuational processing and analysis methods, the data will be ready for the most important and interesting stage, your own analysis of the results. {% endcapture %}{% include alert.html text=text color="info" %} 
