@@ -94,18 +94,6 @@ Explore the many computational methods and visualisations available from the *Ro
 Leonard, P. and King, L., (n.d.). Robots Reading Vogue.(accessed August, 19, 2022). [http://dh.library.yale.edu/projects/vogue/](http://dh.library.yale.edu/projects/vogue/)
 {% endcapture %} {% include card.html header="Topic Modelling in cluster dendrogram & timeline visualisation" text=text %}
 
-{% capture text %}
-Automated content analysis was used in research on the global language of human rights to identify and quantify word frequencies and semantic patterns across 615 constitutional texts.  The researchers used the [Structural Topic model STM package in R](https://cran.r-project.org/web/packages/stm/vignettes/stmVignette.pdf) and identified thirty topics for statistical analysis.  
-
-The line graph in the figure below illustrates the changes in frequency of two topics *generic rights* and *social, economic rights* in the constitutional literature over time. 
-
-{% include figure.html img="GlobalLawHumanRightsVis.PNG" alt="Average prevalence of two topics over time - image" caption="Average prevalence of two topics over time" width="100%" %}
-Image source: (Law, 2018)
-
-Explore the data, methods and results further in: 
-
-Law, D. S. (2018). The global language of human rights: a computational linguistic analysis. The Law & Ethics of Human Rights, 12(1), 111-150. [https://core.ac.uk/download/pdf/95563172.pdf](https://core.ac.uk/download/pdf/95563172.pdf)
-{% endcapture %} {% include card.html header="Content analysis visualised by timeline graphs" text=text %}
 
 {% capture text %}
 This research undertook quantitative text analysis of the corpus of U.S. Circuit Court decisions from 1975 to 2013, focusing on a set of judges later nominated for, or promoted to the U.S. Supreme court. Sentiment analysis was one of the methods used to explore Judges’ written opinions and identified differences in sentiment towards particular groups. The coefficient plot below, produced from case-level regressions, illustrates language sentiment towards farmers by individual judges, with positive sentiment indicated above zero and negative sentiment below zero. 
