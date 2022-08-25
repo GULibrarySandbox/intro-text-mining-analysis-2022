@@ -25,7 +25,7 @@ There can be a number of steps to prepare, clean, then format text data dependin
 ### How to prepare text data
 
 | *Speech to text* | *Handwritten text* | *Printed text* | *Digital text* |
-| audio transcription | transcription | digitisation, transcription | reformat to .txt |
+| transcribe the audio content | transcribe manually or via an automated processes | transcribe or digitise via a scanner then process via Optical Character Recognition (OCR) | reformat files to .txt |
 {:.table .table-bordered}
 
 ### Tools to prepare text data
@@ -39,15 +39,16 @@ There can be a number of steps to prepare, clean, then format text data dependin
 
 ### How to clean text
 
-No preparation tool will create perfect text.  Errors will be generated in the transcription or conversion processes. You may need to manually review and clean the text, correcting OCR (Optical character recognition) of scanned images of pages, misinterpretations of spoken words, and other transcription errors. Programs such as Python can automate some cleaning processes. Read about this at [machinelearningmastery.com](https://machinelearningmastery.com/clean-text-machine-learning-python/). You can also clean text prior using some analysis tools, such as Voyant tools. More on this in the next lesson. 
+No preparation tool will create perfect text.  Errors will be generated in the transcription or conversion processes. You may need to manually review and clean the text, correcting OCR (Optical character recognition) of scanned images of pages, mis-interpretation of spoken words, and other transcription errors. Programs such as Python can automate some cleaning processes. Read about this at [machinelearningmastery.com](https://machinelearningmastery.com/clean-text-machine-learning-python/). You can also clean text prior using some analysis tools, such as Voyant tools. More on this in the next lesson. 
 
 ### Unstructured vs structured text and machine readibility
 
-Humans understand that language, and the text that represents it, is highly complex and full of structure. However text is often described as unstructured, when it does not fit easily into a database management system, or is not easily processed by a computer. 
+Humans understand that language, and the text that represents it, is highly complex and full of structure. However text is often described as unstructured, when it does not fit easily into a database, or is not easily processed by a computer. 
+
 - Unstructured text may include text from narratives (books, articles etc.), interviews, survey responses with free text and more.  
 - Structured text can include metadata from GLAM catalogues or finding aides, text in structured databases, possibly spreadsheets, even old ledgers and logbooks. 
 
-### How to format structured and unstructured text
+### Formating structured and unstructured text
 
 All text documents need to be formatted for machine readability by software programs or code, let's look at the different formats for structured and unstructured text.
 - `.txt` : is the best format for unstructured text as it is non-proprietary & used in all text analysis tools. Unstructured text in file formats such as `.doc` , `.docx`, `.rtf` (rich text format) can be exported as `.txt` via Microsoft Word.
