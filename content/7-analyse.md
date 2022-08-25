@@ -103,6 +103,8 @@ The tools listed below enable users to undertake text analysis without the need 
 - [Topic Modelling tool](https://senderle.github.io/topic-modeling-tool/documentation/2017/01/06/quickstart.html)
 - [Cytoscape](https://cytoscape.org/) software platform for visualizing complex networks. 
 - [Stanford Named Entity Recognizer (NER)](https://nlp.stanford.edu/software/CRF-NER.html) is particularly good for person, organisation and location recognition.
+- [WordHoard](https://wordhoard.northwestern.edu/userman/index.html) web application for the close reading and scholarly analysis of deeply tagged texts, from Northwestern University.
+- [WORDij Semantic Network Tools](https://www.wordij.net/index.html) is downloadable software for natural language processing. It can process unstructured text from sources such as social media, news, speeches, focus groups, interviews, email, and web sites. 
 
 {% capture text %}
 Try this [activity](https://griffithunilibrary.github.io/data-vis-basics/content/5-voyant.html) using [Voyant tools](https://voyant-tools.org/). Look at the results, think how you might use it for analysis and the limitations of the tool.{% endcapture %} {% include card.html header="Voyant tools activity" text=text %}
