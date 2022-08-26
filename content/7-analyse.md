@@ -66,7 +66,7 @@ Learn more about these methods from:
 - [Article on comparison of machine learning methods for text-based sentiment analysis](https://doi.org/10.1016/j.ijresmar.2021.10.011)
 
 {% capture text %}
-After applying these compuational processing and analysis methods, the data will be ready for the most important and interesting stage, your own analysis of the results. {% endcapture %}{% include alert.html text=text color="info" %} 
+After applying these compuational processing and analysis models and methods, the data will be ready for the most important and interesting stage, analysis and interpretation of the results. {% endcapture %}{% include alert.html text=text color="info" %} 
 
 ----
 ##  Analysis tools
