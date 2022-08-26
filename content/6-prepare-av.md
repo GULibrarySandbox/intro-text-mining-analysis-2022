@@ -35,6 +35,6 @@ Find out how to classify and treat your research data securely at [Griffith's In
 Next up : Process and analysis methods and tools.
 
 <p align="center">
-  <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/5-build.html"><-- BACK</a> |
+  <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/5-prepare-text.html"><-- BACK</a> |
   <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/7-analyse.html">NEXT --></a>
 </p>
