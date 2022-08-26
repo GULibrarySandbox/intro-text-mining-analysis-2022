@@ -72,10 +72,10 @@ After applying these compuational processing and analysis models and methods, th
 ##  Analysis tools
 
 {% capture text %}
-Login and installation required. Training available for Griffith researchers via [Researcher Education & Development](https://www.griffith.edu.au/research/research-services/researcher-education-development/workshop-calendar).
-
 - [NVivo](https://www.griffith.edu.au/student-computing/available-software) : performs cluster analysis, phrase nets, tag clouds, and sentiment analysis. 
-- [Leximancer](https://www.griffith.edu.au/student-computing/available-software) : performs network analysis, topic modeling, sentiment analysis, and named entity recognition.{% endcapture %}{% include card.html header="Griffith University subscription software" text=text %}
+- [Leximancer](https://www.griffith.edu.au/student-computing/available-software) : performs network analysis, topic modeling, sentiment analysis, and named entity recognition.
+
+Login and installation are required for both. Training is available for Griffith researchers via [Researcher Education & Development](https://www.griffith.edu.au/research/research-services/researcher-education-development/workshop-calendar).{% endcapture %}{% include card.html header="Griffith University subscription software" text=text %}
 
 {% capture text %}
 The virtual research environments below have been developed to support digital text scholarship.
