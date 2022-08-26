@@ -131,6 +131,6 @@ Sinclair, Stéfan and Geoffrey Rockwell, 2016. *Voyant Tools*. Web. http://voyan
 -----
 
 <p align="center">
-  <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/5-build.html"><-- BACK</a> |
+  <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/6-prepare-av.html"><-- BACK</a> |
   <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/8-visualising_data.html">NEXT --></a>
 </p>
