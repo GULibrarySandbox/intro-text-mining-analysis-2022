@@ -48,6 +48,6 @@ Whalen, Ryan, Judicial Gobbledygook: The Readability of Supreme Court Writing (N
 mark6mauno (2013). "Eratosthenes Teaching in Alexandria" by Bernardo Strozzi, [Flickr](https://www.flickr.com/photos/mark6mauno/10832052985).
 
 <p align="center">
-  <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/8-vis.html"><-- BACK</a>
+  <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/8-visualising_data.html"><-- BACK</a>
   
 </p>
