@@ -106,10 +106,9 @@ The tools listed below enable users to undertake text analysis without the need 
 {% capture text %}
 Try this [activity](https://griffithunilibrary.github.io/data-vis-basics/content/5-voyant.html) using [Voyant tools](https://voyant-tools.org/). Look at the results, think how you might use it for analysis and the limitations of the tool.{% endcapture %} {% include card.html header="Voyant tools activity" text=text %}
 
-### Coding for text mining and analysis
+{% capture text %}
 - [R](https://www.rstudio.com/products/rstudio/) & [R Studio](https://www.rstudio.com/) : network analysis, topic modeling, classification/clustering, named entity recognition, sentiment analysis 
 - [Python](https://www.python.org/) : network analysis, topic modeling, classification/clustering, named entity recognition, sentiment analysis
-
 
 ##### Coding tutorials for text mining and analysis
 - [Beginner R & Python workshops](https://www.griffith.edu.au/eresearch-services/hacky-hour) are available from Griffith's eResearch services throughout the year. 
@@ -117,7 +116,7 @@ Try this [activity](https://griffithunilibrary.github.io/data-vis-basics/content
 - [Programming Historian](https://programminghistorian.org/en/lessons/)  novice-friendly, peer-reviewed tutorials to help humanists learn a wide range of digital tools, techniques, and workflows. These include lesons in R and Python. 
 - [GLAM Workbench tutorials](https://glam-workbench.net/getting-started/) learn how to use the GLAM Workbench, [Jupyter Notebook](https://jupyter.org/) and Python to extract and analyse data from Australia's galleries libraries, archives and museums.
 - [Top 5 Unknown Sentiment Analysis Projects On Github To Help You Through Your NLP Projects](https://medium.com/analytics-vidhya/top-5-unknown-sentiment-analysis-projects-on-github-to-help-you-through-your-nlp-projects-8d8f195e80fc) 
-- [Language Technology and Data Analysis Laboratory (LADAL) Tutorials](https://ladal.edu.au/tutorials.html) provides online text analysis tutorials in R.
+- [Language Technology and Data Analysis Laboratory (LADAL) Tutorials](https://ladal.edu.au/tutorials.html) provides online text analysis tutorials in R.{% endcapture %}{% include card.html header="Coding for text mining and analysis" text=text %}
 
 {% capture text %}
 Note: Refer to software used for your research in methods notes. Attribute software developers by citation e.g. 
