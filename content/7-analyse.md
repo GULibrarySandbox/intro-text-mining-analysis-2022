@@ -36,7 +36,6 @@ Machine learning is a branch of AI and a process of teaching a computer system t
 Explore some common computational text analysis methods. 
 
 {% include figure.html img="TextAnalysisTasks.png" alt="Text analysis tasks" caption="Text analysis tasks" width="100%" %}
-Image Source: Jänicke, S. et. al.(2017)
 
 ### Text pattern analysis
 
