@@ -151,6 +151,6 @@ Explore the simplest tools and methods to convert visualisations into publicatio
 -----
 
 <p align="center">
-  <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/6-analyse.html"><-- BACK</a> |
-  <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/8-help.html">NEXT --></a>
+  <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/7-analyse.html"><-- BACK</a> |
+  <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/9-references.html">NEXT --></a>
 </p>
