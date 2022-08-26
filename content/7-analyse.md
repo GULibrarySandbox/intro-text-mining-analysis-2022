@@ -71,15 +71,13 @@ After applying these compuational processing and analysis models and methods, th
 ----
 ##  Analysis tools
 
-### Griffith University subscription software
-
+{% capture text %}
 Login and installation required. Training available for Griffith researchers via [Researcher Education & Development](https://www.griffith.edu.au/research/research-services/researcher-education-development/workshop-calendar).
 
 - [NVivo](https://www.griffith.edu.au/student-computing/available-software) : performs cluster analysis, phrase nets, tag clouds, and sentiment analysis. 
-- [Leximancer](https://www.griffith.edu.au/student-computing/available-software) : performs network analysis, topic modeling, sentiment analysis, and named entity recognition. 
+- [Leximancer](https://www.griffith.edu.au/student-computing/available-software) : performs network analysis, topic modeling, sentiment analysis, and named entity recognition.{% endcapture %}{% include card.html header="Griffith University subscription software" text=text %}
 
-### Platforms with prepared text and tools
-
+{% capture text %}
 The virtual research environments below have been developed to support digital text scholarship.
 - [JSTOR text mining support](https://about-jstor-org.libraryproxy.griffith.edu.au/whats-in-jstor/text-mining-support/) :  for metadata, n-grams, and word counts for most articles and book chapters, and for all research reports and pamphlets available via Griffith University's subscription to JSTOR. Login required.
 - [Gale Digital Scholar Lab](http://libraryproxy.griffith.edu.au/login?url=https://infotrac.gale.com/itweb/griffith?db=DSLAB) : for document clustering, named entity recognition, Ngrams, Parts of Speech, Sentiment Analysis, Topic Modelling all available via Griffith University's subscription. The lab is designed to use the Gale Primary Source archives, but you can use the analysis tools with your own data. Learn about it and Gale Primary Sources [here](https://sway.office.com/v4sYacFkErbH9HNo). Includes [online tutorials](https://go-gale-com.libraryproxy.griffith.edu.au/ps/helpCenter?userGroupName=griffith&inPS=true&nspage=true&prodId=DSLAB&docId=VJWVZS717322017). Login required. 
@@ -87,16 +85,14 @@ The virtual research environments below have been developed to support digital t
 - [Proquest TDM Studio](https://tdmstudio.proquest.com/) : create an account with your university email address.  Undertake geographic analysis, topic modelling or sentiment analysis of Proquest's collection of newspapers, dissertations and theses. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/etRaylzA6AE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% endcapture %}{% include card.html header="Platforms with prepared text and tools" text=text %}
 
-
-### Open source (free) tools
-
+{% capture text %}
 The tools listed below enable users to undertake text analysis without the need to learn to code. The majority of the tools are based on Python or R codes. We can use these tools for simple or exploratory data analysis and some visulations. Some tools are downloadable to your computer, others are web interfaces, each with their own benefits and limitations.
 
 | Advantages | Disadvantages |
 | Easier to learn than coding, good for high level analysis | Can be inflexible, may not be good for deeper analysis, web based tools may not approprate for using with identifiable data. |
 {:.table .table-bordered}
-
 
 - [Voyant Tools](https://voyant-tools.org/) web based online tool for frequency, distribution and collocation of terms, keywords in context, term clusters and more.
 - [Sentiment Analyzer](https://www.danielsoper.com/sentimentanalysis/default.aspx) web based tool for analysing one source at a time.
@@ -105,7 +101,7 @@ The tools listed below enable users to undertake text analysis without the need 
 - [Stanford Named Entity Recognizer (NER)](https://nlp.stanford.edu/software/CRF-NER.html) is particularly good for person, organisation and location recognition.
 - [WordHoard](https://wordhoard.northwestern.edu/userman/index.html) web application for the close reading and scholarly analysis of deeply tagged texts, from Northwestern University.
 - [WORDij Semantic Network Tools](https://www.wordij.net/index.html) is downloadable software for natural language processing. It can process unstructured text from sources such as social media, news, speeches, focus groups, interviews, email, and web sites. 
-- [CLAWS part of speech tagger](https://ucrel.lancs.ac.uk/claws/) for corpus annotation for English text, developed by UCREL at Lancaster University.
+- [CLAWS part of speech tagger](https://ucrel.lancs.ac.uk/claws/) for corpus annotation for English text, developed by UCREL at Lancaster University.{% endcapture %}{% include card.html header="Open source (free) tools" text=text %}
 
 {% capture text %}
 Try this [activity](https://griffithunilibrary.github.io/data-vis-basics/content/5-voyant.html) using [Voyant tools](https://voyant-tools.org/). Look at the results, think how you might use it for analysis and the limitations of the tool.{% endcapture %} {% include card.html header="Voyant tools activity" text=text %}
