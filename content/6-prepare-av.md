@@ -10,9 +10,9 @@ nav: true
 
 Researchers prepare audio and video data in order to analyse interview content, annotate sounds or visual information, including the views and emotions of focus groups, or to take notes from video observations.
  
-How you prepare this data depends on what you are analysing for, if you are preparing interviews, you will need to transcribe the audio to text.
+If you are preparing interviews, you will need to transcribe the audio to text.
 
-If you are analysing the sounds, such as accents or pronounciations of words, you will need to make sure the sound file is clear and unblemished and have a clear set of annotations to describe each sound. 
+If you are analysing the sounds from the audio or video, such as accents or pronounciations of words, you will need to make sure the sound file is clear and unblemished and create a clear set of annotations to describe the sounds. 
 
 ## Transcription 
 
