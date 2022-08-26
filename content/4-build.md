@@ -18,7 +18,7 @@ Digitisation, Optical Character Recognition (OCR) processing, indexing, encoding
 - <a href ='https://libraryguides.griffith.edu.au/finddata' target="_blank">Finding data guide </a>  
 - [Text mining and analysis guide](https://libraryguides.griffith.edu.au/text-mining) : of Griffith Library subscription and open source databases
 
-Explore the amazing data that can be extracted from our GLAM catalogues with [Ass. Prof. Tim Sherratt](https://timsherratt.org/) historian and hacker.
+Explore the amazing data that can be extracted from our GLAM catalogues with [Ass. Prof. Tim Sherratt](https://timsherratt.org/) historian and hacker, via the video below.
 <iframe width="853" height="480" src="https://www.youtube.com/embed/spvb-zBe24o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 If you cannot get the data you need from the guides above make an enquiry with the platform of interest. Companies may make their data available to researchers by agreement such as [Twitter's Academic Research access service](https://developer.twitter.com/en/products/twitter-api/academic-research). Archives and other repositories will have links to the datasets that can be downloaded, as will some Government websites.  
@@ -33,7 +33,8 @@ When downloading resources, select text `.txt` file format which has all formatt
 
 If this isn't possible choose `.pdf` format which is accepted by some analysis programs or can be read by Optical Character Recognition (OCR), then useable in analysis programs. 
 
-`**Insert video on downloading from TROVE here.**`
+Watch the video below to learn how to search then download newspaper articles from TROVE.
+<iframe width="853" height="480" src="https://www.youtube.com/embed/RZyq_QMO7YY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [TROVE text download options](https://trove.nla.gov.au/help/using-trove/downloading) provides `.txt` and `.pdf` format download instructions for different types of resources.
 
