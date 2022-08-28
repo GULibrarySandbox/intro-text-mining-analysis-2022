@@ -6,17 +6,17 @@ nav: true
 
 # What is text mining and analysis?
 
-Text mining is the use of computational methods to extract data from collections of unstructured or semi-structured text. The goal of text mining is to discover & extract information or patterns hidden in text, often across large collections of text.  
+Text mining is the use of computational methods to extract data from collections of unstructured or semi-structured text. The goal of text mining is to discover & extract information or patterns hidden in text, often across large collections. In this process the text becomes data for quantative analysis.
 
-There is a long research tradition in text analysis in the humanities and with the explosion in digital text, computational analysis methods have developed in fields including statistics, computer science, (computational) linguistics and library science.  [Distant reading](https://www.cambridge.org/core/journals/pmla/article/race-and-distant-reading/6646170D88722BB195E40D4352BCDA1A) (quantitative analysis) of a digitised text or corpus (a text collection) is a well known humanities term for text mining and analysis methods. 
+There is a long research tradition in text analysis in the humanities and with the explosion in digital text, computational analysis methods have developed in fields including statistics, computer science, (computational) linguistics and library science.  [Distant reading](https://www.cambridge.org/core/journals/pmla/article/race-and-distant-reading/6646170D88722BB195E40D4352BCDA1A) (quantitative analysis) of a digitised text or corpus (a text collection) is a well known humanities term used for text mining and analysis methods. 
 
-All researchers regardless of discipline, methodology, or objective, can gain insights from text.
-- Communication scholars analyse [news texts](https://doi-org.libraryproxy.griffith.edu.au/10.1080/17524032.2015.1056542) and [social media feeds](https://doi-org.libraryproxy.griffith.edu.au/10.1080/13669877.2019.1673798)
+All researchers regardless of discipline, methodology, or objective, can gain insights from text as data.
+- Communication scholars collect and analyse [news texts](https://doi-org.libraryproxy.griffith.edu.au/10.1080/17524032.2015.1056542) and scrape [social media feeds](https://doi-org.libraryproxy.griffith.edu.au/10.1080/13669877.2019.1673798)
 - Qualitative sociologists process and analyse hundreds of hours of [interview transcripts](https://research-repository.griffith.edu.au/handle/10072/386927) 
 - Political scientists analyse [collections of speeches](https://research-repository.griffith.edu.au/handle/10072/401011) and [parliamentary transcripts](https://doi.org/10.1017/S0738248016000304)
-- Engineering researchers examine [accident reports](https://ieeexplore-ieee-org.libraryproxy.griffith.edu.au/document/7277059)
-- Historians access primary source materials from remote repositories enabling broader perspectives and [new research](https://research-repository.griffith.edu.au/handle/10072/380293)
-- Literary scholars work with digitized [single texts](https://academic-oup-com.libraryproxy.griffith.edu.au/dsh/article/32/suppl_1/i17/2755123), [multiple versions](http://librarycatalogue.griffith.edu.au/record=b2773844) of text, [whole corpus or person-of-interest collections](https://publications.hse.ru/en/chapters/158772968)
+- Engineering researchers text mine and examine [accident reports](https://ieeexplore-ieee-org.libraryproxy.griffith.edu.au/document/7277059)
+- Historians access primary source materials from online repositories enabling broader perspectives and [new research](https://research-repository.griffith.edu.au/handle/10072/380293)
+- Literary scholars work with digitized [single texts](https://academic-oup-com.libraryproxy.griffith.edu.au/dsh/article/32/suppl_1/i17/2755123), [translated versions](https://doi.org/10.1093/llc/fqw027) of text, [whole corpus or person-of-interest collections](https://publications.hse.ru/en/chapters/158772968)
 - Environmental scientists undertake [network analysis of research literature](https://research-repository.griffith.edu.au/handle/10072/403109)
 - Medical researchers analyse electronic [patient records](https://link-springer-com.libraryproxy.griffith.edu.au/book/10.1007/978-3-319-78503-5)
 - Legal scholars examine [case law and legislation](https://www-annualreviews-org.libraryproxy.griffith.edu.au/doi/10.1146/annurev-lawsocsci-052720-121843#_i9)
