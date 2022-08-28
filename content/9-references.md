@@ -8,6 +8,8 @@ Adily A, Karystianis G & Butler T 2021. Text mining police narratives for mentio
 
 Baruah S, Somandepalli K, Narayanan S (2022) Representation of professions in entertainment media: Insights into frequency and sentiment trends through computational text analysis. PLOS ONE 17(5): e0267812. https://doi.org/10.1371/journal.pone.0267812
 
+Cheesman, T., Flanagan, K., Thiel, S., Rybicki, J., Laramee, R. S., Hope, J., & Roos, A. (2017). Multi-Retranslation corpora: Visibility, variation, value, and virtue. Digital Scholarship in the Humanities, 32(4), 739-760. https://doi.org/10.1093/llc/fqw027
+
 Francis Bacon Network [2, 1562-1626, 61-100%]." Six Degrees of Francis Bacon. [http://www.sixdegreesoffrancisbacon.com/?ids=10000473&min_confidence=60&type=network, 8/6/2021](http://www.sixdegreesoffrancisbacon.com/?ids=10000473&min_confidence=60&type=network, 8/6/2021)
 
 Hetenyi, G., Lengyel, A., & Szilasi, M. (2019). Quantitative analysis of qualitative data: Using voyant tools to investigate the sales-marketing interface. Journal of Industrial Engineering and Management (JIEM), 12(3), 393-404.[https://doi.org/10.3926/jiem.2929](https://doi.org/10.3926/jiem.2929)
