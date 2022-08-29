@@ -21,10 +21,8 @@ Digitisation, Optical Character Recognition (OCR) processing, indexing, encoding
 Explore the amazing data that can be extracted from Australian GLAM catalogues with historian and hacker [Ass. Prof. Tim Sherratt](https://timsherratt.org/), via the video below.
 <iframe width="853" height="480" src="https://www.youtube.com/embed/spvb-zBe24o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br>
-</br>
 
-If the data you need is not avaiable via the sources in the guides above make a direct enquiry with the platform or data owner of interest. Companies may make their data available to researchers by agreement such as [Twitter's Academic Research access service](https://developer.twitter.com/en/products/twitter-api/academic-research). Archives and other repositories will have links to datasets that can be downloaded for TDM, as will some Government websites.  
+If the data you need is not available via the sources in the guides above make a direct enquiry with the platform or data owner of interest. Companies may make their data available to researchers by agreement such as [Twitter's Academic Research access service](https://developer.twitter.com/en/products/twitter-api/academic-research). Archives and other repositories will have links to datasets that can be downloaded for TDM, as will some Government websites.  
 
 ## Extracting data
 
