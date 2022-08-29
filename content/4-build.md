@@ -6,7 +6,7 @@ nav: true
 
 # Building a dataset
 
-A dataset can be built either through finding and extracting existing data, collating resources or generating your own data. Building a dataset can be as simple as collecting PDFs from your literature search, or as complex as finding then transribing handwritten texts and converting them into a computational format.  
+A dataset can be built either by finding and extracting existing text data, collating resources or generating your own data. Building a dataset can be as simple as collecting PDFs from your literature search, or as complex as finding then transribing handwritten texts and converting them into a computational format.  
 
 The first step is to find the dataset or corpus of interest.
 
@@ -14,12 +14,15 @@ The first step is to find the dataset or corpus of interest.
 
 {% include figure.html img="GLAMCollections.PNG" alt="Find data in GLAM collections" caption="Find data in GLAM collections" width="100%" %}
 
-Digitisation, Optical Character Recognition (OCR) processing, indexing, encoding, and online hosting of primary source materials by archives, libraries, museums and galleries (GLAM sector)  has enabled greater access, and new ways to find, explore, process and analyse text as data.  An easy way to get started in finding discipline specific data sets is in the Griffith guides
+Digitisation, Optical Character Recognition (OCR) processing, indexing, encoding, and online hosting of primary source materials by archives, libraries, museums and galleries (GLAM sector)  has enabled greater access, and new ways to find, explore, process and analyse text as data.  An easy way to get started in finding discipline specific data sets is via the Griffith guides:
 - <a href ='https://libraryguides.griffith.edu.au/finddata' target="_blank">Finding data guide </a>  
 - [Text mining and analysis guide](https://libraryguides.griffith.edu.au/text-mining) : of Griffith Library subscription and open source databases
 
-Explore the amazing data that can be extracted from our GLAM catalogues with [Ass. Prof. Tim Sherratt](https://timsherratt.org/) historian and hacker, via the video below.
+Explore the amazing data that can be extracted from Australian GLAM catalogues with historian and hacker [Ass. Prof. Tim Sherratt](https://timsherratt.org/), via the video below.
 <iframe width="853" height="480" src="https://www.youtube.com/embed/spvb-zBe24o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+</br>
 
 If you cannot get the data you need from the guides above make an enquiry with the platform of interest. Companies may make their data available to researchers by agreement such as [Twitter's Academic Research access service](https://developer.twitter.com/en/products/twitter-api/academic-research). Archives and other repositories will have links to the datasets that can be downloaded, as will some Government websites.  
 
