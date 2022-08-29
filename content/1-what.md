@@ -6,7 +6,7 @@ nav: true
 
 # What is text mining and analysis?
 
-Text mining is the use of computational methods to extract data from collections of unstructured or semi-structured text. The goal of text mining is to discover & extract information or patterns hidden in text, often across large collections. In this process the text becomes data for quantative analysis.
+Text mining is the use of computational methods to extract data from collections of unstructured or semi-structured text. The goal of text mining is to discover & extract information or patterns hidden in text, often across large collections. In this process the text is transformed into data for quantative analysis.
 
 There is a long research tradition in text analysis in the humanities and with the explosion in digital text, computational analysis methods have developed in fields including statistics, computer science, (computational) linguistics and library science.  [Distant reading](https://www.cambridge.org/core/journals/pmla/article/race-and-distant-reading/6646170D88722BB195E40D4352BCDA1A) (quantitative analysis) of a digitised text or corpus (a text collection) is a well known humanities term used for text mining and analysis methods. 
 
