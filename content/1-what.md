@@ -21,7 +21,7 @@ All researchers regardless of discipline, methodology, or objective, can gain in
 - Medical researchers analyse the text of electronic [patient records](https://link-springer-com.libraryproxy.griffith.edu.au/book/10.1007/978-3-319-78503-5)
 - Legal scholars examine large corpora of [case law and legislation](https://www-annualreviews-org.libraryproxy.griffith.edu.au/doi/10.1146/annurev-lawsocsci-052720-121843#_i9)
 
-Below is an example of an interactive visual exploration of Francis Bacon's network of associations, created by a group of researchers using computational methods of network analysis with text.  Explore it at [http://www.sixdegreesoffrancisbacon.com/](http://www.sixdegreesoffrancisbacon.com/).
+Below is an example of an interactive visual exploration of English philosopher and statesman Francis Bacon and his network of associations. To do this, a group of researchers undertook named entity recognition and network analysis using computational methods across the text of the Oxford Dictionary of National Biography.  Explore it at [http://www.sixdegreesoffrancisbacon.com/](http://www.sixdegreesoffrancisbacon.com/).
 {% include figure.html img="SixDegreesFrancisBacon.png" alt="Francis Bacon Network visualisation" caption="Francis Bacon Network visualisation" width="100%" %}
 Source: [http://www.sixdegreesoffrancisbacon.com](http://www.sixdegreesoffrancisbacon.com)
 
