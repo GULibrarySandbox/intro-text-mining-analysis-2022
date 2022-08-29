@@ -19,19 +19,19 @@ Consider the questions below when embarking on a text mining and analysis projec
 - GLAM catalogues, subscription databases, websites and social media are good sources if you aren't collecting your own text data from interviews or surveys. Find sources via the [Texting mining guide](https://libraryguides.griffith.edu.au/text-mining).
 
 **Is the text you want to use already digitised?**
-- If the text is in the form of a modern PDF it should not need any further amendments. Handwritten texts will require OCR recognition tools or manual transcription.  With older PDFs you will need to transcribe or convert the materials to a machine readible format. 
+- If the text is a recent .pdf file format it should not need any further amendments. Handwritten texts will require Optical Character Recognition (OCR) tools or manual transcription.  With older .pdf files you will need to transcribe or convert the materials to a machine readible format. Methods to do this will be explored later in the tutorial.
 
 **What are the copyright or licencing requirements?**
-- Some collections, particularly before a certain date provide licences for use such as [TROVE](https://trove.nla.gov.au/) from The National Library of Australia, or
-- You can request permission from copyright owners for subscription databases via the [Library](https://www.griffith.edu.au/library/contact). 
-- Griffith's [Information Policy Officer](https://www.griffith.edu.au/copyright-matters/research-staff) can provide advice on specific use cases.
+- Some collections, particularly those published before a certain date, provide licences for reuse such as historical newspapers digitised in [TROVE](https://trove.nla.gov.au/) from The National Library of Australia, or
+- You can request permission from copyright owners of subscription databases via the [Library](https://www.griffith.edu.au/library/contact). 
+- Griffith's [Information Policy Officer](https://www.griffith.edu.au/copyright-matters/research-staff) can provide advice on specific copyright and licensing use cases.
 
 **How much technical experience do you need?**
-- Some tools and methods are plug and play, which we will explore and others require coding. 
+- Some tools and methods are plug and play and others require coding experience. Explore these further in the upcoming lessons.
 - [eResearch Services](https://www.griffith.edu.au/eresearch-services) run regular coding workshops and provide great support via Hacky Hour.
 
 **Do you have funding?**
-- Sometimes you need to pay for access to OCR text from vendor sources or text and audio transcription services.
+- You may need to pay subscription vendors or publishers for access to OCR text. Some text and audio transcription services have fees.
 
 ----
 ### Text mining and analysis workflow steps
