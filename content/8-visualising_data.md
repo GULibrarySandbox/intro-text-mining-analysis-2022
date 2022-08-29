@@ -18,7 +18,7 @@ The type of visualisations you can create are governed by the types of data you 
 
 The [Data to Viz](https://www.data-to-viz.com/) site provides an excellent overview of different visualisation types and will help you find the most appropriate graph for your data.  
 
-The visualisation types explained in Data to Viz are particularly useful to illustrate the analysis results of structured text, including metadata records and categorical data. When text is processed and broken down into its various parts then analysed using quantitative, statistical, temporal, spatial, or other distant reading methods the results can also be visualised using the graph types in Data to Viz.
+The visualisation types explained in Data to Viz are particularly useful to illustrate the analysis results of structured text, including metadata records and categorical data. Many of the graph types are also useful for visualising quantitative, statistical, temporal, or spatial analysis of "text as data".
 
 The Data to Viz team also provide a collection of useful [tips and caveats](https://www.data-to-viz.com/caveats.html) for using visualisations.
 
