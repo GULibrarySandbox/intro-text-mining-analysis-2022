@@ -6,11 +6,11 @@ nav: true
 
 # Processing methods
 
-Once the text is cleaned and formatted it can be computationally processed using a number of different methods, depending on your analysis needs. Explore some of popular the methods below. 
+Once the text is cleaned and formatted it can be computationally processed using a number of different methods, depending the analysis you want to undertake. Explore some of popular the methods below. 
 
 ## Natural language processing (NLP) techniques
 
-Natural language processing (NLP) is the branch of artificial intelligence (AI) technology to train a computer to understand, process, and generate language. Search engines, machine translation services, and voice assistants are all powered by the technology. Source: [Bell & Olavsrud, 2021](https://www.cio.com/article/228501/natural-language-processing-nlp-explained.html view 19-01-2021)
+Natural language processing (NLP) is the branch of artificial intelligence (AI) technology to train a computer to understand, process, and generate language. Search engines, machine translation services, and voice assistants are all powered by the technology. Source: [Bell & Olavsrud, 2021](https://www.cio.com/article/228501/natural-language-processing-nlp-explained)
 
 The following NLP tasks break down text into analysable parts:
 
