@@ -6,11 +6,15 @@ nav: true
 
 # Prepare and format
 
-Preparing and formating your data makes it consistent and machine readable for analysis. This process differs depending on the types and formats of files you are analysing.  
+Preparing and formating your data makes it consistent and machine readable for analysis. This process differs depending on the types and formats of files you are working with.  
 {% include figure.html img="Textformats1.jpg" alt="Text as data formats, Speech to text, Handwritten text, Printed text, Digital text" caption="Different text as data formats that need processing" width="100%" %}
 ## Preparation steps
 
-There can be a number of steps to prepare, clean, then format text data depending on its type.  Interview data may be in audio or video format and require transcription. Correspondence may be handwritten on paper or in a digital format as a scanned image. Let's explore the different formats and preparation steps below.
+There can be a number of steps to prepare, clean, then format text data depending on its type.  
+
+Interview data may be in audio or video format and require transcription. Correspondence may be handwritten on paper or in a digital format as a scanned image. 
+
+Let's explore the different formats and preparation steps below.
 
 ### Types of text data
 
