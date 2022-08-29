@@ -18,8 +18,8 @@ All researchers regardless of discipline, methodology, or objective, can gain in
 - Historians access primary source materials from online repositories enabling broader perspectives and [new research](https://research-repository.griffith.edu.au/handle/10072/380293)
 - Literary scholars work with digitized [single texts](https://academic-oup-com.libraryproxy.griffith.edu.au/dsh/article/32/suppl_1/i17/2755123), [translated versions](https://doi.org/10.1093/llc/fqw027) of text, [whole corpus or person-of-interest collections](https://publications.hse.ru/en/chapters/158772968)
 - Environmental scientists undertake [network analysis of research literature](https://research-repository.griffith.edu.au/handle/10072/403109)
-- Medical researchers analyse electronic [patient records](https://link-springer-com.libraryproxy.griffith.edu.au/book/10.1007/978-3-319-78503-5)
-- Legal scholars examine [case law and legislation](https://www-annualreviews-org.libraryproxy.griffith.edu.au/doi/10.1146/annurev-lawsocsci-052720-121843#_i9)
+- Medical researchers analyse the text of electronic [patient records](https://link-springer-com.libraryproxy.griffith.edu.au/book/10.1007/978-3-319-78503-5)
+- Legal scholars examine large corpora of [case law and legislation](https://www-annualreviews-org.libraryproxy.griffith.edu.au/doi/10.1146/annurev-lawsocsci-052720-121843#_i9)
 
 Below is an example of an interactive visual exploration of Francis Bacon's network of associations, created by a group of researchers using computational methods of network analysis with text.  Explore it at [http://www.sixdegreesoffrancisbacon.com/](http://www.sixdegreesoffrancisbacon.com/).
 {% include figure.html img="SixDegreesFrancisBacon.png" alt="Francis Bacon Network visualisation" caption="Francis Bacon Network visualisation" width="100%" %}
