@@ -4,7 +4,8 @@ nav: true
 ---
 # References
 
-<p style="padding-left: 2em; text-indent: -2em;">Adily A, Karystianis G & Butler T 2021. Text mining police narratives for mentions of mental disorders in family and domestic violence events. Trends & issues in crime and criminal justice no. 629. Canberra: Australian Institute of Criminology. [https://doi.org/10.52922/ti04930](https://doi.org/10.52922/ti04930) </p>
+<p style="padding-left: 2em; text-indent: -2em;">Adily A, Karystianis G & Butler T 2021. Text mining police narratives for mentions of mental disorders in family and domestic violence events. Trends & issues in crime and criminal justice no. 629. Canberra: Australian Institute of Criminology. [https://doi.org/10.52922/ti04930](https://doi.org/10.52922/ti04930) 
+</p>
 
 Baruah S, Somandepalli K, Narayanan S (2022) Representation of professions in entertainment media: Insights into frequency and sentiment trends through computational text analysis. PLOS ONE 17(5): e0267812. https://doi.org/10.1371/journal.pone.0267812
 
