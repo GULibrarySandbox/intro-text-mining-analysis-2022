@@ -24,22 +24,23 @@ Explore the amazing data that can be extracted from Australian GLAM catalogues w
 <br>
 </br>
 
-If you cannot get the data you need from the guides above make an enquiry with the platform of interest. Companies may make their data available to researchers by agreement such as [Twitter's Academic Research access service](https://developer.twitter.com/en/products/twitter-api/academic-research). Archives and other repositories will have links to the datasets that can be downloaded, as will some Government websites.  
+If the data you need is not avaiable via the sources in the guides above make a direct enquiry with the platform or data owner of interest. Companies may make their data available to researchers by agreement such as [Twitter's Academic Research access service](https://developer.twitter.com/en/products/twitter-api/academic-research). Archives and other repositories will have links to datasets that can be downloaded for TDM, as will some Government websites.  
 
 ## Extracting data
 
 ### Searching and downloading
 
-Search GLAM catalogues and download individual resources or sets of results as required. This is useful if searching for small quantities of text and catalogue websites provide useful search and download help for users. 
+The simplest method to access text data is to search GLAM databases and download individual resources or sets of results as required. This is useful if searching for small quantities of text. GLAM websites and Library database vendors provide useful search and download help for users. 
 
-When downloading resources, select text `.txt` file format which has all formatting removed and is readible by computers. 
+- When downloading resources, select text `.txt` file format which has all formatting removed and is readible by computers. 
 
-If this isn't possible choose `.pdf` format which is accepted by some analysis programs or can be read by Optical Character Recognition (OCR), then useable in analysis programs. 
+- If this isn't possible choose `.pdf` format which is accepted by some analysis programs or can be read by Optical Character Recognition (OCR) to make it readible by analysis tools. 
 
 Watch the video below to learn how to search then download newspaper articles from TROVE.
 <iframe width="853" height="480" src="https://www.youtube.com/embed/RZyq_QMO7YY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[TROVE text download options](https://trove.nla.gov.au/help/using-trove/downloading) provides `.txt` and `.pdf` format download instructions for different types of resources.
+
+[TROVE text download options](https://trove.nla.gov.au/help/using-trove/downloading) include `.txt` and `.pdf` formats. 
 
 ### Using an API to extract data
 
@@ -57,7 +58,7 @@ Using a supplied API is the easiest way to collect metadata sets (data about the
 
 
 {% capture text %}
-The Prosecution Project is a collaborative research project on the history of the criminal trial in Australia from 1788 to 1960. Sources of text data included Supreme Court crimial trial registers, Police Gazettes notices, Prison and Convict Registers, along with press releases and other newspaper articles  [https://prosecutionproject.griffith.edu.au/](https://prosecutionproject.griffith.edu.au/).
+The Prosecution Project is a collaborative research project on the history of the criminal trial in Australia from 1788 to 1960. Sources of text data included Supreme Court criminal trial registers, Police Gazettes notices, Prison and Convict Registers, along with press releases and other newspaper articles  [https://prosecutionproject.griffith.edu.au/](https://prosecutionproject.griffith.edu.au/).
 
 The images below include example source materials like those used by the Prosecution Project:
 - Libraries Tasmania Digital Image ID AB693-1-1 1853-1854: Registers of Criminal Cases Prosecuted by the Crown (AB693), 1853-1984. retrieved May 10, 2021, from [https://stors.tas.gov.au/AB693-1-1$init=AB693-1-1_039](https://stors.tas.gov.au/AB693-1-1$init=AB693-1-1_039) 
@@ -71,6 +72,7 @@ The images below include example source materials like those used by the Prosecu
 
 {% include alert.html text="*Note:* Be sure to cite any resources you use in your research." color="warning" %}
 
+Now you have found and accessed a dataset of text, let's explore the next step in the workflow, preparing and formatting the data.
 
 ----
 
