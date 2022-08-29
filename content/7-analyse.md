@@ -21,8 +21,8 @@ The following NLP tasks break down text into analysable parts:
 | Word stemming | Words are reduced to their root form. | Changes victorious, victories, victory... to victor |
 | Special characters removed | Characters that cannot be understood are removed. | * @ # ! >> |
 | Part-of-speech tagging | Categorises words in a text in correspondence with a particular part of speech. | Her `(pronoun)` hat `(noun)` is `(verb)` grey `(adjective)`. |
-| Shallow parsing | Chunks phrases from unstructured text. | Identifies sentences, verb phrases, noun phrases |
-| Syntactic parsing | Finds structural relationships between words in a sentence. | Can for example identify a noun phrase as being formed by a determiner , followed by an adjective, followed by a noun. |
+| Shallow parsing | Chunks phrases from unstructured text. | Identifies sentences, verb phrases, noun phrases. |
+| Syntactic parsing | Finds structural relationships between words in a sentence. | Can for example identify a noun phrase as being formed by a determiner, followed by an adjective, followed by a noun. |
 {:.table .table-bordered}
 
 {% include figure.html img="BagOfWords.PNG" alt="Bag of words" caption="Natural Language Processing - tokenization" width="100%" %}
@@ -39,8 +39,8 @@ Explore some common computational text analysis methods.
 
 ### Text pattern analysis
 
-| Linguistic patterns | such as word frequency analysis which is useful for historical exploration of language as well as topic identification |
-| Collocation | identifying words commonly appearing near each other |
+| Linguistic patterns | such as word frequency analysis is useful for historical exploration of language as well as topic identification |
+| Collocation | identifies words commonly appearing near each other |
 | Concordance | shows the context of (the words around) a given word or set of words |
 | N-grams | finds common two-, three-, etc. word phrases see [Google books Ngram viewer](https://books.google.com/ngrams/) |
 | Dictionary tagging | locates a specific set of words in texts |
@@ -66,7 +66,7 @@ Learn more about these methods from:
 - [Article on comparison of machine learning methods for text-based sentiment analysis](https://doi.org/10.1016/j.ijresmar.2021.10.011)
 
 {% capture text %}
-After applying these compuational processing and analysis models and methods, the data will be ready for the most important and interesting stage, analysis and interpretation of the results. {% endcapture %}{% include alert.html text=text color="info" %} 
+After applying these compuational processing and analysis models and methods, the data will be ready for the most important and interesting stage, your analysis and interpretation of the results. {% endcapture %}{% include alert.html text=text color="info" %} 
 
 ----
 ##  Analysis tools
@@ -88,7 +88,7 @@ The virtual research environments below have been developed to support digital t
 {% endcapture %}{% include card.html header="Platforms with prepared text and tools" text=text %}
 
 {% capture text %}
-The tools listed below enable users to undertake text analysis without the need to learn to code. The majority of the tools are based on Python or R codes. We can use these tools for simple or exploratory data analysis and some visulations. Some tools are downloadable to your computer, others are web interfaces, each with their own benefits and limitations.
+The tools listed below enable users to undertake text analysis without the need to learn to code. The majority of the tools are based on Python or R codes. You can use these tools for simple or exploratory data analysis and some visulations. Some tools are downloadable to your computer, others are web interfaces, each with their own benefits and limitations.
 
 | Advantages | Disadvantages |
 | Easier to learn than coding, good for high level analysis | Can be inflexible, may not be good for deeper analysis, web based tools may not approprate for using with identifiable data. |
@@ -96,9 +96,9 @@ The tools listed below enable users to undertake text analysis without the need 
 
 - [Voyant Tools](https://voyant-tools.org/) web based online tool for frequency, distribution and collocation of terms, keywords in context, term clusters and more.
 - [Sentiment Analyzer](https://www.danielsoper.com/sentimentanalysis/default.aspx) web based tool for analysing one source at a time.
-- [Topic Modelling tool](https://senderle.github.io/topic-modeling-tool/documentation/2017/01/06/quickstart.html)
+- [Topic Modelling tool](https://senderle.github.io/topic-modeling-tool/documentation/2017/01/06/quickstart.html)a GUI for MALLET modelling code.
 - [Cytoscape](https://cytoscape.org/) software platform for visualizing complex networks. 
-- [Stanford Named Entity Recognizer (NER)](https://nlp.stanford.edu/software/CRF-NER.html) is particularly good for person, organisation and location recognition.
+- [Stanford Named Entity Recognizer (NER)](https://nlp.stanford.edu/software/CRF-NER.html) for person, organisation and location recognition.
 - [WordHoard](https://wordhoard.northwestern.edu/userman/index.html) web application for the close reading and scholarly analysis of deeply tagged texts, from Northwestern University.
 - [WORDij Semantic Network Tools](https://www.wordij.net/index.html) is downloadable software for natural language processing. It can process unstructured text from sources such as social media, news, speeches, focus groups, interviews, email, and web sites. 
 - [CLAWS part of speech tagger](https://ucrel.lancs.ac.uk/claws/) for corpus annotation for English text, developed by UCREL at Lancaster University.{% endcapture %}{% include card.html header="Open source (free) tools" text=text %}
