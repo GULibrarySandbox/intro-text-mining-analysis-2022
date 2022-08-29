@@ -16,11 +16,11 @@ Visualising data can help us understand complex information quickly. Transformin
 
 The type of visualisations you can create are governed by the types of data you are working with. 
 
-[Data to Viz](https://www.data-to-viz.com/) will help you find the most appropriate graph for your data.  
+The [Data to Viz](https://www.data-to-viz.com/) site provides an excellent overview of different visualisation types and will help you find the most appropriate graph for your data.  
 
-The visualisation types explained in Data to Viz are particularly useful to illustrate the analysis results of structured text, including metadata records and categorical data. When text is processed and broken down into its various parts then analysed using quantitative, statistical, temporal, spatial, or other distant reading methods the numerical results can also be visualised using the examples in Data to Viz.
+The visualisation types explained in Data to Viz are particularly useful to illustrate the analysis results of structured text, including metadata records and categorical data. When text is processed and broken down into its various parts then analysed using quantitative, statistical, temporal, spatial, or other distant reading methods the results can also be visualised using the graph types in Data to Viz.
 
-The Data to Viz team also provide a collection of useful tips and caveats for using visualisations [here](https://www.data-to-viz.com/caveats.html).
+The Data to Viz team also provide a collection of useful [tips and caveats](https://www.data-to-viz.com/caveats.html) for using visualisations.
 
 {% capture alert %}
 *A warning on using visualisation methods with text*:
@@ -145,6 +145,8 @@ Visualise the text from a series of research articles from *The Conversation* us
 ----
 
 ## Create a publication quality image of your visualisation
+
+Once you have visualised your text analysis results, they will need to be formatted for publication submission. 
 
 Explore the simplest tools and methods to convert visualisations into publication quality images in these [lessons](https://griffithunilibrary.github.io/data-vis-basics/content/4-convert.html).
 
