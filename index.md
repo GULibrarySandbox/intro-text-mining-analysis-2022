@@ -9,9 +9,9 @@ layout: default
 
 In this self-paced workshop you will learn steps to: 
 
-- Build:    find where and how to gather textual data for your corpus or data set  
-- Prepare:  explore useful processes and tools to prepare textual data for analysis
-- Analyse:  identify different types of analysis used to interrogate content and uncover new insights
+- Build data sets: find where and how to gather textual data for your corpus or data set.  
+- Prepare data for analysis: explore useful processes and tools to prepare and clean textual data for analysis
+- Analyse data: identify different types of analysis used to interrogate content and uncover new insights
 
 At the end of these lessons you should be able to:
 
@@ -21,7 +21,7 @@ At the end of these lessons you should be able to:
 - Choose the best tool for your dataset at each stage of the digital research process. 
 
 
-Download and play with software and datasets, do activities and watch videos to guide you through the lessons.
+Throughout these lessons you can download and play with software and datasets, and try out simple data cleaning and analysis activities. There are liks to further suport and videos to guide you through the lessons.
 
 Want to text mine via webscraping?  Check out these [Web Scraping with Python](https://gu-eresearch.github.io/web_scraping_workshop/) lessons.
 
