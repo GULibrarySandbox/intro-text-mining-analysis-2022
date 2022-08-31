@@ -12,17 +12,18 @@ The first step is to find the dataset or corpus of interest.
 
 ## Finding data
 
-{% include figure.html img="GLAMCollections.PNG" alt="Find data in GLAM collections" caption="Find data in GLAM collections" width="100%" %}
+{% include figure.html img="GLAMCollections.PNG" alt="Find data in GLAM collections" caption="Find data in GLAM collections" width="100%" %}	
 
-Digitisation, Optical Character Recognition (OCR) processing, indexing, encoding, and online hosting of primary source materials by archives, libraries, museums and galleries (GLAM sector)  has enabled greater access, and new ways to find, explore, process and analyse text as data.  An easy way to get started in finding discipline specific data sets is via the Griffith guides:
-- <a href ='https://libraryguides.griffith.edu.au/finddata' target="_blank">Finding data guide </a>  
-- [Text mining and analysis guide](https://libraryguides.griffith.edu.au/text-mining) : of Griffith Library subscription and open source databases
+To find data we suggest you start with our [Finding data guide](https://libraryguides.griffith.edu.au/finddata). This page links to datasets across the different discipline areas. 
+
+As the processes and tools for Digitisation, Optical Character Recognition (OCR) processing, indexing, encoding, and online hosting of primary source materials has improved we now have  greater access, and new ways to find, explore, process and analyse text as data.  This in practice means that we can now find and download analysable resources from a variety of sources. Our [Text mining and analysis guide](https://libraryguides.griffith.edu.au/text-mining) provides links to Griffith Libraries subscription and open source databases of resources you can mine and collate to create a dataset. 
+
 
 Explore the amazing data that can be extracted from Australian GLAM catalogues with historian and hacker [Ass. Prof. Tim Sherratt](https://timsherratt.org/), via the video below.
 <iframe width="853" height="480" src="https://www.youtube.com/embed/spvb-zBe24o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-If the data you need is not available via the sources in the guides above make a direct enquiry with the platform or data owner of interest. Companies may make their data available to researchers by agreement such as [Twitter's Academic Research access service](https://developer.twitter.com/en/products/twitter-api/academic-research). Archives and other repositories will have links to datasets that can be downloaded for TDM, as will some Government websites.  
+If the data you need is not available via the sources in the guides above, youi can make a direct enquiry with the platform or data owner of interest. Companies may make their data available to researchers by agreement such as [Twitter's Academic Research access service](https://developer.twitter.com/en/products/twitter-api/academic-research). Archives and other repositories will have links to datasets that can be downloaded for TDM, as will some Government websites.  
 
 ## Extracting data
 
@@ -42,7 +43,7 @@ Watch the video below to learn how to search then download newspaper articles fr
 
 ### Using an API to extract data
 
-An Application Programming Interface (API) is a software tool that allows two applications to communicate with each other. In the case of collecting web data, an API is a database that stores the webpages data and something that can read, display or store that data (i.e. a web browser, a programming language such as Python, software on your computer, or a cloud based application).
+An Application Programming Interface (API) is a software tool that allows two applications to communicate with each other. In the case of collecting web data, an API allows you to access a webpages database and then use that data in your own analysis. This process can require you to use a programming language such as Python or R, specialised software on your computer, or a cloud based application.
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/s7wmiS2mSXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
