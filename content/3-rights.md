@@ -146,6 +146,8 @@ Griffith's licensing arrangements with several publishers allow for text and dat
 {% endcapture %}
 <!--- End header with icon code --->
 {% endcapture %}
+
+{% endcapture %}
 {% include card.html header=headertext text=text %}
 
 <p align="center">
