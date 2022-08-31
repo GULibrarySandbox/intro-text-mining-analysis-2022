@@ -34,7 +34,7 @@ Text is considered even in the 21st century, the main form for "communicating, d
 {% capture text %}
 Explore some of the reasons researchers use computational methods to analysis text:
 - increase [validity](https://doi-org.libraryproxy.griffith.edu.au/10.1177%2F1466138117725340)
-- [repeat processes and analysis](https://glam-workbench.net/hansard/) on other other text or corpus
+- [repeat processes and analysis](https://glam-workbench.net/hansard/) on other text or corpus
 - enable broader questions of [larger corpora](https://muso.arts.gla.ac.uk/index.html)
 - help understand texts and [underlying social and cultural phenomena at scale](https://ebookcentral-proquest-com.libraryproxy.griffith.edu.au/lib/griffith/detail.action?docID=5772971)
 - expand textual studies with [temporal or geographical context](https://glam-workbench.net/web-archives/#exploring-change-over-time)
