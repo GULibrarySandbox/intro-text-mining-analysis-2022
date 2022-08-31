@@ -136,6 +136,17 @@ To get permission, firstly find the copyright owner and their contact email addr
 {% endcapture %}
 {% include card.html header="Getting permission" text=permissionsblock %}
 
+{% capture licensedsources %}
+
+Griffith's licensing arrangements with several publishers allow for text and data mining by Griffith University researchers. See the [Text Mining Library Guide](https://libraryguides.griffith.edu.au/text-mining/licenced) for a list of licensed sources.
+
+<!--- Begin header with icon code --->
+{% capture headertext %}
+{% include icon.html icon='cloud-download' %} Griffith licensed sources
+{% endcapture %}
+<!--- End header with icon code --->
+{% endcapture %}
+{% include card.html header=headertext text=text %}
 
 <p align="center">
   <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/2-how.html"><-- BACK</a> |
