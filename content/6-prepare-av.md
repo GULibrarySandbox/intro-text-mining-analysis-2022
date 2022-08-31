@@ -30,6 +30,7 @@ There are data security issues to consider when using the services above. The da
 Find out how to classify and treat your research data securely at [Griffith's Information Security Classification site](https://griffitheduau.sharepoint.com/sites/Information-Management/SitePages/information-security.aspx).
 
 ## Annotation 
+Annotation of sound files requires a different software type. If you are annotating a sound file you will need to be able to create markers on file to find, replay and make the required notes. 
 - [Elan](https://archive.mpi.nl/tla/elan) : downloadable software to annotate audio and video recordings. This tool is used by linguists to analyse sounds, accents and pronounciations. Supported by a number of international research centres including the [(ARC) Centre of Excellence for the Dynamics of Language](https://www.dynamicsoflanguage.edu.au/).
 
 Next up : Process and analysis methods and tools.
