@@ -64,6 +64,7 @@ Learn more about these methods from:
 - [Demystifying Networks](http://www.scottbot.net/HIAL/index.html@p=6279.html) an introduction for HASS scholars.
 - [Introduction to Sentiment analysis](https://www.youtube.com/watch?v=i4D5DZ5ZG-0) fun and informative video.
 - [Article on comparison of machine learning methods for text-based sentiment analysis](https://doi.org/10.1016/j.ijresmar.2021.10.011)
+- [Article by Berger et al. on text analysis methods used in Marketing](https://doi.org/10.1177/0022242919873106)
 
 {% capture text %}
 After applying these compuational processing and analysis models and methods, the data will be ready for the most important and interesting stage, your analysis and interpretation of the results. {% endcapture %}{% include alert.html text=text color="info" %} 
