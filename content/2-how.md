@@ -39,9 +39,9 @@ This depends on what you wish to achieve.
 ### Text mining and analysis workflow steps
 
 The most common steps in the workflow include: 
-- Finding and building the dataset 
-- Preparing text, audio or video for processing
-- Computationally processing text to extract data
+- Finding and building the dataset, either by collating your own resources or accessing and using pre-existing data
+- Preparing, cleaning and formatting the text, audio or video for processing
+- Computationally processing text to extract data with either plug and play tools or by using code
 - Analysing text using computational methods
 - Visualising text using computational methods
 
