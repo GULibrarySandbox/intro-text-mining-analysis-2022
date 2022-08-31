@@ -4,11 +4,16 @@ topics: Processing methods; NLP; Common tasks; Useful tools; Useful platforms; C
 nav: true
 ---
 
-# Processing methods
+# Data analysis
+Data analysis takes on many names and may forms.  In the context of this resource data analysis is the use of code or tools to process the data we have collected, cleaned and formated for use. 
+This is where we use our data to inform our decision making, identify themes and gaps in the research and find evidence to support findings. 
+
+
+## Methods for analysis
 
 Once the text is cleaned and formatted it can be computationally processed using a number of different methods, depending the analysis you want to undertake. Explore some of popular the methods below. 
 
-## Natural language processing (NLP) techniques
+### Natural language processing (NLP) techniques
 
 Natural language processing (NLP) is the branch of artificial intelligence (AI) technology to train a computer to understand, process, and generate language. Search engines, machine translation services, and voice assistants are all powered by the technology. Source: [Bell & Olavsrud, 2021](https://www.cio.com/article/228501/natural-language-processing-nlp-explained)
 
@@ -27,7 +32,7 @@ The following NLP tasks break down text into analysable parts:
 
 {% include figure.html img="BagOfWords.PNG" alt="Bag of words" caption="Natural Language Processing - tokenization" width="100%" %}
 
-## Machine learning
+### Machine learning
 Machine learning is a branch of AI and a process of teaching a computer system to recognise patterns in text without explicit human programming. Machine learning can be either unsupervised (with minimal human intervention) or supervised (with more human intervention). Explore machine learning at [Zdnet.com](https://www.zdnet.com/article/what-is-machine-learning-everything-you-need-to-know/). Analysis using Machine learning includes topic modelling, and Naive Bayes Classification, which are detailed below.
 
 
