@@ -84,7 +84,7 @@ If you're unsure about your ethical obligations, contact [Griffith research ethi
 
 ----
 
-## Copyright
+## Copyright and licensing
 
 Both copyright law and any relevant licensing terms will affect what you can do with scraped data.
 
@@ -134,7 +134,13 @@ Data that is freely licensed still carries ethical considerations! If your corpu
 To get permission, firstly find the copyright owner and their contact email address.   Then send an email adapting one of the [permission template emails](https://www.griffith.edu.au/copyright-matters/hdr-candidates/getting-permission).  Make sure your permission covers all your intended activities.  Store the received permission so that it can be readily retrieved if ever required. As always, contact the [Information Policy Officer](http://www.griffith.edu.au/copyright-matters/)  for assistance.
 
 {% endcapture %}
-{% include card.html header="Getting permission" text=permissionsblock %}
+
+<!--- Begin header with icon code --->
+{% capture headertext %}
+{% include icon.html icon='clipboard2-check-fill' %} Getting permission
+{% endcapture %}
+<!--- End header with icon code --->
+{% include card.html header=headertext text=permissionsblock %}
 
 {% capture licensedsources %}
 
