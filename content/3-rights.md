@@ -145,10 +145,9 @@ Griffith's licensing arrangements with several publishers allow for text and dat
 {% include icon.html icon='cloud-download' %} Griffith licensed sources
 {% endcapture %}
 <!--- End header with icon code --->
-{% endcapture %}
 
 {% endcapture %}
-{% include card.html header=headertext text=text %}
+{% include card.html header=headertext text=licensedsources %}
 
 <p align="center">
   <a href="https://griffithunilibrary.github.io/intro-text-mining-analysis/content/2-how.html"><-- BACK</a> |
