@@ -6,11 +6,13 @@ nav: true
 
 # Visualisation methods and tools
 
-Visualising data can help us understand complex information quickly. Transforming data into a visual format can:
+Visualising data can help us understand complex information quickly. Presenting your data in graphs, charts and images can help:
 
 - reveal patterns and relationships
 - identify trends
 - communicate insights with impact
+
+presenting your data visually can assist your audience to more easily understand your research and its applications, making it easier for others to conceptalise and synthesis the information. 
 
 ## Visualisation methods
 
