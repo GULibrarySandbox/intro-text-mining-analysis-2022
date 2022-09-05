@@ -16,7 +16,7 @@ If you are analysing the sounds from the audio or video, such as accents or pron
 
 ## Transcription 
 
-### Services for research data (including sensitive data)
+{% capture text %}
 - Griffith [Speech to text service](https://www.griffith.edu.au/eresearch-services/speech-to-text) : uses the Microsoft Azure tools to transcribe the data. It is available to all Griffith researchers, is suitable for use with sensitive data and has associated costs.
 - Nvivo software [student access](https://www.griffith.edu.au/student-computing/available-software)  [staff access](https://intranet.secure.griffith.edu.au/computing/software) for automated transcription.
 
@@ -29,6 +29,8 @@ Watch this video for an overview on the Nvivo transcription feature.
 Watch the video below for instructions on how to use Alveo.
 
 {% include video-embed.html youtubeid="ixQR-c4R0Ss" caption="Alveo transcription demonstration video" %}
+
+{% endcapture %}{% include card.html header="Services for research data including sensitive data" text=text %}
 
 {% capture text %}
 - [YouTube](https://support.google.com/youtube/topic/9257536?hl=en&ref_topic=9257610) or [Vimeo](https://vimeo.com/blog/post/how-to-transcribe-a-video/) :  Both applications can generate text transcriptions of the audio and provide means and tools for corrections. 
