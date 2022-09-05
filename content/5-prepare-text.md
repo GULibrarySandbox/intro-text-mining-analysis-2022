@@ -41,6 +41,14 @@ Let's explore the different formats and preparation steps below.
 |[Alveo](https://www.alveo.edu.au/)| | | [DigiVol](https://volunteer.ala.org.au/) for structured text 
 {:.table .table-bordered}
 
+Watch this video on how to install and use [gImageReader](https://github.com/manisandro/gImageReader#readme) to convert an image to text. In this example both Korean and English language in a pdf file are tested for conversion to text. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GMAZtpWQF0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+The video below shows how to download and use [Transkribus](https://readcoop.eu/transkribus/) handwriting recognition tool.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uNlC2Nboow8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### How to clean text
 
 No preparation tool will create perfect text.  Errors will be generated in the transcription or conversion processes. You may need to manually review and clean the text, correcting OCR (Optical character recognition) of scanned images of pages, mis-interpretation of spoken words, and other transcription errors. Programs such as Python can automate some cleaning processes. Read about this at [machinelearningmastery.com](https://machinelearningmastery.com/clean-text-machine-learning-python/). Some analysis programs such as Voyant tools will also clean text. More on this in the next lesson. 
