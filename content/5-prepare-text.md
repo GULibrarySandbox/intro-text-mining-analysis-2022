@@ -38,6 +38,7 @@ Let's explore the different formats and preparation steps below.
 {% capture text %}
 - Nvivo software [student access](https://www.griffith.edu.au/student-computing/available-software)  [staff access](https://intranet.secure.griffith.edu.au/computing/software) 
 Watch this video for an overview on the Nvivo transcription feature.
+
 {% include video-embed.html youtubeid="AES26-CdEn0" caption="Nvivo transcription demonstration video" %}
 
 - [Microsoft Office 365](https://support.microsoft.com/en-us/office/transcribe-your-recordings-7fc2efec-245e-45f0-b053-2a97531ecf57)
@@ -45,12 +46,16 @@ Watch this video for an overview on the Nvivo transcription feature.
 - [Alveo](https://www.alveo.edu.au/) : Developed in Australia for researchers.  The software breaks up audio into segments by identifying breathing pauses and provides a structured format for manual transcription.  Griffith Education researchers have found it can reduce manual transcription time by up to 50%.
 
 Watch the video below for instructions on how to use Alveo.
+
 {% include video-embed.html youtubeid="ixQR-c4R0Ss" caption="Alveo transcription demonstration video" %}
+
+*Words, Words Words.*
 {% endcapture %}{% include card.html header="Speech to text - transcription tools" text=text %}
 
 {% capture text %}
 - [Transkribus](https://readcoop.eu/transkribus/) 
 The video below shows how to download and use [Transkribus](https://readcoop.eu/transkribus/) handwriting recognition tool.
+
 {% include video-embed.html youtubeid="uNlC2Nboow8" caption="Transkribus handwriting transcription video" %}
 
 - [Google Vision AI](https://cloud.google.com/vision)
@@ -64,6 +69,7 @@ The video below shows how to download and use [Transkribus](https://readcoop.eu/
 {% capture text %}
 - [gImageReader](https://github.com/manisandro/gImageReader#readme) (students) open source OCR processor for pdfs and images of text.
 Watch this video on how to install and use [gImageReader](https://github.com/manisandro/gImageReader#readme) to convert an image to text. In this example both Korean and English language in a pdf file are tested for conversion to text. 
+
 {% include video-embed.html youtubeid="GMAZtpWQF0U" caption="gImageReader OCR conversion video" %}
 
 - [Adobe Acrobat Pro DC](https://intranet.secure.griffith.edu.au/computing/software) (staff) OCR recognition
