@@ -42,7 +42,7 @@ In the image below, stylistic differences of the Brothers Grimm are visualised u
 Gabriela Rotari, Melina Jander, Jan Rybicki, The Grimm Brothers: A stylometric network analysis, Digital Scholarship in the Humanities, Volume 36, Issue 1, April 2021, Pages 172–186, [https://doi.org/10.1093/llc/fqz088](https://doi.org/10.1093/llc/fqz088). 
 
 {% include figure.html img="GrimmBrothersStylometricVis.PNG" alt="Grimm Brothers letters - stylometric differences" caption="Grimm Brothers letters - stylometric differences" width="100%" %}
-Image source: (Rotari et al., 2021)
+Image source: (Rotari et al., 2021) Reuse permission requested 24 August 2022 via RightsLink.
 {% endcapture %} {% include card.html header="Text cluster visualisation of stylometric analysis" text=text %}
 
 {% capture text %}
@@ -101,7 +101,7 @@ Leonard, P. and King, L., (n.d.). Robots Reading Vogue.(accessed August, 19, 202
 This research undertook quantitative text analysis of the corpus of U.S. Circuit Court decisions from 1975 to 2013, focusing on a set of judges later nominated for, or promoted to the U.S. Supreme court. Sentiment analysis was one of the methods used to explore Judges’ written opinions and identified differences in sentiment towards particular groups. The coefficient plot below, produced from case-level regressions, illustrates language sentiment towards farmers by individual judges, with positive sentiment indicated above zero and negative sentiment below zero. 
 
 {% include figure.html img="CardozoLawReview_JudgesSentimentFarmersVis.PNG" alt="Sentiment analysis visualisation by coefficiet plot" caption="Sentiment analysis visualisation by coefficiet plot" width="100%" %}
-Imgage source: (Ash & Chen, 2018)
+Imgage source: (Ash & Chen, 2018) Reuse permission requested 24 August 2022 via RightsLink.
 
 Explore the research further:
 
