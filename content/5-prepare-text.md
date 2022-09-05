@@ -29,7 +29,7 @@ Let's explore the different formats and preparation steps below.
 ### How to prepare text data
 
 | *Speech to text* | *Handwritten text* | *Printed text* | *Digital text* |
-| transcribe the audio content | transcribe manually or via an automated processes | transcribe or digitise via a scanner then process via Optical Character Recognition (OCR) | reformat files to .txt |
+| transcribe the audio content | transcribe manually or via an automated processes | transcribe or digitise via a scanner then process into text via Optical Character Recognition (OCR) | reformat files to .txt |
 {:.table .table-bordered}
 
 ### Tools to prepare text data
@@ -37,9 +37,7 @@ Let's explore the different formats and preparation steps below.
 
 {% capture text %}
 - Nvivo software [student access](https://www.griffith.edu.au/student-computing/available-software)  [staff access](https://intranet.secure.griffith.edu.au/computing/software) 
-
 Watch this video for an overview on the Nvivo transcription feature.
-
 {% include video-embed.html youtubeid="AES26-CdEn0" caption="Nvivo transcription demonstration video" %}
 
 - [Microsoft Office 365](https://support.microsoft.com/en-us/office/transcribe-your-recordings-7fc2efec-245e-45f0-b053-2a97531ecf57)
@@ -52,32 +50,30 @@ Watch the video below for instructions on how to use Alveo.
 
 {% capture text %}
 - [Transkribus](https://readcoop.eu/transkribus/) 
-
 The video below shows how to download and use [Transkribus](https://readcoop.eu/transkribus/) handwriting recognition tool.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uNlC2Nboow8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include video-embed.html youtubeid="uNlC2Nboow8" caption="Transkribus handwriting transcription video" %}
 
 - [Google Vision AI](https://cloud.google.com/vision)
 - MSWord, google docs or equivalent : for manual transcription without structure or metadata capture.{% endcapture %}{% include card.html header="Handwritten text - transcription tools" text=text %}
 
-*Printed text* 
-High quality scanner (then OCR processing)
-Digital Camera (then OCR processing)
+{% capture text %}
+- High quality scanner with OCR functionality (or OCR processing after scanning) 
+- [Digital Camera](https://how-ocr-works.com/accuracy/snapshots.html)(followed by OCR processing) 
+{% endcapture %}{% include card.html header="Printed text - digitisation tools" text=text %}
 
-
-*Digital text* 
+{% capture text %}
 - [gImageReader](https://github.com/manisandro/gImageReader#readme) (students) open source OCR processor for pdfs and images of text.
-
 Watch this video on how to install and use [gImageReader](https://github.com/manisandro/gImageReader#readme) to convert an image to text. In this example both Korean and English language in a pdf file are tested for conversion to text. 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GMAZtpWQF0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include video-embed.html youtubeid="GMAZtpWQF0U" caption="gImageReader OCR conversion video" %}
 
 - [Adobe Acrobat Pro DC](https://intranet.secure.griffith.edu.au/computing/software) (staff) OCR recognition
 - [OpenRefine](https://openrefine.org/) to create structure to text
 - [DigiVol](https://volunteer.ala.org.au/) for structured text 
+- Google Docs can perform OCR on uploaded images and PDFs 
+{% endcapture %}{% include card.html header="Digital documents - text recognition and conversion tools" text=text %}
 
 
-### How to clean text
+### How to clean text after transcription and conversion
 
 No preparation tool, including those above will create *perfect* text. 
 
