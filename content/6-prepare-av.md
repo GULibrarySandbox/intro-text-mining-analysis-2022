@@ -38,7 +38,7 @@ Watch the video below for instructions on how to use Alveo.
 {% include alert.html text="Warning: There are data security issues to consider when using the "public data" services above. The data may be shared with third parties, mined for information, or stored in an off-shore location. 
 
 Find out how to classify and treat your research data securely at [Griffith's Information Security Classification site](https://griffitheduau.sharepoint.com/sites/Information-Management/SitePages/information-security.aspx)." align="left" color="success" %}
-{% endcapture %} {% include card.html text=text header="Services for public data" title="Services for public data" %}
+{% endcapture %}{% include card.html header="Services for public data" text=text %}
 
 
 ## Annotation 
