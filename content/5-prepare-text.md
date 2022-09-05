@@ -49,7 +49,6 @@ Watch the video below for instructions on how to use Alveo.
 
 {% include video-embed.html youtubeid="ixQR-c4R0Ss" caption="Alveo transcription demonstration video" %}
 
-*Words, Words Words.*
 {% endcapture %}{% include card.html header="Speech to text - transcription tools" text=text %}
 
 {% capture text %}
