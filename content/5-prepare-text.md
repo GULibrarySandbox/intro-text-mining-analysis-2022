@@ -18,23 +18,35 @@ Let's explore the different formats and preparation steps below.
 
 ### Types of text data
 
-| *Speech to text* | *Handwritten text* | *Printed text* | *Digital text* |
-| survey audio recordings | personal letters | books, journals, news articles, legislation, government reports | online databases & digital collections of published or primary sources...
-| interview audio or video recordings | official correspondence | unpublished papers | unpublished works, your own digital documents
-| observation video recordings | ships logs, diaries, ledgers | typed documents, letters, official records, recipes.... | webpage and social media content |
-| | original manuscripts & drafts | brochures, menus, other primary source materials | language corpora |
-| | scientific notes, annotations, field books | survey results | interview transcripts, survey results |
-{:.table .table-bordered}
+*Speech to text : audiovisual data*
+This type of text as data can include audio or video recordings of surveys, focus groups, interviews, or observation videos...
+
+*Handwritten text* 
+Can include personal letters, official correspondence, ships logs, diaries, ledgers, orginal manuscripts and drafts, scientific notes, annotations, field books, recipes, survey responses ....
+
+*Printed (or typed) text*
+Could include typed versions of the handwritten text above, or books, journals, news articles, legislations, government reports, unpublished papers, official records, brochures, menus, and other primary source materials....
+
+*Digital text*
+Can include digital versions of printed text include content in online databases & digital collections of published or primary sources, unpublished works, your own digital documents, webpage and social media content, language corpora, interview transcripts and survey results
+
 
 ### How to prepare text data
 
-| *Speech to text* | *Handwritten text* | *Printed text* | *Digital text* |
-| transcribe the audio content | transcribe manually or via an automated processes | transcribe or digitise via a scanner then process into text via Optical Character Recognition (OCR) | reformat files to .txt |
-{:.table .table-bordered}
+*Speech to text*
+Manually transcribe or autogenerate the audio content and convert to .txt file format.
+
+*Handwritten text* 
+Transcribe manually or via an automated processes and convert to .txt file format.
+
+*Printed text* 
+Transcribe or digitise via a scanner then process into text via Optical Character Recognition (OCR)
+
+*Digital text* 
+Extract from database, files, website and reformat files to .txt file format if required.
 
 
 ### Tools to prepare text data
-
 
 {% capture text %}
 These tools are featured on the next page which focuses on AV preparation.
