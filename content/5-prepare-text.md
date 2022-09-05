@@ -38,7 +38,7 @@ Let's explore the different formats and preparation steps below.
 
 {% capture text %}
 - Nvivo software [student access](https://www.griffith.edu.au/student-computing/available-software)  [staff access](https://intranet.secure.griffith.edu.au/computing/software) for automated transcription.
-- 
+
 Watch this video for an overview on the Nvivo transcription feature.
 
 {% include video-embed.html youtubeid="AES26-CdEn0" caption="Nvivo transcription demonstration video" %}
@@ -87,11 +87,6 @@ Errors will be generated in the transcription or conversion processes. You may n
 Programs such as Python can automate some cleaning processes. Read about this at [machinelearningmastery.com](https://machinelearningmastery.com/clean-text-machine-learning-python/). Some analysis programs such as Voyant tools will also clean text. More on this in the next lesson. 
 {% endcapture %}{% include card.html header="How to clean text after transcription or conversion" text=text %}
 
-Humans understand that language, and the text that represents it, is highly complex and full of structure. However text is often described as unstructured, when it does not fit easily into a database, or is not easily processed by a computer. In the context of processing text with a computer:
-
-- Unstructured text may include text from narratives (books, articles etc.), interviews, survey responses with free text and more.  
-- Structured text can include metadata from GLAM catalogues or finding aides, text in structured databases, possibly spreadsheets, even old ledgers and logbooks.
-- 
 {% include alert.html text="Unstructured vs structured text and machine readibility
 
 Humans understand that language, and the text that represents it, is highly complex and full of structure. However text is often described as unstructured, when it does not fit easily into a database, or is not easily processed by a computer. In the context of processing text with a computer:
@@ -105,7 +100,7 @@ All text documents need to be formatted for machine readability by software prog
 - `.txt` : is the best format for unstructured text as it is non-proprietary & used in all text analysis tools. Unstructured text in file formats such as `.doc` , `.docx`, `.rtf` (rich text format) can be exported as `.txt` via Microsoft Word.
 - `.csv` : is the best format for structured text data in spreadsheets and can be read by tools such as Nvivo. Use Microsoft Excel to convert file formats such as `.xml`, `JSON`, `.html` into `.csv.` or `.txt` delimited text file, in which a `tab` separates each field of text.
 - `.pdf` : that has been OCR processed is accepted by some analysis tools. For older texts you might need to transcribe the text or clean the data as the .pdf may be an image of a scanned document.
-{% endcapture %}{% include card.html header="Formatting structured and unstructed text" text=text %}
+{% endcapture %}{% include card.html header="Formatting structured and unstructured text" text=text %}
 ------
 
 {% capture text %}
