@@ -42,8 +42,9 @@ These tools are featured on the next page which focuses on AV preparation.
 {% endcapture %}{% include card.html header="Speech to text - transcription tools" text=text %}
 
 {% capture text %}
-- [Transkribus](https://readcoop.eu/transkribus/) 
-The video below shows how to download and use [Transkribus](https://readcoop.eu/transkribus/) handwriting recognition tool. Free to use for manual transcription and 500 credits provided to use AI models for automated transcription of different types of handwriting. Research candidates can apply for further credits.
+- [Transkribus](https://readcoop.eu/transkribus/) handwriting recognition tool. Free to use for manual transcription and 500 credits provided to use AI models for automated transcription of different types of handwriting. Research candidates can apply for further credits.
+
+The video below shows how to download and use [Transkribus](https://readcoop.eu/transkribus/).
 
 {% include video-embed.html youtubeid="uNlC2Nboow8" caption="Transkribus handwriting transcription video" %}
 
@@ -51,20 +52,21 @@ The video below shows how to download and use [Transkribus](https://readcoop.eu/
 - MSWord, google docs or equivalent : for manual transcription without structure or metadata capture.{% endcapture %}{% include card.html header="Handwritten text - transcription tools" text=text %}
 
 {% capture text %}
-- High quality scanner with OCR functionality (or OCR processing after scanning)
-- [Digital Camera](https://how-ocr-works.com/accuracy/snapshots.html)(followed by OCR processing) 
+- High quality scanner with OCR functionality (or OCR processing after scanning).
+- [Digital Camera](https://how-ocr-works.com/accuracy/snapshots.html), followed by OCR processing.
 {% endcapture %}{% include card.html header="Printed text - digitisation tools" text=text %}
 
 {% capture text %}
 - [gImageReader](https://github.com/manisandro/gImageReader#readme) (students) open source OCR processor for pdfs and images of text.
+
 Watch this video on how to install and use [gImageReader](https://github.com/manisandro/gImageReader#readme) to convert an image to text. In this example both Korean and English language in a pdf file are tested for conversion to text. 
 
 {% include video-embed.html youtubeid="GMAZtpWQF0U" caption="gImageReader OCR conversion video" %}
 
-- [Adobe Acrobat Pro DC](https://intranet.secure.griffith.edu.au/computing/software) (staff) OCR recognition
+- [Adobe Acrobat Pro DC](https://intranet.secure.griffith.edu.au/computing/software) (staff) OCR recognition.
 - [OpenRefine](https://openrefine.org/) to create structure from text.  Explore how to use OpenRefine with unstructured text in this Programming Historian [tutorial](https://programminghistorian.org/en/lessons/fetch-and-parse-data-with-openrefine).
-- [DigiVol](https://volunteer.ala.org.au/) for structured text
-- Google Docs can perform OCR on uploaded images and PDFs 
+- [DigiVol](https://volunteer.ala.org.au/) for structured text.
+- Google Docs can perform OCR on uploaded images and PDFs.
 {% endcapture %}{% include card.html header="Digital documents - text recognition and conversion tools" text=text %}
 
 {% capture text %}
@@ -75,7 +77,7 @@ Errors will be generated in the transcription or conversion processes. You may n
 Programs such as Python can automate some cleaning processes. Read about this at [machinelearningmastery.com](https://machinelearningmastery.com/clean-text-machine-learning-python/). Some analysis programs such as Voyant tools will also clean text. More on this in the next lesson. 
 {% endcapture %}{% include card.html header="How to clean text after transcription or conversion" text=text %}
 
-{% include alert.html text="Unstructured vs structured text and machine readibility
+{% include alert.html text="**Unstructured vs structured text and machine readibility**
 
 Humans understand that language, and the text that represents it, is highly complex and full of structure. However text is often described as unstructured, when it does not fit easily into a database, or is not easily processed by a computer. In the context of processing text with a computer:
 
@@ -84,7 +86,7 @@ Humans understand that language, and the text that represents it, is highly comp
 
 
 {% capture text %}
-All text documents need to be formatted for machine readability by software programs or code, let's look at the different formats for structured and unstructured text.
+All text documents, structured and unstructured, need to be formatted for machine readability by software programs or code. Let's look at the different formats.
 - `.txt` : is the best format for unstructured text as it is non-proprietary & used in all text analysis tools. Unstructured text in file formats such as `.doc` , `.docx`, `.rtf` (rich text format) can be exported as `.txt` via Microsoft Word.
 - `.csv` : is the best format for structured text data in spreadsheets and can be read by tools such as Nvivo. Use Microsoft Excel to convert file formats such as `.xml`, `JSON`, `.html` into `.csv.` or `.txt` delimited text file, in which a `tab` separates each field of text.
 - `.pdf` : that has been OCR processed is accepted by some analysis tools. For older texts you might need to transcribe the text or clean the data as the .pdf may be an image of a scanned document.
