@@ -16,26 +16,23 @@ Interview data may be in audio or video format and require transcription. Corres
 
 Let's explore the different formats and preparation steps below.
 
-### Types of text data
-
+{% capture text %}
 *Speech to text* : this type of data can include audio or video recordings of surveys, focus groups, interviews, or observation videos.
 
 *Handwritten text* : can include personal letters, official correspondence, ships logs, diaries, ledgers, orginal manuscripts and drafts, scientific notes, annotations, field books, recipes, survey responses .
 
 *Printed (or typed) text* : includes typed versions of the handwritten text above, or books, journals, news articles, legislations, government reports, unpublished papers, official records, brochures, menus, and other primary source materials.
 
-*Digital text* : includes digital versions of printed text, or content in databases, digitised collections of published or primary sources, unpublished works, your own digital documents, webpage and social media content, language corpora, interview transcripts and survey results.
+*Digital text* : includes digital versions of printed text, or content in databases, digitised collections of published or primary sources, unpublished works, your own digital documents, webpage and social media content, language corpora, interview transcripts and survey results.{% endcapture %}{% include card.html header="Types of text data" text=text %}
 
-
-### How to prepare text data
-
+{% capture text %}
 *Speech to text* : manually transcribe or autogenerate the audio content and convert to .txt file format.
 
 *Handwritten text* : transcribe manually or via an automated processes and convert to .txt file format.
 
 *Printed text* : transcribe or digitise via a scanner then process into text via Optical Character Recognition (OCR).
 
-*Digital text* : extract from databases, files, websites and reformat files to .txt file format if required.
+*Digital text* : extract from databases, files, websites and reformat files to .txt file format if required.{% endcapture %}{% include card.html header="How to prepare text data" text=text %}
 
 
 ### Tools to prepare text data
