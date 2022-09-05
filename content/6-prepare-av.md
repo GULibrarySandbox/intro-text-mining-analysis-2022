@@ -16,9 +16,19 @@ If you are analysing the sounds from the audio or video, such as accents or pron
 
 ## Transcription 
 
-### Services for research data
-- Griffith [Speech to text service](https://www.griffith.edu.au/eresearch-services/speech-to-text) : uses the Microsoft Azure tools to transcribe the data. It is available to all researchers, is suitable for use with sensitive data and has associated costs.
-- [Alveo](https://www.alveo.edu.au/) : [transcription tool](https://www.alveo.edu.au/2018/04/11/alveo-transcription-tool/) is available to researchers in Australia. This tool was used extensively in the [SLNSW Amplify project](https://www.sl.nsw.gov.au/public-library-services/amplify-audio-transcription-tool). Requires an account.
+### Services for research data (including sensitive data)
+- Griffith [Speech to text service](https://www.griffith.edu.au/eresearch-services/speech-to-text) : uses the Microsoft Azure tools to transcribe the data. It is available to all Griffith researchers, is suitable for use with sensitive data and has associated costs.
+- Nvivo software [student access](https://www.griffith.edu.au/student-computing/available-software)  [staff access](https://intranet.secure.griffith.edu.au/computing/software) for automated transcription.
+
+Watch this video for an overview on the Nvivo transcription feature.
+
+{% include video-embed.html youtubeid="AES26-CdEn0" caption="Nvivo transcription demonstration video" %}
+
+- [Alveo](https://www.alveo.edu.au/) : Developed in Australia for researchers.  The software breaks up audio into segments by identifying breathing pauses and provides a structured format for manual transcription.  Griffith Education researchers have found it can reduce manual transcription time by up to 50%.
+
+Watch the video below for instructions on how to use Alveo.
+
+{% include video-embed.html youtubeid="ixQR-c4R0Ss" caption="Alveo transcription demonstration video" %}
 
 ### Services for public data
 - [YouTube](https://support.google.com/youtube/topic/9257536?hl=en&ref_topic=9257610) or [Vimeo](https://vimeo.com/blog/post/how-to-transcribe-a-video/) :  Both applications can generate text transcriptions of the audio and provide means and tools for corrections. 
