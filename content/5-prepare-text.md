@@ -32,6 +32,7 @@ Let's explore the different formats and preparation steps below.
 | transcribe the audio content | transcribe manually or via an automated processes | transcribe or digitise via a scanner then process into text via Optical Character Recognition (OCR) | reformat files to .txt |
 {:.table .table-bordered}
 
+
 ### Tools to prepare text data
 
 
@@ -62,7 +63,7 @@ The video below shows how to download and use [Transkribus](https://readcoop.eu/
 - MSWord, google docs or equivalent : for manual transcription without structure or metadata capture.{% endcapture %}{% include card.html header="Handwritten text - transcription tools" text=text %}
 
 {% capture text %}
-- High quality scanner with OCR functionality (or OCR processing after scanning) 
+- High quality scanner with OCR functionality (or OCR processing after scanning)
 - [Digital Camera](https://how-ocr-works.com/accuracy/snapshots.html)(followed by OCR processing) 
 {% endcapture %}{% include card.html header="Printed text - digitisation tools" text=text %}
 
@@ -73,34 +74,38 @@ Watch this video on how to install and use [gImageReader](https://github.com/man
 {% include video-embed.html youtubeid="GMAZtpWQF0U" caption="gImageReader OCR conversion video" %}
 
 - [Adobe Acrobat Pro DC](https://intranet.secure.griffith.edu.au/computing/software) (staff) OCR recognition
-- [OpenRefine](https://openrefine.org/) to create structure to text
-- [DigiVol](https://volunteer.ala.org.au/) for structured text 
+- [OpenRefine](https://openrefine.org/) to create structure from text.  Explore how to use OpenRefine with unstructured text in this Programming Historian [tutorial](https://programminghistorian.org/en/lessons/fetch-and-parse-data-with-openrefine).
+- [DigiVol](https://volunteer.ala.org.au/) for structured text
 - Google Docs can perform OCR on uploaded images and PDFs 
 {% endcapture %}{% include card.html header="Digital documents - text recognition and conversion tools" text=text %}
 
-
-### How to clean text after transcription and conversion
-
+{% capture text %}
 No preparation tool, including those above will create *perfect* text. 
 
 Errors will be generated in the transcription or conversion processes. You may need to manually review and clean the text, correcting OCR (Optical character recognition) of scanned images of pages, mis-interpretation of spoken words, and other transcription errors. 
 
 Programs such as Python can automate some cleaning processes. Read about this at [machinelearningmastery.com](https://machinelearningmastery.com/clean-text-machine-learning-python/). Some analysis programs such as Voyant tools will also clean text. More on this in the next lesson. 
-
-### Unstructured vs structured text and machine readibility
+{% endcapture %}{% include card.html header="How to clean text after transcription or conversion" text=text %}
 
 Humans understand that language, and the text that represents it, is highly complex and full of structure. However text is often described as unstructured, when it does not fit easily into a database, or is not easily processed by a computer. In the context of processing text with a computer:
 
 - Unstructured text may include text from narratives (books, articles etc.), interviews, survey responses with free text and more.  
-- Structured text can include metadata from GLAM catalogues or finding aides, text in structured databases, possibly spreadsheets, even old ledgers and logbooks. 
+- Structured text can include metadata from GLAM catalogues or finding aides, text in structured databases, possibly spreadsheets, even old ledgers and logbooks.
+- 
+{% include alert.html text="Unstructured vs structured text and machine readibility
 
-### Formating structured and unstructured text
+Humans understand that language, and the text that represents it, is highly complex and full of structure. However text is often described as unstructured, when it does not fit easily into a database, or is not easily processed by a computer. In the context of processing text with a computer:
 
+- Unstructured text may include text from narratives (books, articles etc.), interviews, survey responses with free text and more.  
+- Structured text can include metadata from GLAM catalogues or finding aides, text in structured databases, possibly spreadsheets, even old ledgers and logbooks." align="left" color="success" %}
+
+
+{% capture text %}
 All text documents need to be formatted for machine readability by software programs or code, let's look at the different formats for structured and unstructured text.
 - `.txt` : is the best format for unstructured text as it is non-proprietary & used in all text analysis tools. Unstructured text in file formats such as `.doc` , `.docx`, `.rtf` (rich text format) can be exported as `.txt` via Microsoft Word.
 - `.csv` : is the best format for structured text data in spreadsheets and can be read by tools such as Nvivo. Use Microsoft Excel to convert file formats such as `.xml`, `JSON`, `.html` into `.csv.` or `.txt` delimited text file, in which a `tab` separates each field of text.
 - `.pdf` : that has been OCR processed is accepted by some analysis tools. For older texts you might need to transcribe the text or clean the data as the .pdf may be an image of a scanned document.
-
+{% endcapture %}{% include card.html header="Formatting structured and unstructed text" text=text %}
 ------
 
 {% capture text %}
