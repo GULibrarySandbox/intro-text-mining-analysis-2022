@@ -34,7 +34,8 @@ Let's explore the different formats and preparation steps below.
 
 ### Tools to prepare text data
 
-*Speech to text* 
+
+{% capture text %}
 - Nvivo software [student access](https://www.griffith.edu.au/student-computing/available-software)  [staff access](https://intranet.secure.griffith.edu.au/computing/software) 
 
 Watch this video for an overview on the Nvivo transcription feature.
@@ -48,16 +49,17 @@ Watch this video for an overview on the Nvivo transcription feature.
 Watch the video below for instructions on how to use Alveo.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ixQR-c4R0Ss" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% endcapture %}{% include card.html header="Speech to text - transcription tools" text=text %}
 
-*Handwritten text*
+{% capture text %}
 - [Transkribus](https://readcoop.eu/transkribus/) 
-- [Google Vision AI](https://cloud.google.com/vision)
-- MS Word, google docs or equivalent
 
 The video below shows how to download and use [Transkribus](https://readcoop.eu/transkribus/) handwriting recognition tool.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uNlC2Nboow8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+- [Google Vision AI](https://cloud.google.com/vision)
+- MSWord, google docs or equivalent : for manual transcription without structure or metadata capture.{% endcapture %}{% include card.html header="Handwritten text - transcription tools" text=text %}
 
 *Printed text* 
 High quality scanner (then OCR processing)
