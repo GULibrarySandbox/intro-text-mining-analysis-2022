@@ -19,30 +19,38 @@ Let's explore the different formats and preparation steps below.
 ### Types of text data
 
 *Speech to text : audiovisual data*
+
 This type of text as data can include audio or video recordings of surveys, focus groups, interviews, or observation videos...
 
 *Handwritten text* 
+
 Can include personal letters, official correspondence, ships logs, diaries, ledgers, orginal manuscripts and drafts, scientific notes, annotations, field books, recipes, survey responses ....
 
 *Printed (or typed) text*
+
 Could include typed versions of the handwritten text above, or books, journals, news articles, legislations, government reports, unpublished papers, official records, brochures, menus, and other primary source materials....
 
 *Digital text*
+
 Can include digital versions of printed text include content in online databases & digital collections of published or primary sources, unpublished works, your own digital documents, webpage and social media content, language corpora, interview transcripts and survey results
 
 
 ### How to prepare text data
 
 *Speech to text*
+
 Manually transcribe or autogenerate the audio content and convert to .txt file format.
 
 *Handwritten text* 
+
 Transcribe manually or via an automated processes and convert to .txt file format.
 
 *Printed text* 
+
 Transcribe or digitise via a scanner then process into text via Optical Character Recognition (OCR)
 
 *Digital text* 
+
 Extract from database, files, website and reformat files to .txt file format if required.
 
 
