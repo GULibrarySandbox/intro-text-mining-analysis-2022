@@ -42,6 +42,8 @@ Watch this video for an overview on the Nvivo transcription feature.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AES26-CdEn0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+{% raw %}{% include video-embed.html youtubeid="AES26-CdEn0" caption="Nvivo transcription demonstration video" %}{% endraw %}
+
 - [Microsoft Office 365](https://support.microsoft.com/en-us/office/transcribe-your-recordings-7fc2efec-245e-45f0-b053-2a97531ecf57)
 - [Griffith's Speech to text service](https://www.griffith.edu.au/eresearch-services/speech-to-text) note this service has assoicate charges.
 - [Alveo](https://www.alveo.edu.au/) : Developed in Australia for researchers.  The software breaks up audio into segments by identifying breathing pauses and provides a structured format for manual transcription.  Griffith Education researchers have found it can reduce manual transcription time by up to 50%.
