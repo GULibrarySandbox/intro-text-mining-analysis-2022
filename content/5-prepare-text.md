@@ -36,13 +36,14 @@ Let's explore the different formats and preparation steps below.
 
 
 {% capture text %}
-- Nvivo software [student access](https://www.griffith.edu.au/student-computing/available-software)  [staff access](https://intranet.secure.griffith.edu.au/computing/software) 
+- Nvivo software [student access](https://www.griffith.edu.au/student-computing/available-software)  [staff access](https://intranet.secure.griffith.edu.au/computing/software) for automated transcription.
+- 
 Watch this video for an overview on the Nvivo transcription feature.
 
 {% include video-embed.html youtubeid="AES26-CdEn0" caption="Nvivo transcription demonstration video" %}
 
 - [Microsoft Office 365](https://support.microsoft.com/en-us/office/transcribe-your-recordings-7fc2efec-245e-45f0-b053-2a97531ecf57)
-- [Griffith's Speech to text service](https://www.griffith.edu.au/eresearch-services/speech-to-text) note this service has assoicate charges.
+- [Griffith's Speech to text service](https://www.griffith.edu.au/eresearch-services/speech-to-text) for automated transcription. Note this service has associated charges.
 - [Alveo](https://www.alveo.edu.au/) : Developed in Australia for researchers.  The software breaks up audio into segments by identifying breathing pauses and provides a structured format for manual transcription.  Griffith Education researchers have found it can reduce manual transcription time by up to 50%.
 
 Watch the video below for instructions on how to use Alveo.
@@ -53,7 +54,7 @@ Watch the video below for instructions on how to use Alveo.
 
 {% capture text %}
 - [Transkribus](https://readcoop.eu/transkribus/) 
-The video below shows how to download and use [Transkribus](https://readcoop.eu/transkribus/) handwriting recognition tool.
+The video below shows how to download and use [Transkribus](https://readcoop.eu/transkribus/) handwriting recognition tool. Free to use for manual transcription and 500 credits provided to use AI models for automated transcription of different types of handwriting. Research candidates can apply for further credits.
 
 {% include video-embed.html youtubeid="uNlC2Nboow8" caption="Transkribus handwriting transcription video" %}
 
