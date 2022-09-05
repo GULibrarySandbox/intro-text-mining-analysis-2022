@@ -34,28 +34,59 @@ Let's explore the different formats and preparation steps below.
 
 ### Tools to prepare text data
 
-| *Speech to text* | *Handwritten text* | *Printed text* | *Digital text* |
-| Nvivo software [student access](https://www.griffith.edu.au/student-computing/available-software)  [staff access](https://intranet.secure.griffith.edu.au/computing/software) | [Transkribus](https://readcoop.eu/transkribus/) | High quality scanner (then OCR processing) | [OpenRefine](https://openrefine.org/) to create structure to text |
-| [Microsoft Office 365](https://support.microsoft.com/en-us/office/transcribe-your-recordings-7fc2efec-245e-45f0-b053-2a97531ecf57)| [Google Vision AI](https://cloud.google.com/vision) | Digital Camera (then OCR processing) | [gImageReader](https://github.com/manisandro/gImageReader#readme) (students) open source OCR processor for pdfs and images |
-| [Griffith's Speech to text service](https://www.griffith.edu.au/eresearch-services/speech-to-text) | MS Word, google docs or equivalent | | [Adobe Acrobat Pro DC](https://intranet.secure.griffith.edu.au/computing/software) (staff) OCR recognition |
-|[Alveo](https://www.alveo.edu.au/)| | | [DigiVol](https://volunteer.ala.org.au/) for structured text 
-{:.table .table-bordered}
+*Speech to text* 
+- Nvivo software [student access](https://www.griffith.edu.au/student-computing/available-software)  [staff access](https://intranet.secure.griffith.edu.au/computing/software) 
 
-Watch this video on how to install and use [gImageReader](https://github.com/manisandro/gImageReader#readme) to convert an image to text. In this example both Korean and English language in a pdf file are tested for conversion to text. 
+Watch this video for an overview on the Nvivo transcription feature.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GMAZtpWQF0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AES26-CdEn0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- [Microsoft Office 365](https://support.microsoft.com/en-us/office/transcribe-your-recordings-7fc2efec-245e-45f0-b053-2a97531ecf57)
+- [Griffith's Speech to text service](https://www.griffith.edu.au/eresearch-services/speech-to-text) note this service has assoicate charges.
+- [Alveo](https://www.alveo.edu.au/) : Developed in Australia for researchers.  The software breaks up audio into segments by identifying breathing pauses and provides a structured format for manual transcription.  Griffith Education researchers have found it can reduce manual transcription time by up to 50%.
+
+Watch the video below for instructions on how to use Alveo.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ixQR-c4R0Ss" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*Handwritten text*
+- [Transkribus](https://readcoop.eu/transkribus/) 
+- [Google Vision AI](https://cloud.google.com/vision)
+- MS Word, google docs or equivalent
 
 The video below shows how to download and use [Transkribus](https://readcoop.eu/transkribus/) handwriting recognition tool.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uNlC2Nboow8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+*Printed text* 
+High quality scanner (then OCR processing)
+Digital Camera (then OCR processing)
+
+
+*Digital text* 
+- [gImageReader](https://github.com/manisandro/gImageReader#readme) (students) open source OCR processor for pdfs and images of text.
+
+Watch this video on how to install and use [gImageReader](https://github.com/manisandro/gImageReader#readme) to convert an image to text. In this example both Korean and English language in a pdf file are tested for conversion to text. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GMAZtpWQF0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- [Adobe Acrobat Pro DC](https://intranet.secure.griffith.edu.au/computing/software) (staff) OCR recognition
+- [OpenRefine](https://openrefine.org/) to create structure to text
+- [DigiVol](https://volunteer.ala.org.au/) for structured text 
+
+
 ### How to clean text
 
-No preparation tool will create perfect text.  Errors will be generated in the transcription or conversion processes. You may need to manually review and clean the text, correcting OCR (Optical character recognition) of scanned images of pages, mis-interpretation of spoken words, and other transcription errors. Programs such as Python can automate some cleaning processes. Read about this at [machinelearningmastery.com](https://machinelearningmastery.com/clean-text-machine-learning-python/). Some analysis programs such as Voyant tools will also clean text. More on this in the next lesson. 
+No preparation tool, including those above will create *perfect* text. 
+
+Errors will be generated in the transcription or conversion processes. You may need to manually review and clean the text, correcting OCR (Optical character recognition) of scanned images of pages, mis-interpretation of spoken words, and other transcription errors. 
+
+Programs such as Python can automate some cleaning processes. Read about this at [machinelearningmastery.com](https://machinelearningmastery.com/clean-text-machine-learning-python/). Some analysis programs such as Voyant tools will also clean text. More on this in the next lesson. 
 
 ### Unstructured vs structured text and machine readibility
 
-Humans understand that language, and the text that represents it, is highly complex and full of structure. However text is often described as unstructured, when it does not fit easily into a database, or is not easily processed by a computer. 
+Humans understand that language, and the text that represents it, is highly complex and full of structure. However text is often described as unstructured, when it does not fit easily into a database, or is not easily processed by a computer. In the context of processing text with a computer:
 
 - Unstructured text may include text from narratives (books, articles etc.), interviews, survey responses with free text and more.  
 - Structured text can include metadata from GLAM catalogues or finding aides, text in structured databases, possibly spreadsheets, even old ledgers and logbooks. 
