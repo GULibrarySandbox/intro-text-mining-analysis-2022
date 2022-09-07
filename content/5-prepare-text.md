@@ -26,6 +26,10 @@ Let's explore the different formats and preparation steps below.
 *Digital text* : includes digital versions of printed text, or content in databases, digitised collections of published or primary sources, unpublished works, your own digital documents, webpage and social media content, language corpora, interview transcripts and survey results.{% endcapture %}{% include card.html header="Types of text data" text=text %}
 
 {% capture text %}
+*Formatting text data* : There is a variety of tools we can use to reformat our text data. For many materials we can simply use the 'save as' functions in MSword to change .doc or .rtf files to .txt and similarly we can reformat .xls files to .txt or .csv in excel. Where this is not an option we can use tools like [Pandoc](https://pandoc.org) to easily change materail formats. we will explore other tools and process thoughout the guide. 
+{% endcapture %}{% include card.html header="Types of text data" text=text %}
+
+{% capture text %}
 *Speech to text* : manually transcribe or autogenerate the audio content and convert to .txt file format.
 
 *Handwritten text* : transcribe manually or via an automated processes and convert to .txt file format.
