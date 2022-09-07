@@ -63,6 +63,9 @@ Watch this video on how to install and use [gImageReader](https://github.com/man
 
 {% include video-embed.html youtubeid="GMAZtpWQF0U" caption="gImageReader OCR conversion video" %}
 
+
+### Other tools to assist in transcription of images to text
+
 - [Adobe Acrobat Pro DC](https://intranet.secure.griffith.edu.au/computing/software) (staff) OCR recognition.
 - [OpenRefine](https://openrefine.org/) to create structure from text.  Explore how to use OpenRefine with unstructured text in this Programming Historian [tutorial](https://programminghistorian.org/en/lessons/fetch-and-parse-data-with-openrefine).
 - [DigiVol](https://volunteer.ala.org.au/) for structured text.
