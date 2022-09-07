@@ -6,7 +6,7 @@ nav: true
 
 # Prepare and format
 
-Preparing and formating your data makes it consistent and machine readable for analysis. This process differs depending on the types and formats of files you are working with.  
+Preparing and formating your data makes it consistent and machine readable for analysis. This process differs depending on the types and formats of files you are working with. For full functional analysis your corpus documents will need to all be in the same format. This section will show the processes and tools available to help create your analysable corpus. 
 {% include figure.html img="Textformats1.jpg" alt="Text as data formats, Speech to text, Handwritten text, Printed text, Digital text" caption="Different text as data formats that need processing" width="100%" %}
 ## Preparation steps
 
