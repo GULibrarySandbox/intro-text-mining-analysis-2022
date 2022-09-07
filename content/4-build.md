@@ -6,7 +6,7 @@ nav: true
 
 # Building a dataset
 
-A dataset can be built either by finding and extracting existing text data, collating multiple resources or generating your own data from surveys, interviews or other investigations. Building a dataset can be as simple as collecting PDFs from your literature search, or as complex as finding then transcribing handwritten texts and converting them into a computational format. In humanities research your dataset may also be known as a corpus and through out this guide the terms are used interchangably. 
+A dataset can be built either by finding and extracting existing text data, collating multiple resources or generating your own data from surveys, interviews or other investigations. Building a dataset can be as simple as collecting PDFs from your literature search, or as complex as finding then transcribing handwritten texts and converting them into a computational format. In humanities research your dataset may also be known as a corpus and through out this guide the terms are used interchangeably. 
 
 If you are not creating your own data the first step is to find the dataset or corpus of interest.
 
