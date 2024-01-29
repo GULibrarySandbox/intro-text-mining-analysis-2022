@@ -41,7 +41,7 @@ It is assumed that you have the following level of understanding:
 
 ## License
 
-All materials in these lessons are licensed [CC BY](https://creativecommons.org/licenses/by/4.0/).
+All materials in these lessons are licensed [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/).
 
 {% endcapture %}
 
