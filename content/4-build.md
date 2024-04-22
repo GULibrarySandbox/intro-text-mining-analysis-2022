@@ -52,7 +52,7 @@ Using a supplied API is the easiest way to collect metadata sets (data about the
 - [Assoc Prof Tim Sherrat's Australian GLAM data & API list](https://glam-workbench.net/glam-data-list/)
 - [State Library of Queensland's open datasets API](https://www.slq.qld.gov.au/get-involved/open-data/open-datasets-released-state-library)
 - [QLD Open Data Portal API](https://www.data.qld.gov.au/article/standards-and-guidance/publishing-guides-standards/api-user-guide)
-- [Twitter's Academic Research Access API](https://developer.twitter.com/en/products/twitter-api/academic-research)
+- [X's formerly known as Twitter - Academic Research Access API](https://developer.twitter.com/en/use-cases/do-research/academic-research)
 - [JSTOR API for texting mining](https://about-jstor-org.libraryproxy.griffith.edu.au/whats-in-jstor/text-mining-support/)
 
 
