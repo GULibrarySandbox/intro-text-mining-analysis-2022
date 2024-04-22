@@ -140,17 +140,13 @@ In addition to the analysis tools, the following can be used to create visualisa
 - [TRAViz](http://www.traviz.vizcovery.org/index.html) : generates visualizations for Text Variant Graphs to show the variations between different editions of texts.
 - [TagPies Online](https://tagpies-online.vizcovery.org/) : visualise comparisons of classical terminology in texts. 
 
-{% capture text %}
-Visualise the text from a series of research articles from *The Conversation* using [Voyant tools](https://griffithunilibrary.github.io/data-vis-basics/content/5-voyant.html).
-{% endcapture %} {% include card.html header="Activity - visualise text from a collection of articles" text=text %}
-
 ----
 
 ## Create a publication quality image of your visualisation
 
 Once you have visualised your text analysis results, they will need to be formatted for publication submission. 
 
-Explore the simplest tools and methods to convert visualisations into publication quality images in these [lessons](https://griffithunilibrary.github.io/data-vis-basics/content/4-convert.html).
+Explore the simplest [tools and methods](https://www.griffith.edu.au/library/research-publishing/working-with-data/process-and-analyse) to convert visualisations into publication quality images.
 
 -----
 
