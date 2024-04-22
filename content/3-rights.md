@@ -45,7 +45,7 @@ If you've already gained consent from your subjects and then want to do somethin
 
 ### What are my obligations?
 
-Chapter 3.1, Element 4 of the National Statement on the [Ethical Conduct in Human Research](https://www.nhmrc.gov.au/about-us/publications/national-statement-ethical-conduct-human-research-2007-updated-2018) describes the ethical standards relating to the collection, use and management of data in human research.
+Chapter 3.1, Element 4 of the National Statement on the [Ethical Conduct in Human Research](https://www.nhmrc.gov.au/about-us/publications/national-statement-ethical-conduct-human-research-2023) describes the ethical standards relating to the collection, use and management of data in human research.
 
 Griffith publishes a [Guide for Managing Your Research Data](https://www.griffith.edu.au/__data/assets/pdf_file/0025/1233907/20210107-Guide-to-managing-research-data.pdf) that outlines the considerations involved in preparing a Data Management Plan. Having this information ready will help you to explain your research to your participants.
 
