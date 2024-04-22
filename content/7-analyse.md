@@ -63,7 +63,7 @@ Explore some common computational text analysis methods.
 {:.table .table-bordered}
 
 Learn more about these methods from:
-- [Australian Text Analytics Platform Methods Guide](https://www.atap.edu.au/methods)
+- [Australian Text Analytics Platform Methods Guide](https://www.atap.edu.au/text-analysis/methods/)
 - [An Introduction to Text Mining: Research Design, Data Collection, and Analysis ebook](https://methods.sagepub.com/book/an-introduction-to-text-mining/i1237.xml)
 - Prof. Miriam Possner's [Topic Modelling online tutorials](http://miriamposner.com/classes/dh201w21/tutorials-guides/text-analysis/messing-around-with-the-topic-modeling-tool/)
 - [Demystifying Networks](http://www.scottbot.net/HIAL/index.html@p=6279.html) an introduction for HASS scholars.
